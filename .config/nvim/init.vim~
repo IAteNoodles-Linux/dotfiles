@@ -17,7 +17,7 @@ if v:progname =~? "evim"
 endif
 
 " Get the defaults that most users want.
-source $VIMRUNTIME/defaults.vim
+" source $VIMRUNTIME/defaults.vim
 
 if has("vms")
   set nobackup		" do not keep a backup file, use versions instead
@@ -58,6 +58,8 @@ Plug 'SirVer/ultisnips'
 Plug 'vim-airline/vim-airline'
 Plug 'NLKNguyen/papercolor-theme'
 Plug 'ryanoasis/vim-devicons'
+Plug 'neovim/nvim-lspconfig'
+Plug 'williamboman/nvim-lsp-installer'
 call plug#end()
 
 "Setting up line numbering"
@@ -85,8 +87,18 @@ set encoding=utf-8
 set guifont=FiraCode\ Nerd\ Font\ Mono\ for\ Powerline:h12
 
 "Setting up colorscheme"
+set background=dark
+colorscheme PaperColor
+let g:PaperColor_Theme_Options = {
+  \   'theme': {
+  \     'default.dark': {
+  \       'transparent_background': 1
+  \     }
+  \   }
+  \ }
 "Having some issues with it"
 
 "Setting up Python Syntax Highling"
 let g:python_highlight_all = 1
 let g:python_highlight_builtins = 1
+
