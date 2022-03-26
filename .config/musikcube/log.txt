@@ -1,63 +1,65 @@
-23:21:42 [info] [LOG SESSION] ---------- START ----------
-23:21:42 [info] [PluginFactory] loading plugins
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
-23:21:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-23:21:42 [info] [Indexer] indexer source -1303229654 running...
-23:21:42 [info] [Indexer] indexer source -1303229654 finished
-23:21:42 [info] [Indexer] indexer source 155697690 running...
-23:21:42 [info] [Indexer] indexer source 155697690 finished
-23:21:42 [info] [Indexer] scanning /home/nuub/Downloads/
-23:21:42 [info] [Indexer] scan completed successfully
-23:21:42 [info] [Indexer] cleanup 1/2
-23:21:42 [info] [Indexer] cleanup 2/2
-23:21:42 [info] [Indexer] optimizing
-23:21:42 [info] [Indexer] done!
-23:21:42 [info] [GaplessTransport] starting track at /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:21:42 [info] [Player] new instance created
-23:21:42 [info] [GaplessTransport] stop
-23:21:42 [info] [Stream] opening /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:21:42 [info] [LocalFileStream] opening file: /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:21:42 [info] [ffmpegdecoder] parsing data stream...
-23:21:42 [info] [ffmpegdecoder] found audio stream!
-23:21:42 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-23:21:42 [info] [Streams] found a decoder for /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:21:42 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-23:21:43 [info] [GaplessTransport] starting track at /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:21:43 [info] [Player] new instance created
-23:21:43 [info] [GaplessTransport] stop
-23:21:43 [info] [Stream] opening /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:21:43 [info] [LocalFileStream] opening file: /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:21:43 [info] [ffmpegdecoder] parsing data stream...
-23:21:43 [info] [ffmpegdecoder] found audio stream!
-23:21:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-23:21:43 [info] [Streams] found a decoder for /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:21:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-23:21:44 [info] [Player] new instance created
-23:21:44 [info] [Stream] opening /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:21:44 [info] [LocalFileStream] opening file: /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:21:44 [info] [ffmpegdecoder] parsing data stream...
-23:21:44 [info] [ffmpegdecoder] found audio stream!
-23:21:44 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-23:21:44 [info] [Streams] found a decoder for /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:21:44 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-23:25:40 [info] [ffmpegdecoder] finished decoding.
-23:25:43 [info] [GaplessTransport] stop
-23:25:43 [info] [Player] new instance created
-23:25:43 [info] [Stream] opening /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:25:43 [info] [LocalFileStream] opening file: /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:25:43 [info] [ffmpegdecoder] parsing data stream...
-23:25:43 [info] [ffmpegdecoder] found audio stream!
-23:25:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-23:25:43 [info] [Streams] found a decoder for /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
-23:25:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-23:29:34 [info] [GaplessTransport] stop
+00:52:49 [info] [LOG SESSION] ---------- START ----------
+00:52:49 [info] [PluginFactory] loading plugins
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
+00:52:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+00:52:49 [info] [Indexer] indexer source -1303229654 running...
+00:52:49 [info] [Indexer] indexer source -1303229654 finished
+00:52:49 [info] [Indexer] indexer source 155697690 running...
+00:52:49 [info] [GaplessTransport] starting track at /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
+00:52:49 [info] [Player] new instance created
+00:52:49 [info] [GaplessTransport] stop
+00:52:49 [info] [Stream] opening /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
+00:52:49 [info] [LocalFileStream] opening file: /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
+00:52:49 [info] [ffmpegdecoder] parsing data stream...
+00:52:49 [info] [ffmpegdecoder] found audio stream!
+00:52:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+00:52:49 [info] [Streams] found a decoder for /home/nuub/Downloads/Dafa Kar Heropanti 2 320 Kbps.mp3
+00:52:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:52:49 [info] [Indexer] indexer source 155697690 finished
+00:52:49 [info] [Indexer] scanning /home/nuub/Downloads/
+00:52:49 [info] [Indexer] scan completed successfully
+00:52:49 [info] [Indexer] cleanup 1/2
+00:52:49 [info] [Indexer] cleanup 2/2
+00:52:49 [info] [Indexer] optimizing
+00:52:49 [info] [Indexer] done!
+00:52:56 [info] [Indexer] indexer source -1303229654 running...
+00:52:56 [info] [Indexer] indexer source -1303229654 finished
+00:52:56 [info] [Indexer] indexer source 155697690 running...
+00:52:56 [info] [Indexer] indexer source 155697690 finished
+00:52:56 [info] [Indexer] scan completed successfully
+00:52:56 [info] [Indexer] cleanup 1/2
+00:52:56 [info] [Indexer] cleanup 2/2
+00:52:56 [info] [Indexer] optimizing
+00:52:56 [info] [Indexer] done!
+00:53:03 [info] [Indexer] indexer source -1303229654 running...
+00:53:03 [info] [Indexer] indexer source -1303229654 finished
+00:53:03 [info] [Indexer] indexer source 155697690 running...
+00:53:03 [info] [Indexer] indexer source 155697690 finished
+00:53:03 [info] [Indexer] scanning /home/nuub/Music/
+00:53:03 [info] [Indexer] scan completed successfully
+00:53:03 [info] [Indexer] cleanup 1/2
+00:53:03 [info] [Indexer] cleanup 2/2
+00:53:03 [info] [Indexer] optimizing
+00:53:03 [info] [Indexer] done!
+00:53:08 [info] [Indexer] indexer source -1303229654 running...
+00:53:08 [info] [Indexer] indexer source -1303229654 finished
+00:53:08 [info] [Indexer] indexer source 155697690 running...
+00:53:08 [info] [Indexer] indexer source 155697690 finished
+00:53:08 [info] [Indexer] scanning /home/nuub/Music/
+00:53:08 [info] [Indexer] scanning /home/nuub/Songs/
+00:53:08 [info] [Indexer] scan completed successfully
+00:53:08 [info] [Indexer] cleanup 1/2
+00:53:08 [info] [Indexer] cleanup 2/2
+00:53:08 [info] [Indexer] optimizing
+00:53:08 [info] [Indexer] done!
+00:55:04 [info] [GaplessTransport] stop
