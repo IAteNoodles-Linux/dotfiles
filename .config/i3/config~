@@ -483,7 +483,7 @@ for_window [all] title_window_icon on
 
 # Toggle between hide state and show state
 bindsym $mod+m bar hidden_state toggle
-bindsym $mod+m gaps bottom 10 
+ 
 
 # Toggle between dock mode and hide mode
 bindsym $mod+n bar mode toggle
