@@ -101,4 +101,6 @@ let g:PaperColor_Theme_Options = {
 "Setting up Python Syntax Highling"
 let g:python_highlight_all = 1
 let g:python_highlight_builtins = 1
+set grepprg=grep\ -nH\ $*
+let g:tex_flavor = "latex"
 
