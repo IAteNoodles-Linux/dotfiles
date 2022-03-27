@@ -472,7 +472,7 @@ exec_always --no-startup-id lxqt-policykit-agent
 
 # Switching the wallpaper
 
-bindsym Mod1+w exec sh ~/Scripts/wallpapers_script.sh
+bindsym Mod1+Shift+w exec sh ~/Scripts/wallpapers_script.sh
 
 # Dealing with popups
 popup_during_fullscreen smart
