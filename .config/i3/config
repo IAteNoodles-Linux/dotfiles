@@ -470,7 +470,7 @@ exec --no-startup-id dunst -config $HOME/.config/dunstrc
 # Starting up polkit agent
 exec_always --no-startup-id lxqt-policykit-agent
 
-# Enabling tapping into the touchpad. Device id is 13, with a script.
+# Changing the settings of the touchpad. Device id is 13, with a script.
 exec_always --no-startup-id exec sh ~/Scripts/Touchpad.sh
 
 # Switching the wallpaper
