@@ -1,26 +1,169 @@
-02:53:07 [info] [LOG SESSION] ---------- START ----------
-02:53:07 [info] [PluginFactory] loading plugins
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
-02:53:07 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-02:53:07 [info] [Indexer] indexer source -1303229654 running...
-02:53:07 [info] [Indexer] indexer source -1303229654 finished
-02:53:07 [info] [Indexer] indexer source 155697690 running...
-02:53:07 [info] [Indexer] indexer source 155697690 finished
-02:53:07 [info] [Indexer] scanning /home/nuub/Music/
-02:53:07 [info] [Indexer] scanning /home/nuub/Songs/
-02:53:07 [info] [Indexer] scan completed successfully
-02:53:07 [info] [Indexer] cleanup 1/2
-02:53:07 [info] [Indexer] cleanup 2/2
-02:53:07 [info] [Indexer] optimizing
-02:53:07 [info] [Indexer] done!
-02:53:22 [info] [GaplessTransport] stop
+21:09:50 [info] [LOG SESSION] ---------- START ----------
+21:09:50 [info] [PluginFactory] loading plugins
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
+21:09:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+21:09:50 [info] [Indexer] indexer source -1303229654 running...
+21:09:50 [info] [Indexer] indexer source -1303229654 finished
+21:09:50 [info] [Indexer] indexer source 155697690 running...
+21:09:50 [info] [Indexer] indexer source 155697690 finished
+21:09:50 [info] [Indexer] scanning /home/nuub/Music/
+21:09:50 [info] [Indexer] scanning /home/nuub/Songs/
+21:09:50 [info] [Indexer] scan completed successfully
+21:09:50 [info] [Indexer] cleanup 1/2
+21:09:50 [info] [Indexer] cleanup 2/2
+21:09:50 [info] [Indexer] optimizing
+21:09:50 [info] [Indexer] done!
+21:10:06 [info] [GaplessTransport] starting track at /home/nuub/Songs/GODA/고다 애니웨어 _ 진격의 거인/06 attack音D.m4a
+21:10:06 [info] [Player] new instance created
+21:10:06 [info] [GaplessTransport] stop
+21:10:06 [info] [Stream] opening /home/nuub/Songs/GODA/고다 애니웨어 _ 진격의 거인/06 attack音D.m4a
+21:10:06 [info] [LocalFileStream] opening file: /home/nuub/Songs/GODA/고다 애니웨어 _ 진격의 거인/06 attack音D.m4a
+21:10:06 [info] [ffmpegdecoder] parsing data stream...
+21:10:06 [info] [ffmpegdecoder] found audio stream!
+21:10:06 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:10:06 [info] [Streams] found a decoder for /home/nuub/Songs/GODA/고다 애니웨어 _ 진격의 거인/06 attack音D.m4a
+21:10:07 [info] [Player] new instance created
+21:10:07 [info] [Stream] opening /home/nuub/Songs/GODA/고다 애니웨어 _ 진격의 거인/06 attack音D.m4a
+21:10:07 [info] [LocalFileStream] opening file: /home/nuub/Songs/GODA/고다 애니웨어 _ 진격의 거인/06 attack音D.m4a
+21:10:07 [info] [ffmpegdecoder] parsing data stream...
+21:10:07 [info] [ffmpegdecoder] found audio stream!
+21:10:07 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:10:07 [info] [Streams] found a decoder for /home/nuub/Songs/GODA/고다 애니웨어 _ 진격의 거인/06 attack音D.m4a
+21:10:09 [info] [GaplessTransport] pause
+21:10:50 [info] [GaplessTransport] pause
+21:10:52 [info] [GaplessTransport] starting track at /home/nuub/Songs/nonoc/TVアニメ「Re_ゼロから始める異世界生活」2nd season 後期エンディングテーマ「Believe in you」/01 Believe in you.m4a
+21:10:52 [info] [Player] new instance created
+21:10:52 [info] [Stream] opening /home/nuub/Songs/nonoc/TVアニメ「Re_ゼロから始める異世界生活」2nd season 後期エンディングテーマ「Believe in you」/01 Believe in you.m4a
+21:10:52 [info] [LocalFileStream] opening file: /home/nuub/Songs/nonoc/TVアニメ「Re_ゼロから始める異世界生活」2nd season 後期エンディングテーマ「Believe in you」/01 Believe in you.m4a
+21:10:52 [info] [GaplessTransport] stop
+21:10:52 [info] [ffmpegdecoder] parsing data stream...
+21:10:52 [info] [ffmpegdecoder] found audio stream!
+21:10:52 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:10:52 [info] [Streams] found a decoder for /home/nuub/Songs/nonoc/TVアニメ「Re_ゼロから始める異世界生活」2nd season 後期エンディングテーマ「Believe in you」/01 Believe in you.m4a
+21:10:52 [info] [Player] new instance created
+21:10:52 [info] [Stream] opening /home/nuub/Songs/nonoc/TVアニメ「Re_ゼロから始める異世界生活」2nd season 後期エンディングテーマ「Believe in you」/01 Believe in you.m4a
+21:10:52 [info] [LocalFileStream] opening file: /home/nuub/Songs/nonoc/TVアニメ「Re_ゼロから始める異世界生活」2nd season 後期エンディングテーマ「Believe in you」/01 Believe in you.m4a
+21:10:52 [info] [ffmpegdecoder] parsing data stream...
+21:10:52 [info] [ffmpegdecoder] found audio stream!
+21:10:52 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:10:52 [info] [Streams] found a decoder for /home/nuub/Songs/nonoc/TVアニメ「Re_ゼロから始める異世界生活」2nd season 後期エンディングテーマ「Believe in you」/01 Believe in you.m4a
+21:10:52 [info] [GaplessTransport] pause
+21:10:53 [info] [GaplessTransport] resume
+21:11:22 [info] [GaplessTransport] starting track at /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:11:22 [info] [Player] new instance created
+21:11:22 [info] [GaplessTransport] stop
+21:11:22 [info] [Stream] opening /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:11:22 [info] [LocalFileStream] opening file: /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:11:22 [info] [ffmpegdecoder] parsing data stream...
+21:11:22 [info] [ffmpegdecoder] found audio stream!
+21:11:22 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:11:22 [info] [Streams] found a decoder for /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:11:23 [info] [Player] new instance created
+21:11:23 [info] [Stream] opening /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:11:23 [info] [LocalFileStream] opening file: /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:11:23 [info] [ffmpegdecoder] parsing data stream...
+21:11:23 [info] [ffmpegdecoder] found audio stream!
+21:11:23 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:11:23 [info] [Streams] found a decoder for /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:13:18 [info] [ffmpegdecoder] finished decoding.
+21:13:21 [info] [GaplessTransport] stop
+21:13:21 [info] [Player] new instance created
+21:13:21 [info] [Stream] opening /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:13:21 [info] [LocalFileStream] opening file: /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:13:21 [info] [ffmpegdecoder] parsing data stream...
+21:13:21 [info] [ffmpegdecoder] found audio stream!
+21:13:21 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:13:21 [info] [Streams] found a decoder for /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:13:51 [info] [Player] new instance created
+21:13:51 [info] [Stream] opening /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:13:51 [info] [LocalFileStream] opening file: /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:13:51 [info] [ffmpegdecoder] parsing data stream...
+21:13:51 [info] [ffmpegdecoder] found audio stream!
+21:13:51 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:13:51 [info] [Streams] found a decoder for /home/nuub/Songs/Rainych/Tiny Little Adiantum - Omae wa Mou/01 Tiny Little Adiantum - Omae wa Mou.m4a
+21:13:55 [info] [GaplessTransport] pause
+21:14:31 [info] [GaplessTransport] resume
+21:14:40 [info] [GaplessTransport] starting track at /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:14:40 [info] [Player] new instance created
+21:14:40 [info] [GaplessTransport] stop
+21:14:40 [info] [Stream] opening /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:14:40 [info] [LocalFileStream] opening file: /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:14:40 [info] [ffmpegdecoder] parsing data stream...
+21:14:40 [info] [ffmpegdecoder] found audio stream!
+21:14:40 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:14:40 [info] [Streams] found a decoder for /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:14:41 [info] [Player] new instance created
+21:14:41 [info] [Stream] opening /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:14:41 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:14:41 [info] [ffmpegdecoder] parsing data stream...
+21:14:41 [info] [ffmpegdecoder] found audio stream!
+21:14:41 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:14:41 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:14:48 [info] [GaplessTransport] starting track at /home/nuub/Songs/GODA/고다 애니웨어 _ 진격의 거인/06 attack音D.m4a
+21:14:48 [info] [Player] new instance created
+21:14:48 [info] [GaplessTransport] stop
+21:14:48 [info] [Stream] opening /home/nuub/Songs/GODA/고다 애니웨어 _ 진격의 거인/06 attack音D.m4a
+21:14:48 [info] [LocalFileStream] opening file: /home/nuub/Songs/GODA/고다 애니웨어 _ 진격의 거인/06 attack音D.m4a
+21:14:48 [info] [ffmpegdecoder] parsing data stream...
+21:14:48 [info] [ffmpegdecoder] found audio stream!
+21:14:48 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:14:48 [info] [Streams] found a decoder for /home/nuub/Songs/GODA/고다 애니웨어 _ 진격의 거인/06 attack音D.m4a
+21:14:48 [info] [Player] new instance created
+21:14:48 [info] [Stream] opening /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:14:48 [info] [LocalFileStream] opening file: /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:14:48 [info] [ffmpegdecoder] parsing data stream...
+21:14:48 [info] [ffmpegdecoder] found audio stream!
+21:14:48 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:14:48 [info] [Streams] found a decoder for /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:14:54 [info] [GaplessTransport] starting track at /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:54 [info] [Player] new instance created
+21:14:54 [info] [GaplessTransport] stop
+21:14:54 [info] [Stream] opening /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:54 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:54 [info] [ffmpegdecoder] parsing data stream...
+21:14:54 [info] [ffmpegdecoder] found audio stream!
+21:14:54 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:14:54 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:54 [info] [GaplessTransport] starting track at /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:54 [info] [Player] new instance created
+21:14:54 [info] [GaplessTransport] stop
+21:14:54 [info] [Stream] opening /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:54 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:54 [info] [ffmpegdecoder] parsing data stream...
+21:14:54 [info] [ffmpegdecoder] found audio stream!
+21:14:54 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:14:54 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:55 [info] [Player] new instance created
+21:14:55 [info] [Stream] opening /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
+21:14:55 [info] [LocalFileStream] opening file: /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
+21:14:55 [info] [ffmpegdecoder] parsing data stream...
+21:14:55 [info] [ffmpegdecoder] found audio stream!
+21:14:55 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:14:55 [info] [Streams] found a decoder for /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
+21:14:55 [info] [GaplessTransport] starting track at /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:55 [info] [Player] new instance created
+21:14:55 [info] [Stream] opening /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:55 [info] [GaplessTransport] stop
+21:14:55 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:55 [info] [ffmpegdecoder] parsing data stream...
+21:14:55 [info] [ffmpegdecoder] found audio stream!
+21:14:55 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:14:55 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+21:14:55 [info] [Player] new instance created
+21:14:55 [info] [Stream] opening /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
+21:14:55 [info] [LocalFileStream] opening file: /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
+21:14:55 [info] [ffmpegdecoder] parsing data stream...
+21:14:55 [info] [ffmpegdecoder] found audio stream!
+21:14:55 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:14:55 [info] [Streams] found a decoder for /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
+21:16:26 [info] [GaplessTransport] stop
