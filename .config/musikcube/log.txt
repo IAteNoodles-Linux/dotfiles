@@ -1,228 +1,138 @@
-18:15:19 [info] [LOG SESSION] ---------- START ----------
-18:15:19 [info] [PluginFactory] loading plugins
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
-18:15:19 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-18:15:19 [info] [Indexer] indexer source -1303229654 running...
-18:15:19 [info] [GaplessTransport] starting track at /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
-18:15:19 [info] [Player] new instance created
-18:15:19 [info] [GaplessTransport] stop
-18:15:19 [info] [Stream] opening /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
-18:15:19 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
-18:15:19 [info] [ffmpegdecoder] parsing data stream...
-18:15:20 [info] [Indexer] indexer source -1303229654 finished
-18:15:20 [info] [Indexer] indexer source 155697690 running...
-18:15:20 [info] [Indexer] indexer source 155697690 finished
-18:15:20 [info] [Indexer] scanning /home/nuub/Music/
-18:15:20 [info] [Indexer] scanning /home/nuub/Songs/
-18:15:20 [info] [ffmpegdecoder] found audio stream!
-18:15:20 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:15:20 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
-18:15:20 [info] [Indexer] scan completed successfully
-18:15:20 [info] [Indexer] cleanup 1/2
-18:15:20 [info] [Indexer] cleanup 2/2
-18:15:20 [info] [Indexer] optimizing
-18:15:20 [info] [Indexer] done!
-18:15:28 [info] [GaplessTransport] starting track at /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-18:15:28 [info] [Player] new instance created
-18:15:28 [info] [Stream] opening /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-18:15:28 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-18:15:28 [info] [ffmpegdecoder] parsing data stream...
-18:15:28 [info] [GaplessTransport] stop
-18:15:28 [info] [ffmpegdecoder] found audio stream!
-18:15:28 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:15:28 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-18:15:28 [info] [Player] new instance created
-18:15:28 [info] [Stream] opening /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
-18:15:28 [info] [LocalFileStream] opening file: /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
-18:15:28 [info] [ffmpegdecoder] parsing data stream...
-18:15:28 [info] [ffmpegdecoder] found audio stream!
-18:15:28 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:15:28 [info] [Streams] found a decoder for /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
-18:17:44 [info] [GaplessTransport] starting track at /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
-18:17:44 [info] [Player] new instance created
-18:17:44 [info] [GaplessTransport] stop
-18:17:44 [info] [Stream] opening /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
-18:17:44 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
-18:17:44 [info] [ffmpegdecoder] parsing data stream...
-18:17:44 [info] [ffmpegdecoder] found audio stream!
-18:17:44 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:17:44 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
-18:17:44 [info] [Player] new instance created
-18:17:44 [info] [Stream] opening /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
-18:17:44 [info] [LocalFileStream] opening file: /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
-18:17:44 [info] [ffmpegdecoder] parsing data stream...
-18:17:44 [info] [ffmpegdecoder] found audio stream!
-18:17:44 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:17:44 [info] [Streams] found a decoder for /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
-18:21:51 [info] [ffmpegdecoder] finished decoding.
-18:21:53 [info] [GaplessTransport] stop
-18:21:53 [info] [Player] new instance created
-18:21:53 [info] [Stream] opening /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:21:53 [info] [LocalFileStream] opening file: /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:21:53 [info] [ffmpegdecoder] parsing data stream...
-18:21:53 [info] [ffmpegdecoder] found audio stream!
-18:21:53 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:21:53 [info] [Streams] found a decoder for /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:21:53 [warning] [ffmpegdecoder] swr_convert_frame() failed: Input changed
-18:21:54 [info] [ffmpegdecoder] finished decoding.
-18:24:11 [info] [GaplessTransport] starting track at /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:24:11 [info] [Player] new instance created
-18:24:11 [info] [GaplessTransport] stop
-18:24:11 [info] [Stream] opening /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:24:11 [info] [LocalFileStream] opening file: /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:24:11 [info] [ffmpegdecoder] parsing data stream...
-18:24:11 [info] [ffmpegdecoder] found audio stream!
-18:24:11 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:24:11 [info] [Streams] found a decoder for /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:24:11 [warning] [ffmpegdecoder] swr_convert_frame() failed: Input changed
-18:24:11 [info] [ffmpegdecoder] finished decoding.
-18:24:11 [info] [GaplessTransport] stop
-18:24:24 [info] [GaplessTransport] starting track at /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
-18:24:24 [info] [Player] new instance created
-18:24:24 [info] [GaplessTransport] stop
-18:24:24 [info] [Stream] opening /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
-18:24:24 [info] [LocalFileStream] opening file: /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
-18:24:24 [info] [ffmpegdecoder] parsing data stream...
-18:24:24 [info] [ffmpegdecoder] found audio stream!
-18:24:24 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:24:24 [info] [Streams] found a decoder for /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
-18:24:25 [info] [Player] new instance created
-18:24:25 [info] [Stream] opening /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:24:25 [info] [LocalFileStream] opening file: /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:24:25 [info] [ffmpegdecoder] parsing data stream...
-18:24:25 [info] [ffmpegdecoder] found audio stream!
-18:24:25 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:24:25 [info] [Streams] found a decoder for /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:24:25 [warning] [ffmpegdecoder] swr_convert_frame() failed: Input changed
-18:24:25 [info] [ffmpegdecoder] finished decoding.
-18:26:57 [info] [ffmpegdecoder] finished decoding.
-18:26:59 [info] [GaplessTransport] stop
-18:26:59 [info] [GaplessTransport] stop
-18:27:37 [info] [GaplessTransport] starting track at /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:27:37 [info] [Player] new instance created
-18:27:37 [info] [GaplessTransport] stop
-18:27:37 [info] [Stream] opening /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:27:37 [info] [LocalFileStream] opening file: /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:27:37 [info] [ffmpegdecoder] parsing data stream...
-18:27:37 [info] [ffmpegdecoder] found audio stream!
-18:27:37 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:27:37 [info] [Streams] found a decoder for /home/nuub/Songs/Seventh Sage/Baka Mitai/01 Baka Mitai.m4a
-18:27:37 [warning] [ffmpegdecoder] swr_convert_frame() failed: Input changed
-18:27:37 [info] [ffmpegdecoder] finished decoding.
-18:27:37 [info] [GaplessTransport] stop
-18:27:41 [info] [GaplessTransport] starting track at /home/nuub/Songs/Illymation/Beautiful/01 Beautiful.m4a
-18:27:41 [info] [Player] new instance created
-18:27:41 [info] [GaplessTransport] stop
-18:27:41 [info] [Stream] opening /home/nuub/Songs/Illymation/Beautiful/01 Beautiful.m4a
-18:27:41 [info] [LocalFileStream] opening file: /home/nuub/Songs/Illymation/Beautiful/01 Beautiful.m4a
-18:27:41 [info] [ffmpegdecoder] parsing data stream...
-18:27:41 [info] [ffmpegdecoder] found audio stream!
-18:27:41 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:27:41 [info] [Streams] found a decoder for /home/nuub/Songs/Illymation/Beautiful/01 Beautiful.m4a
-18:27:41 [info] [Player] new instance created
-18:27:41 [info] [Stream] opening /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-18:27:41 [info] [LocalFileStream] opening file: /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-18:27:41 [info] [ffmpegdecoder] parsing data stream...
-18:27:41 [info] [ffmpegdecoder] found audio stream!
-18:27:41 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:27:41 [info] [Streams] found a decoder for /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-18:27:44 [info] [GaplessTransport] starting track at /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-18:27:44 [info] [Player] new instance created
-18:27:44 [info] [GaplessTransport] stop
-18:27:44 [info] [Stream] opening /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-18:27:44 [info] [LocalFileStream] opening file: /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-18:27:44 [info] [ffmpegdecoder] parsing data stream...
-18:27:44 [info] [ffmpegdecoder] found audio stream!
-18:27:44 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:27:44 [info] [Streams] found a decoder for /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-18:27:44 [info] [Player] new instance created
-18:27:44 [info] [Stream] opening /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-18:27:44 [info] [LocalFileStream] opening file: /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-18:27:44 [info] [ffmpegdecoder] parsing data stream...
-18:27:44 [info] [ffmpegdecoder] found audio stream!
-18:27:44 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:27:44 [info] [Streams] found a decoder for /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-18:27:47 [info] [GaplessTransport] starting track at /home/nuub/Songs/KARM/Blue (Da Ba Dee) [Piano Instrumental] [Live]/01 Blue (Da Ba Dee) - Piano Instrumental [Live].m4a
-18:27:47 [info] [Player] new instance created
-18:27:47 [info] [GaplessTransport] stop
-18:27:47 [info] [Stream] opening /home/nuub/Songs/KARM/Blue (Da Ba Dee) [Piano Instrumental] [Live]/01 Blue (Da Ba Dee) - Piano Instrumental [Live].m4a
-18:27:47 [info] [LocalFileStream] opening file: /home/nuub/Songs/KARM/Blue (Da Ba Dee) [Piano Instrumental] [Live]/01 Blue (Da Ba Dee) - Piano Instrumental [Live].m4a
-18:27:47 [info] [ffmpegdecoder] parsing data stream...
-18:27:47 [info] [ffmpegdecoder] found audio stream!
-18:27:47 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:27:47 [info] [Streams] found a decoder for /home/nuub/Songs/KARM/Blue (Da Ba Dee) [Piano Instrumental] [Live]/01 Blue (Da Ba Dee) - Piano Instrumental [Live].m4a
-18:27:48 [info] [Player] new instance created
-18:27:48 [info] [Stream] opening /home/nuub/Songs/Sunday Vibes/Blue Bird Lofi/01 Blue Bird Lofi.m4a
-18:27:48 [info] [LocalFileStream] opening file: /home/nuub/Songs/Sunday Vibes/Blue Bird Lofi/01 Blue Bird Lofi.m4a
-18:27:48 [info] [ffmpegdecoder] parsing data stream...
-18:27:48 [info] [ffmpegdecoder] found audio stream!
-18:27:48 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:27:48 [info] [Streams] found a decoder for /home/nuub/Songs/Sunday Vibes/Blue Bird Lofi/01 Blue Bird Lofi.m4a
-18:27:50 [info] [GaplessTransport] starting track at /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-18:27:50 [info] [Player] new instance created
-18:27:50 [info] [GaplessTransport] stop
-18:27:50 [info] [Stream] opening /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-18:27:50 [info] [LocalFileStream] opening file: /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-18:27:50 [info] [ffmpegdecoder] parsing data stream...
-18:27:50 [info] [ffmpegdecoder] found audio stream!
-18:27:50 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:27:50 [info] [Streams] found a decoder for /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-18:27:50 [info] [Player] new instance created
-18:27:50 [info] [Stream] opening /home/nuub/Songs/KARM/Blue (Da Ba Dee) [Piano Instrumental] [Live]/01 Blue (Da Ba Dee) - Piano Instrumental [Live].m4a
-18:27:50 [info] [LocalFileStream] opening file: /home/nuub/Songs/KARM/Blue (Da Ba Dee) [Piano Instrumental] [Live]/01 Blue (Da Ba Dee) - Piano Instrumental [Live].m4a
-18:27:50 [info] [ffmpegdecoder] parsing data stream...
-18:27:50 [info] [ffmpegdecoder] found audio stream!
-18:27:50 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:27:50 [info] [Streams] found a decoder for /home/nuub/Songs/KARM/Blue (Da Ba Dee) [Piano Instrumental] [Live]/01 Blue (Da Ba Dee) - Piano Instrumental [Live].m4a
-18:27:57 [info] [GaplessTransport] starting track at /home/nuub/Songs/KARM/Blue (Da Ba Dee) [Piano Instrumental] [Live]/01 Blue (Da Ba Dee) - Piano Instrumental [Live].m4a
-18:27:57 [info] [Player] new instance created
-18:27:57 [info] [GaplessTransport] stop
-18:27:57 [info] [Stream] opening /home/nuub/Songs/KARM/Blue (Da Ba Dee) [Piano Instrumental] [Live]/01 Blue (Da Ba Dee) - Piano Instrumental [Live].m4a
-18:27:57 [info] [LocalFileStream] opening file: /home/nuub/Songs/KARM/Blue (Da Ba Dee) [Piano Instrumental] [Live]/01 Blue (Da Ba Dee) - Piano Instrumental [Live].m4a
-18:27:57 [info] [ffmpegdecoder] parsing data stream...
-18:27:57 [info] [ffmpegdecoder] found audio stream!
-18:27:57 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:27:57 [info] [Streams] found a decoder for /home/nuub/Songs/KARM/Blue (Da Ba Dee) [Piano Instrumental] [Live]/01 Blue (Da Ba Dee) - Piano Instrumental [Live].m4a
-18:27:58 [info] [Player] new instance created
-18:27:58 [info] [Stream] opening /home/nuub/Songs/Sunday Vibes/Blue Bird Lofi/01 Blue Bird Lofi.m4a
-18:27:58 [info] [LocalFileStream] opening file: /home/nuub/Songs/Sunday Vibes/Blue Bird Lofi/01 Blue Bird Lofi.m4a
-18:27:58 [info] [ffmpegdecoder] parsing data stream...
-18:27:58 [info] [ffmpegdecoder] found audio stream!
-18:27:58 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:27:58 [info] [Streams] found a decoder for /home/nuub/Songs/Sunday Vibes/Blue Bird Lofi/01 Blue Bird Lofi.m4a
-18:28:04 [info] [GaplessTransport] starting track at /home/nuub/Songs/Sunday Vibes/Blue Bird Lofi/01 Blue Bird Lofi.m4a
-18:28:04 [info] [Player] new instance created
-18:28:04 [info] [Stream] opening /home/nuub/Songs/Sunday Vibes/Blue Bird Lofi/01 Blue Bird Lofi.m4a
-18:28:04 [info] [GaplessTransport] stop
-18:28:04 [info] [LocalFileStream] opening file: /home/nuub/Songs/Sunday Vibes/Blue Bird Lofi/01 Blue Bird Lofi.m4a
-18:28:04 [info] [ffmpegdecoder] parsing data stream...
-18:28:04 [info] [ffmpegdecoder] found audio stream!
-18:28:04 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:28:04 [info] [Streams] found a decoder for /home/nuub/Songs/Sunday Vibes/Blue Bird Lofi/01 Blue Bird Lofi.m4a
-18:28:05 [info] [Player] new instance created
-18:28:05 [info] [Stream] opening /home/nuub/Songs/Kijugo/Blue Bird but is it okay if it's lofi/01 Blue Bird but is it okay if it's lofi.m4a
-18:28:05 [info] [LocalFileStream] opening file: /home/nuub/Songs/Kijugo/Blue Bird but is it okay if it's lofi/01 Blue Bird but is it okay if it's lofi.m4a
-18:28:05 [info] [ffmpegdecoder] parsing data stream...
-18:28:05 [info] [ffmpegdecoder] found audio stream!
-18:28:05 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:28:05 [info] [Streams] found a decoder for /home/nuub/Songs/Kijugo/Blue Bird but is it okay if it's lofi/01 Blue Bird but is it okay if it's lofi.m4a
-18:30:44 [info] [ffmpegdecoder] finished decoding.
-18:30:46 [info] [GaplessTransport] stop
-18:30:46 [info] [Player] new instance created
-18:30:46 [info] [Stream] opening /home/nuub/Songs/Danny Casale/Blue Dude/02 You're Loved.m4a
-18:30:46 [info] [LocalFileStream] opening file: /home/nuub/Songs/Danny Casale/Blue Dude/02 You're Loved.m4a
-18:30:46 [info] [ffmpegdecoder] parsing data stream...
-18:30:47 [info] [ffmpegdecoder] found audio stream!
-18:30:47 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-18:30:47 [info] [Streams] found a decoder for /home/nuub/Songs/Danny Casale/Blue Dude/02 You're Loved.m4a
-18:32:16 [info] [GaplessTransport] stop
+21:54:52 [info] [LOG SESSION] ---------- START ----------
+21:54:52 [info] [PluginFactory] loading plugins
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
+21:54:52 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+21:54:52 [info] [Indexer] indexer source -1303229654 running...
+21:54:52 [info] [Indexer] indexer source -1303229654 finished
+21:54:52 [info] [Indexer] indexer source 155697690 running...
+21:54:52 [info] [Indexer] indexer source 155697690 finished
+21:54:52 [info] [Indexer] scanning /home/nuub/Music/
+21:54:52 [info] [Indexer] scanning /home/nuub/Songs/
+21:54:52 [info] [Indexer] scan completed successfully
+21:54:52 [info] [Indexer] cleanup 1/2
+21:54:52 [info] [Indexer] cleanup 2/2
+21:54:52 [info] [Indexer] optimizing
+21:54:52 [info] [Indexer] done!
+21:54:53 [info] [GaplessTransport] starting track at /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
+21:54:53 [info] [Player] new instance created
+21:54:53 [info] [GaplessTransport] stop
+21:54:53 [info] [Stream] opening /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
+21:54:53 [info] [LocalFileStream] opening file: /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
+21:54:53 [info] [ffmpegdecoder] parsing data stream...
+21:54:53 [info] [ffmpegdecoder] found audio stream!
+21:54:53 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:54:53 [info] [Streams] found a decoder for /home/nuub/Songs/MC Virgins/Anime Thighs/01 Anime Thighs.m4a
+21:55:10 [info] [GaplessTransport] resume
+21:55:34 [info] [GaplessTransport] starting track at /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [Player] new instance created
+21:55:34 [info] [GaplessTransport] stop
+21:55:34 [info] [Stream] opening /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [LocalFileStream] opening file: /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [ffmpegdecoder] parsing data stream...
+21:55:34 [info] [ffmpegdecoder] found audio stream!
+21:55:34 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:55:34 [info] [Streams] found a decoder for /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [GaplessTransport] starting track at /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [Player] new instance created
+21:55:34 [info] [Stream] opening /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [LocalFileStream] opening file: /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [ffmpegdecoder] parsing data stream...
+21:55:34 [info] [GaplessTransport] stop
+21:55:34 [info] [ffmpegdecoder] found audio stream!
+21:55:34 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:55:34 [info] [Streams] found a decoder for /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [GaplessTransport] starting track at /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [Player] new instance created
+21:55:34 [info] [GaplessTransport] stop
+21:55:34 [info] [Stream] opening /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [LocalFileStream] opening file: /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [ffmpegdecoder] parsing data stream...
+21:55:34 [info] [ffmpegdecoder] found audio stream!
+21:55:34 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:55:34 [info] [Streams] found a decoder for /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:34 [info] [Player] new instance created
+21:55:34 [info] [Stream] opening /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:55:34 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:55:34 [info] [ffmpegdecoder] parsing data stream...
+21:55:34 [info] [ffmpegdecoder] found audio stream!
+21:55:34 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:55:34 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:55:35 [info] [Player] new instance created
+21:55:35 [info] [Stream] opening /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:35 [info] [LocalFileStream] opening file: /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:35 [info] [ffmpegdecoder] parsing data stream...
+21:55:35 [info] [ffmpegdecoder] found audio stream!
+21:55:35 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:55:35 [info] [Streams] found a decoder for /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:55:36 [info] [Player] new instance created
+21:55:36 [info] [Stream] opening /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:55:36 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:55:36 [info] [ffmpegdecoder] parsing data stream...
+21:55:36 [info] [ffmpegdecoder] found audio stream!
+21:55:36 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:55:36 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:59:17 [info] [ffmpegdecoder] finished decoding.
+21:59:20 [info] [GaplessTransport] stop
+21:59:20 [info] [Player] new instance created
+21:59:20 [info] [Stream] opening /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
+21:59:20 [info] [LocalFileStream] opening file: /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
+21:59:20 [info] [ffmpegdecoder] parsing data stream...
+21:59:20 [info] [ffmpegdecoder] found audio stream!
+21:59:20 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:59:20 [info] [Streams] found a decoder for /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
+22:02:36 [info] [ffmpegdecoder] finished decoding.
+22:02:39 [info] [GaplessTransport] stop
+22:02:39 [info] [Player] new instance created
+22:02:39 [info] [Stream] opening /home/nuub/Songs/Caramel Column/ALTER EGO ORIGINAL SOUNDTRACK/02 Silence (piano).m4a
+22:02:39 [info] [LocalFileStream] opening file: /home/nuub/Songs/Caramel Column/ALTER EGO ORIGINAL SOUNDTRACK/02 Silence (piano).m4a
+22:02:39 [info] [ffmpegdecoder] parsing data stream...
+22:02:39 [info] [ffmpegdecoder] found audio stream!
+22:02:39 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+22:02:39 [info] [Streams] found a decoder for /home/nuub/Songs/Caramel Column/ALTER EGO ORIGINAL SOUNDTRACK/02 Silence (piano).m4a
+22:04:49 [info] [ffmpegdecoder] finished decoding.
+22:04:52 [info] [GaplessTransport] stop
+22:04:52 [info] [Player] new instance created
+22:04:52 [info] [Stream] opening /home/nuub/Songs/The Beatles/Abbey Road (Remastered)/07 Here Comes The Sun - Remastered 2009.m4a
+22:04:52 [info] [LocalFileStream] opening file: /home/nuub/Songs/The Beatles/Abbey Road (Remastered)/07 Here Comes The Sun - Remastered 2009.m4a
+22:04:52 [info] [ffmpegdecoder] parsing data stream...
+22:04:52 [info] [ffmpegdecoder] found audio stream!
+22:04:52 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+22:04:52 [info] [Streams] found a decoder for /home/nuub/Songs/The Beatles/Abbey Road (Remastered)/07 Here Comes The Sun - Remastered 2009.m4a
+22:07:31 [info] [ffmpegdecoder] finished decoding.
+22:07:34 [info] [GaplessTransport] stop
+22:07:34 [info] [Player] new instance created
+22:07:34 [info] [Stream] opening /home/nuub/Songs/Lars Sorensen/Album the Sixth/06 One Punch Man Main Theme.m4a
+22:07:34 [info] [LocalFileStream] opening file: /home/nuub/Songs/Lars Sorensen/Album the Sixth/06 One Punch Man Main Theme.m4a
+22:07:34 [info] [ffmpegdecoder] parsing data stream...
+22:07:34 [info] [ffmpegdecoder] found audio stream!
+22:07:34 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+22:07:34 [info] [Streams] found a decoder for /home/nuub/Songs/Lars Sorensen/Album the Sixth/06 One Punch Man Main Theme.m4a
+22:10:37 [info] [ffmpegdecoder] finished decoding.
+22:10:39 [info] [GaplessTransport] stop
+22:10:39 [info] [Player] new instance created
+22:10:39 [info] [Stream] opening /home/nuub/Songs/Theishter/Anime Piano Collections, Vol. I/05 Sparkle (From _Your Name_).m4a
+22:10:39 [info] [LocalFileStream] opening file: /home/nuub/Songs/Theishter/Anime Piano Collections, Vol. I/05 Sparkle (From _Your Name_).m4a
+22:10:39 [info] [ffmpegdecoder] parsing data stream...
+22:10:39 [info] [ffmpegdecoder] found audio stream!
+22:10:39 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+22:10:39 [info] [Streams] found a decoder for /home/nuub/Songs/Theishter/Anime Piano Collections, Vol. I/05 Sparkle (From _Your Name_).m4a
+22:14:25 [info] [ffmpegdecoder] finished decoding.
+22:14:27 [info] [GaplessTransport] stop
+22:14:28 [info] [Player] new instance created
+22:14:28 [info] [Stream] opening /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+22:14:28 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+22:14:28 [info] [ffmpegdecoder] parsing data stream...
+22:14:28 [info] [ffmpegdecoder] found audio stream!
+22:14:28 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+22:14:28 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
+22:17:58 [info] [GaplessTransport] stop
