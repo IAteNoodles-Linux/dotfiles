@@ -122,12 +122,13 @@ bindsym $mod+a focus parent
 
 # Define names for default workspaces for which we configure key bindings laer on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1"
-set $ws2 "2"
-set $ws3 "3"
-set $ws4 "4"
-set $ws5 "5"
-set $ws6 "6"
+#Firefox on workspace 1
+set $ws1 "1: "
+set $ws2 "2: "
+set $ws3 "3: "
+set $ws4 "4: "
+set $ws5 "5: "
+set $ws6 "6: "
 set $ws7 "7"
 set $ws8 "8"
 set $ws9 "9"
@@ -378,6 +379,8 @@ exec --no-startup-id sh ~/Scripts/wallpapers_script.sh
 ###############################################################
 
 ##~~~ Rules For Windows ~~~~~~~~~~~~~~~~~~~~~~~ 
+# Assign Firefox to workspace 1
+assign [class="Firefox"] to workspace 1
 ##
 
 for_window [window_role="pop-up"] floating enable
