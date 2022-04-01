@@ -78,6 +78,12 @@ set smarttab
 "Setting up last status"
 set laststatus=2
 
+"Setting up autocmd"
+autocmd BufEnter * if line("'\"") > 0 && line("'\"") <= line("$") | last | endif
+
+"Setting up auto-folding"
+set foldmethod=indent
+
 "Setting up encodting to utf8"
 set encoding=utf-8
 
