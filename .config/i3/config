@@ -508,3 +508,6 @@ mode "$mode_launcher" {
     bindsym Escape mode "default"
     bindsym Return mode "default"
 }
+
+# Starting up caps-indicator
+exec --no-startup-id caps-indicator

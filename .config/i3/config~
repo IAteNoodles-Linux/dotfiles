@@ -397,7 +397,7 @@ client.focused          #81A1C1 #81A1C1 #D8DEE9 #a7c080   #81A1C1
 client.focused_inactive #61AFEF #61AFEF #2E3440 #a7c080   #61AFEF
 client.unfocused        #3B4252 #3B4252 #D8DEE9 #a7c080   #3B4252
 client.urgent           #BF616A #BF616A #D8DEE9 #a7c080   #BF616A
-client.placeholder      #2E3440 #2E3440 #D8DEE9 #a7c080   #2E3440
+client.placeholder      #2E3440 #2E3440 #D8DEE9 #a7c080   #2yE3440
 
 
 # 
@@ -494,3 +494,17 @@ bindsym $mod+n bar mode toggle
 
 # Loading betterlockscreen
 bindsym $mod+shift+x exec betterlockscreen -l dim
+
+# Setting up a shortcut to shutdown and reboot the computer.
+
+set $mode_launcher Launch: [s]hutdown [r]eboot
+
+bindsym Mod1+o mode "$mode_launcher"
+
+mode "$mode_launcher" {
+    bindsym s exec systemctl poweroff
+    bindsym r exec systemctl reboot
+
+    bindsym Escape mode "default"
+    bindsym Return mode "default"
+}
