@@ -387,7 +387,11 @@ assign [class="(?i)vlc|mpv|mplayer|smplayer"] $ws5
 assign [class="(?i)spotify|musikcube"] $ws6
 assign [class="(?i)telegram-desktop|whatscli|whatsapp-for-linux|discord"] $ws7
 ##
-for_window [class="firefox"] fullscreen enable
+# Making firefox launch in fullscreen and focus on the current workspace
+for_window [class="firefox"] {
+    fullscreen
+    focus
+}
 for_window [window_role="pop-up"] floating enable
 for_window [window_role="task_dialog"] floating enable
 
