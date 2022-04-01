@@ -127,10 +127,9 @@ set $ws1 "1: "
 set $ws2 "2: "
 set $ws3 "3: "
 set $ws4 "4: "
-#MPV on workspace 5
-set $ws5 "5: "
-set $ws6 "6: "
-set $ws7 "7"
+set $ws5 "5: "
+set $ws6 "6: "
+set $ws7 "7: "
 set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
@@ -386,8 +385,8 @@ assign [class="Alacritty"] $ws2
 assign [class="thunar|nemo|dolphin|nautilus|ranger"] $ws4
 assign [class="vim|neovim|code"] $ws3
 assign [class="vlc|mpv|mplayer|smplayer"] $ws5
-assign [class="spotify|musikcube"] 5
-assign [class="telegram-desktop|whatscli|whatsapp-for-linux|discord"] 6
+assign [class="spotify|musikcube"] $ws6
+assign [class="telegram-desktop|whatscli|whatsapp-for-linux|discord"] $ws7
 ##
 
 for_window [window_role="pop-up"] floating enable
