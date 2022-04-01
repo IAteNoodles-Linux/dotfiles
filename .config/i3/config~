@@ -200,7 +200,7 @@ bar {
 	position	top	
 
 # Font set to Meslo Nerd
-    font pango: MesloLGS 8
+    font pango: MesloLGS, Icons 8
 
 # Changing the separator_symbol
     separator_symbol " | "
