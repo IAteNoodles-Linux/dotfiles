@@ -480,7 +480,7 @@ bindsym Mod1+Shift+w exec sh ~/Scripts/wallpapers_script.sh
 popup_during_fullscreen smart
 
 # show the window icon for the focused window to make it stand out
-bindsym $mod+p title_window_icon on
+bindsym $mod+shift+p title_window_icon on
 
 # enable window icons for all windows
 for_window [all] title_window_icon on
