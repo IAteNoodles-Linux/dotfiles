@@ -465,7 +465,7 @@ bindsym Mod1+p exec passmenu-rs
 #
 #
 # Loading dunst
-exec --no-startup-id dunst -config $HOME/.config/dunstrc
+#exec --no-startup-id dunst -config $HOME/.config/dunstrc
 
 # Starting up polkit agent
 exec_always --no-startup-id lxqt-policykit-agent
