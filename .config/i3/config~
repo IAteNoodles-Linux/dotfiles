@@ -382,7 +382,7 @@ exec --no-startup-id sh ~/Scripts/wallpapers_script.sh
 ##~~~ Rules For Windows ~~~~~~~~~~~~~~~~~~~~~~~ 
 # Assign Firefox to workspace 1
 assign [class="firefox"] $ws1
-assign [class="alacritty"] $ws2
+assign [class="Alacritty"] $ws2
 assign [class="thunar|nemo|dolphin|nautilus|ranger"] $ws4
 assign [class="vim|neovim|code"] $ws3
 assign [class="vlc|mpv|mplayer|smplayer"] $ws5
