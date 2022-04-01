@@ -382,11 +382,11 @@ exec --no-startup-id sh ~/Scripts/wallpapers_script.sh
 # Assign Firefox to workspace 1
 assign [class="firefox"] $ws1
 assign [class="Alacritty"] $ws2
-assign [class="thunar|Nemo|dolphin|nautilus|ranger"] $ws4
-assign [class="vim|neovim|code"] $ws3
-assign [class="vlc|mpv|mplayer|smplayer"] $ws5
-assign [class="spotify|musikcube"] $ws6
-assign [class="telegram-desktop|whatscli|whatsapp-for-linux|discord"] $ws7
+assign [class="(?i)thunar|Nemo|dolphin|nautilus"] $ws4
+assign [class="(?i)vim|neovim|code"] $ws3
+assign [class="(?i)vlc|mpv|mplayer|smplayer"] $ws5
+assign [class="(?i)spotify|musikcube"] $ws6
+assign [class="(?i)telegram-desktop|whatscli|whatsapp-for-linux|discord"] $ws7
 ##
 
 for_window [window_role="pop-up"] floating enable
