@@ -5,14 +5,14 @@ AlsaOut: joining...
 AlsaOut: thread finished
 AlsaOut: closing device...
 AlsaOut: destroyed.
-[2022-03-30 20:04:42] [info] asio async_connect error: system:111 (Connection refused)
-[2022-03-30 20:04:42] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
-[2022-03-30 20:04:42] [error] handle_connect error: Underlying Transport Error
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db0002ec0] stream 0, timescale not set
-[aac @ 0x7f6db00138c0] Multiple frames in a packet.
-[aac @ 0x7f6db00138c0] Pulse tool not allowed in eight short sequence.
-[aac @ 0x7f6db00138c0] Could not update timestamps for skipped samples.
-[aac @ 0x7f6db00138c0] Pulse tool not allowed in eight short sequence.
+[2022-03-31 12:59:27] [info] asio async_connect error: system:111 (Connection refused)
+[2022-03-31 12:59:27] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
+[2022-03-31 12:59:27] [error] handle_connect error: Underlying Transport Error
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc208003080] stream 0, timescale not set
+[aac @ 0x7fc20802f4c0] Multiple frames in a packet.
+[aac @ 0x7fc20802f4c0] Pulse tool not allowed in eight short sequence.
+[aac @ 0x7fc20802f4c0] Could not update timestamps for skipped samples.
+[aac @ 0x7fc20802f4c0] Pulse tool not allowed in eight short sequence.
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
 pulse_blocking_stream: CHECK_VALIDITY dir
@@ -21,87 +21,76 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6da8002600] stream 0, timescale not set
-[aac @ 0x7f6da80199c0] Multiple frames in a packet.
-[aac @ 0x7f6da80199c0] Gain control is not implemented. Update your FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.
-[aac @ 0x7f6da80199c0] channel element 0.0 is not allocated
-[aac @ 0x7f6da80199c0] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db4002400] stream 0, timescale not set
-[aac @ 0x7f6db400b580] Multiple frames in a packet.
-[aac @ 0x7f6db400b580] channel element 3.8 is not allocated
-[aac @ 0x7f6db400b580] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db0000900] stream 0, timescale not set
-[aac @ 0x7f6db00043c0] Multiple frames in a packet.
-[aac @ 0x7f6db00043c0] channel element 3.8 is not allocated
-[aac @ 0x7f6db00043c0] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6da80104c0] stream 0, timescale not set
-[aac @ 0x7f6da8007480] Multiple frames in a packet.
-[aac @ 0x7f6da8007480] Pulse tool not allowed in eight short sequence.
-[aac @ 0x7f6da8007480] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db4001d80] stream 0, timescale not set
-[aac @ 0x7f6db4015bc0] Multiple frames in a packet.
-[aac @ 0x7f6db4015bc0] channel element 2.0 is not allocated
-[aac @ 0x7f6db4015bc0] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db0000900] stream 0, timescale not set
-[aac @ 0x7f6db002cec0] Multiple frames in a packet.
-[aac @ 0x7f6db002cec0] Reserved bit set.
-[aac @ 0x7f6db002cec0] channel element 2.1 is not allocated
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6da800db80] stream 0, timescale not set
-[aac @ 0x7f6da8003980] Multiple frames in a packet.
-[aac @ 0x7f6da8003980] Reserved bit set.
-[aac @ 0x7f6da8003980] channel element 2.1 is not allocated
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db4025b80] stream 0, timescale not set
-[aac @ 0x7f6db4022e00] Multiple frames in a packet.
-[aac @ 0x7f6db4022e00] Reserved bit set.
-[aac @ 0x7f6db4022e00] channel element 2.1 is not allocated
-[aac @ 0x7f6db4022e00] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db0000900] stream 0, timescale not set
-[aac @ 0x7f6db0032300] Multiple frames in a packet.
-[aac @ 0x7f6db0032300] Reserved bit set.
-[aac @ 0x7f6db0032300] channel element 2.1 is not allocated
-[aac @ 0x7f6db0032300] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db4004700] stream 0, timescale not set
-[aac @ 0x7f6db4004100] Multiple frames in a packet.
-[aac @ 0x7f6db4004100] Reserved bit set.
-[aac @ 0x7f6db4004100] channel element 2.1 is not allocated
-[aac @ 0x7f6db4004100] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db0000900] stream 0, timescale not set
-[aac @ 0x7f6db0061d40] Multiple frames in a packet.
-[aac @ 0x7f6db0061d40] Reserved bit set.
-[aac @ 0x7f6db0061d40] channel element 2.1 is not allocated
-[aac @ 0x7f6db0061d40] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db40398c0] stream 0, timescale not set
-[aac @ 0x7f6db401de80] Multiple frames in a packet.
-[aac @ 0x7f6db401de80] Reserved bit set.
-[aac @ 0x7f6db401de80] channel element 2.1 is not allocated
-[aac @ 0x7f6db401de80] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db0000900] stream 0, timescale not set
-[aac @ 0x7f6db0012bc0] Multiple frames in a packet.
-[aac @ 0x7f6db0012bc0] Reserved bit set.
-[aac @ 0x7f6db0012bc0] channel element 2.1 is not allocated
-[aac @ 0x7f6db0012bc0] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db4018500] stream 0, timescale not set
-[aac @ 0x7f6db40634c0] Multiple frames in a packet.
-[aac @ 0x7f6db40634c0] Reserved bit set.
-[aac @ 0x7f6db40634c0] channel element 2.1 is not allocated
-[aac @ 0x7f6db40634c0] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6da800db80] stream 0, timescale not set
-[aac @ 0x7f6da801f340] Multiple frames in a packet.
-[aac @ 0x7f6da801f340] Pulse tool not allowed in eight short sequence.
-[aac @ 0x7f6da801f340] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db0000900] stream 0, timescale not set
-[aac @ 0x7f6db0050b00] Multiple frames in a packet.
-[aac @ 0x7f6db0050b00] Pulse tool not allowed in eight short sequence.
-[aac @ 0x7f6db0050b00] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6da8013480] stream 0, timescale not set
-[aac @ 0x7f6da80187c0] Multiple frames in a packet.
-[aac @ 0x7f6da80187c0] Pulse tool not allowed in eight short sequence.
-[aac @ 0x7f6da80187c0] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6db0000900] stream 0, timescale not set
-[aac @ 0x7f6db0008400] Multiple frames in a packet.
-[aac @ 0x7f6db0008400] Pulse tool not allowed in eight short sequence.
-[aac @ 0x7f6db0008400] Could not update timestamps for skipped samples.
-[2022-03-30 20:42:10] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc20c004ac0] stream 0, timescale not set
+[aac @ 0x7fc20c02c740] Multiple frames in a packet.
+[aac @ 0x7fc20c02c740] Pulse tool not allowed in eight short sequence.
+[aac @ 0x7fc20c02c740] Could not update timestamps for skipped samples.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc1e0002800] stream 0, timescale not set
+[aac @ 0x7fc1e001e400] Multiple frames in a packet.
+[aac @ 0x7fc1e001e400] Pulse tool not allowed in eight short sequence.
+[aac @ 0x7fc1e001e400] Could not update timestamps for skipped samples.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc208006cc0] stream 0, timescale not set
+[aac @ 0x7fc208035540] Multiple frames in a packet.
+[aac @ 0x7fc208035540] Reserved bit set.
+[aac @ 0x7fc208035540] Number of bands (16) exceeds limit (6).
+[aac @ 0x7fc208035540] Could not update timestamps for skipped samples.
+[aac @ 0x7fc1e001e400] Pulse tool not allowed in eight short sequence.
+[aac @ 0x7fc1e001e400] Pulse tool not allowed in eight short sequence.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc1e010b0c0] stream 0, timescale not set
+[aac @ 0x7fc1e001d9c0] Multiple frames in a packet.
+[aac @ 0x7fc1e001d9c0] Pulse tool not allowed in eight short sequence.
+[aac @ 0x7fc1e001d9c0] Could not update timestamps for skipped samples.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc20c009a40] stream 0, timescale not set
+[aac @ 0x7fc20c00e7c0] Multiple frames in a packet.
+[aac @ 0x7fc20c00e7c0] Pulse tool not allowed in eight short sequence.
+[aac @ 0x7fc20c00e7c0] Could not update timestamps for skipped samples.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc208006cc0] stream 0, timescale not set
+[aac @ 0x7fc208177b80] Multiple frames in a packet.
+[aac @ 0x7fc208177b80] Reserved bit set.
+[aac @ 0x7fc208177b80] Number of bands (16) exceeds limit (6).
+[aac @ 0x7fc208177b80] Could not update timestamps for skipped samples.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc20c004240] stream 0, timescale not set
+[aac @ 0x7fc20c11e300] Multiple frames in a packet.
+[aac @ 0x7fc20c11e300] Pulse tool not allowed in eight short sequence.
+[aac @ 0x7fc20c11e300] Could not update timestamps for skipped samples.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc208006cc0] stream 0, timescale not set
+[aac @ 0x7fc2080562c0] Multiple frames in a packet.
+[aac @ 0x7fc2080562c0] channel element 3.8 is not allocated
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc20c004240] stream 0, timescale not set
+[aac @ 0x7fc20c02a4c0] Multiple frames in a packet.
+[aac @ 0x7fc20c02a4c0] Reserved bit set.
+[aac @ 0x7fc20c02a4c0] channel element 2.1 is not allocated
+[aac @ 0x7fc20c02a4c0] Could not update timestamps for skipped samples.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc208006cc0] stream 0, timescale not set
+[aac @ 0x7fc20805aa80] Multiple frames in a packet.
+[aac @ 0x7fc20805aa80] Pulse tool not allowed in eight short sequence.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc20c0161c0] stream 0, timescale not set
+[aac @ 0x7fc20c00a900] Multiple frames in a packet.
+[aac @ 0x7fc20c00a900] channel element 3.8 is not allocated
+[aac @ 0x7fc20c00a900] Could not update timestamps for skipped samples.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc208006cc0] stream 0, timescale not set
+[aac @ 0x7fc20802ebc0] Multiple frames in a packet.
+[aac @ 0x7fc20802ebc0] Reserved bit set.
+[aac @ 0x7fc20802ebc0] channel element 2.1 is not allocated
+[aac @ 0x7fc20802ebc0] Could not update timestamps for skipped samples.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc20c004600] stream 0, timescale not set
+[aac @ 0x7fc20c00d280] Multiple frames in a packet.
+[aac @ 0x7fc20c00d280] channel element 3.8 is not allocated
+[aac @ 0x7fc20c00d280] Could not update timestamps for skipped samples.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc208006cc0] stream 0, timescale not set
+[aac @ 0x7fc208004e00] Multiple frames in a packet.
+[aac @ 0x7fc208004e00] Pulse tool not allowed in eight short sequence.
+[aac @ 0x7fc208004e00] Could not update timestamps for skipped samples.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc20c014b80] stream 0, timescale not set
+[aac @ 0x7fc20c0279c0] Multiple frames in a packet.
+[aac @ 0x7fc20c0279c0] Gain control is not implemented. Update your FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.
+[aac @ 0x7fc20c0279c0] channel element 0.0 is not allocated
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fc208006cc0] stream 0, timescale not set
+[aac @ 0x7fc208066a00] Multiple frames in a packet.
+[aac @ 0x7fc208066a00] Gain control is not implemented. Update your FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.
+[aac @ 0x7fc208066a00] channel element 0.0 is not allocated
+[aac @ 0x7fc208066a00] Could not update timestamps for skipped samples.
+[2022-03-31 13:33:48] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
 PulseOut: destroy
 PulseOut: destructor
 PulseOut: closing device

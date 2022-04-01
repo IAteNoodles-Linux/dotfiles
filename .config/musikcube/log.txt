@@ -1,187 +1,177 @@
-20:04:42 [info] [LOG SESSION] ---------- START ----------
-20:04:42 [info] [PluginFactory] loading plugins
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
-20:04:42 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-20:04:42 [info] [Indexer] indexer source -1303229654 running...
-20:04:42 [info] [Indexer] indexer source -1303229654 finished
-20:04:42 [info] [Indexer] indexer source 155697690 running...
-20:04:42 [info] [Indexer] indexer source 155697690 finished
-20:04:42 [info] [Indexer] scanning /home/nuub/Music/
-20:04:42 [info] [Indexer] scanning /home/nuub/Songs/
-20:04:42 [info] [Indexer] scan completed successfully
-20:04:42 [info] [Indexer] cleanup 1/2
-20:04:42 [info] [Indexer] cleanup 2/2
-20:04:42 [info] [Indexer] optimizing
-20:04:42 [info] [Indexer] done!
-20:04:42 [info] [GaplessTransport] starting track at /home/nuub/Songs/Theishter/Anime Piano Collections, Vol. I/05 Sparkle (From _Your Name_).m4a
-20:04:42 [info] [Player] new instance created
-20:04:42 [info] [GaplessTransport] stop
-20:04:42 [info] [Stream] opening /home/nuub/Songs/Theishter/Anime Piano Collections, Vol. I/05 Sparkle (From _Your Name_).m4a
-20:04:42 [info] [LocalFileStream] opening file: /home/nuub/Songs/Theishter/Anime Piano Collections, Vol. I/05 Sparkle (From _Your Name_).m4a
-20:04:42 [info] [ffmpegdecoder] parsing data stream...
-20:04:42 [info] [ffmpegdecoder] found audio stream!
-20:04:42 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:04:42 [info] [Streams] found a decoder for /home/nuub/Songs/Theishter/Anime Piano Collections, Vol. I/05 Sparkle (From _Your Name_).m4a
-20:04:45 [info] [GaplessTransport] resume
-20:04:46 [info] [Player] new instance created
-20:04:46 [info] [Stream] opening /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
-20:04:46 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
-20:04:46 [info] [ffmpegdecoder] parsing data stream...
-20:04:46 [info] [ffmpegdecoder] found audio stream!
-20:04:46 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:04:46 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/Anime Piano Music Collection in Spring, Vol. 3/02 Crossing Field (From _Sword Art Online_) [Opening].m4a
-20:05:41 [info] [GaplessTransport] starting track at /home/nuub/Songs/Adriana Figueroa/Daughter Of The Moon/01 Daughter Of The Moon.m4a
-20:05:41 [info] [Player] new instance created
-20:05:41 [info] [GaplessTransport] stop
-20:05:41 [info] [Stream] opening /home/nuub/Songs/Adriana Figueroa/Daughter Of The Moon/01 Daughter Of The Moon.m4a
-20:05:41 [info] [LocalFileStream] opening file: /home/nuub/Songs/Adriana Figueroa/Daughter Of The Moon/01 Daughter Of The Moon.m4a
-20:05:41 [info] [ffmpegdecoder] parsing data stream...
-20:05:41 [info] [ffmpegdecoder] found audio stream!
-20:05:41 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:05:41 [info] [Streams] found a decoder for /home/nuub/Songs/Adriana Figueroa/Daughter Of The Moon/01 Daughter Of The Moon.m4a
-20:05:41 [info] [Player] new instance created
-20:05:41 [info] [Stream] opening /home/nuub/Songs/Adriana Figueroa/Daughter Of The Moon/01 Daughter Of The Moon.m4a
-20:05:41 [info] [LocalFileStream] opening file: /home/nuub/Songs/Adriana Figueroa/Daughter Of The Moon/01 Daughter Of The Moon.m4a
-20:05:41 [info] [ffmpegdecoder] parsing data stream...
-20:05:41 [info] [ffmpegdecoder] found audio stream!
-20:05:41 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:05:41 [info] [Streams] found a decoder for /home/nuub/Songs/Adriana Figueroa/Daughter Of The Moon/01 Daughter Of The Moon.m4a
-20:05:42 [info] [GaplessTransport] starting track at /home/nuub/Songs/Akano/Isabella's Lullaby (From _The Promised Neverland_)/01 Isabella's Lullaby (From _The Promised Neverland_).m4a
-20:05:42 [info] [Player] new instance created
-20:05:42 [info] [Stream] opening /home/nuub/Songs/Akano/Isabella's Lullaby (From _The Promised Neverland_)/01 Isabella's Lullaby (From _The Promised Neverland_).m4a
-20:05:42 [info] [LocalFileStream] opening file: /home/nuub/Songs/Akano/Isabella's Lullaby (From _The Promised Neverland_)/01 Isabella's Lullaby (From _The Promised Neverland_).m4a
-20:05:42 [info] [GaplessTransport] stop
-20:05:42 [info] [ffmpegdecoder] parsing data stream...
-20:05:42 [info] [ffmpegdecoder] found audio stream!
-20:05:42 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:05:42 [info] [Streams] found a decoder for /home/nuub/Songs/Akano/Isabella's Lullaby (From _The Promised Neverland_)/01 Isabella's Lullaby (From _The Promised Neverland_).m4a
-20:05:43 [info] [Player] new instance created
-20:05:43 [info] [Stream] opening /home/nuub/Songs/Akano/Kamado Tanjirou no Uta (From _Demon Slayer_ Kimetsu no Yaiba_)/01 Kamado Tanjirou no Uta (From _Demon Slayer_ Kimetsu no Yaiba_).m4a
-20:05:43 [info] [LocalFileStream] opening file: /home/nuub/Songs/Akano/Kamado Tanjirou no Uta (From _Demon Slayer_ Kimetsu no Yaiba_)/01 Kamado Tanjirou no Uta (From _Demon Slayer_ Kimetsu no Yaiba_).m4a
-20:05:43 [info] [ffmpegdecoder] parsing data stream...
-20:05:43 [info] [ffmpegdecoder] found audio stream!
-20:05:43 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:05:43 [info] [Streams] found a decoder for /home/nuub/Songs/Akano/Kamado Tanjirou no Uta (From _Demon Slayer_ Kimetsu no Yaiba_)/01 Kamado Tanjirou no Uta (From _Demon Slayer_ Kimetsu no Yaiba_).m4a
-20:06:00 [info] [GaplessTransport] starting track at /home/nuub/Songs/AmaLee/Kiss of Death (From _Darling in the Franxx_)/01 Kiss of Death (From _Darling in the Franxx_).m4a
-20:06:00 [info] [Player] new instance created
-20:06:00 [info] [GaplessTransport] stop
-20:06:00 [info] [Stream] opening /home/nuub/Songs/AmaLee/Kiss of Death (From _Darling in the Franxx_)/01 Kiss of Death (From _Darling in the Franxx_).m4a
-20:06:00 [info] [LocalFileStream] opening file: /home/nuub/Songs/AmaLee/Kiss of Death (From _Darling in the Franxx_)/01 Kiss of Death (From _Darling in the Franxx_).m4a
-20:06:00 [info] [ffmpegdecoder] parsing data stream...
-20:06:00 [info] [ffmpegdecoder] found audio stream!
-20:06:00 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:06:00 [info] [Streams] found a decoder for /home/nuub/Songs/AmaLee/Kiss of Death (From _Darling in the Franxx_)/01 Kiss of Death (From _Darling in the Franxx_).m4a
-20:06:00 [info] [Player] new instance created
-20:06:00 [info] [Stream] opening /home/nuub/Songs/AmaLee/Kiss of Death (From _Darling in the Franxx_)/01 Kiss of Death (From _Darling in the Franxx_).m4a
-20:06:00 [info] [LocalFileStream] opening file: /home/nuub/Songs/AmaLee/Kiss of Death (From _Darling in the Franxx_)/01 Kiss of Death (From _Darling in the Franxx_).m4a
-20:06:00 [info] [ffmpegdecoder] parsing data stream...
-20:06:00 [info] [ffmpegdecoder] found audio stream!
-20:06:00 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:06:00 [info] [Streams] found a decoder for /home/nuub/Songs/AmaLee/Kiss of Death (From _Darling in the Franxx_)/01 Kiss of Death (From _Darling in the Franxx_).m4a
-20:06:06 [info] [GaplessTransport] starting track at /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:06:06 [info] [Player] new instance created
-20:06:06 [info] [GaplessTransport] stop
-20:06:06 [info] [Stream] opening /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:06:06 [info] [LocalFileStream] opening file: /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:06:06 [info] [ffmpegdecoder] parsing data stream...
-20:06:06 [info] [ffmpegdecoder] found audio stream!
-20:06:06 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:06:06 [info] [Streams] found a decoder for /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:06:06 [info] [Player] new instance created
-20:06:06 [info] [Stream] opening /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:06:06 [info] [LocalFileStream] opening file: /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:06:06 [info] [ffmpegdecoder] parsing data stream...
-20:06:06 [info] [ffmpegdecoder] found audio stream!
-20:06:06 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:06:06 [info] [Streams] found a decoder for /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:08:51 [info] [ffmpegdecoder] finished decoding.
-20:08:53 [info] [GaplessTransport] stop
-20:08:53 [info] [Player] new instance created
-20:08:53 [info] [Stream] opening /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:08:53 [info] [LocalFileStream] opening file: /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:08:53 [info] [ffmpegdecoder] parsing data stream...
-20:08:53 [info] [ffmpegdecoder] found audio stream!
-20:08:53 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:08:53 [info] [Streams] found a decoder for /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:11:39 [info] [ffmpegdecoder] finished decoding.
-20:11:41 [info] [GaplessTransport] stop
-20:11:41 [info] [Player] new instance created
-20:11:41 [info] [Stream] opening /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:11:41 [info] [LocalFileStream] opening file: /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:11:41 [info] [ffmpegdecoder] parsing data stream...
-20:11:41 [info] [ffmpegdecoder] found audio stream!
-20:11:41 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:11:41 [info] [Streams] found a decoder for /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:14:26 [info] [ffmpegdecoder] finished decoding.
-20:14:28 [info] [GaplessTransport] stop
-20:14:29 [info] [Player] new instance created
-20:14:29 [info] [Stream] opening /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:14:29 [info] [LocalFileStream] opening file: /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:14:29 [info] [ffmpegdecoder] parsing data stream...
-20:14:29 [info] [ffmpegdecoder] found audio stream!
-20:14:29 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:14:29 [info] [Streams] found a decoder for /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:17:14 [info] [ffmpegdecoder] finished decoding.
-20:17:16 [info] [GaplessTransport] stop
-20:17:16 [info] [Player] new instance created
-20:17:16 [info] [Stream] opening /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:17:16 [info] [LocalFileStream] opening file: /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:17:16 [info] [ffmpegdecoder] parsing data stream...
-20:17:16 [info] [ffmpegdecoder] found audio stream!
-20:17:16 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:17:16 [info] [Streams] found a decoder for /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:20:01 [info] [ffmpegdecoder] finished decoding.
-20:20:03 [info] [GaplessTransport] stop
-20:20:04 [info] [Player] new instance created
-20:20:04 [info] [Stream] opening /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:20:04 [info] [LocalFileStream] opening file: /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:20:04 [info] [ffmpegdecoder] parsing data stream...
-20:20:04 [info] [ffmpegdecoder] found audio stream!
-20:20:04 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:20:04 [info] [Streams] found a decoder for /home/nuub/Songs/Bazzi/COSMIC/03 Myself.m4a
-20:20:20 [info] [GaplessTransport] starting track at /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-20:20:20 [info] [Player] new instance created
-20:20:20 [info] [GaplessTransport] stop
-20:20:20 [info] [Stream] opening /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-20:20:20 [info] [LocalFileStream] opening file: /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-20:20:20 [info] [ffmpegdecoder] parsing data stream...
-20:20:20 [info] [ffmpegdecoder] found audio stream!
-20:20:20 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:20:20 [info] [Streams] found a decoder for /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-20:20:21 [info] [Player] new instance created
-20:20:21 [info] [Stream] opening /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-20:20:21 [info] [LocalFileStream] opening file: /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-20:20:21 [info] [ffmpegdecoder] parsing data stream...
-20:20:21 [info] [ffmpegdecoder] found audio stream!
-20:20:21 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:20:21 [info] [Streams] found a decoder for /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-20:24:25 [info] [ffmpegdecoder] finished decoding.
-20:24:28 [info] [GaplessTransport] stop
-20:24:28 [info] [Player] new instance created
-20:24:28 [info] [Stream] opening /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-20:24:28 [info] [LocalFileStream] opening file: /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-20:24:28 [info] [ffmpegdecoder] parsing data stream...
-20:24:28 [info] [ffmpegdecoder] found audio stream!
-20:24:28 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:24:28 [info] [Streams] found a decoder for /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
-20:30:06 [info] [ffmpegdecoder] finished decoding.
-20:30:09 [info] [GaplessTransport] stop
-20:30:09 [info] [Player] new instance created
-20:30:09 [info] [Stream] opening /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-20:30:09 [info] [LocalFileStream] opening file: /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-20:30:09 [info] [ffmpegdecoder] parsing data stream...
-20:30:09 [info] [ffmpegdecoder] found audio stream!
-20:30:09 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-20:30:09 [info] [Streams] found a decoder for /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
-20:31:36 [info] [GaplessTransport] pause
-20:42:10 [info] [GaplessTransport] stop
+12:59:27 [info] [LOG SESSION] ---------- START ----------
+12:59:27 [info] [PluginFactory] loading plugins
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
+12:59:27 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+12:59:27 [info] [Indexer] indexer source -1303229654 running...
+12:59:27 [info] [Indexer] indexer source -1303229654 finished
+12:59:27 [info] [Indexer] indexer source 155697690 running...
+12:59:27 [info] [Indexer] indexer source 155697690 finished
+12:59:27 [info] [Indexer] scanning /home/nuub/Music/
+12:59:27 [info] [Indexer] scanning /home/nuub/Songs/
+12:59:27 [info] [Indexer] scan completed successfully
+12:59:27 [info] [Indexer] cleanup 1/2
+12:59:27 [info] [Indexer] cleanup 2/2
+12:59:27 [info] [Indexer] optimizing
+12:59:27 [info] [Indexer] done!
+12:59:27 [info] [GaplessTransport] starting track at /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
+12:59:27 [info] [Player] new instance created
+12:59:27 [info] [GaplessTransport] stop
+12:59:27 [info] [Stream] opening /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
+12:59:27 [info] [LocalFileStream] opening file: /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
+12:59:27 [info] [ffmpegdecoder] parsing data stream...
+12:59:27 [info] [ffmpegdecoder] found audio stream!
+12:59:27 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+12:59:27 [info] [Streams] found a decoder for /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano_ Volume 1/02 Fukashigi no Carte (From _Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai_) - Piano Arra.m4a
+12:59:29 [info] [GaplessTransport] resume
+12:59:29 [info] [Player] new instance created
+12:59:29 [info] [Stream] opening /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
+12:59:29 [info] [LocalFileStream] opening file: /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
+12:59:29 [info] [ffmpegdecoder] parsing data stream...
+12:59:29 [info] [ffmpegdecoder] found audio stream!
+12:59:29 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+12:59:29 [info] [Streams] found a decoder for /home/nuub/Songs/zzz - Anime on Piano/Best of zzz - Anime on Piano, Vol. 2/05 Kamado Tanjirou no Uta (From _Demon Slayer_) [Piano Arrangement].m4a
+12:59:59 [info] [GaplessTransport] pause
+13:00:01 [info] [GaplessTransport] resume
+13:00:27 [info] [GaplessTransport] starting track at /home/nuub/Songs/Shayne Orok/Fukashigi no Carte (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)/01 Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai.m4a
+13:00:27 [info] [Player] new instance created
+13:00:27 [info] [GaplessTransport] stop
+13:00:27 [info] [Stream] opening /home/nuub/Songs/Shayne Orok/Fukashigi no Carte (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)/01 Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai.m4a
+13:00:27 [info] [LocalFileStream] opening file: /home/nuub/Songs/Shayne Orok/Fukashigi no Carte (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)/01 Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai.m4a
+13:00:27 [info] [ffmpegdecoder] parsing data stream...
+13:00:27 [info] [ffmpegdecoder] found audio stream!
+13:00:27 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:00:27 [info] [Streams] found a decoder for /home/nuub/Songs/Shayne Orok/Fukashigi no Carte (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)/01 Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai.m4a
+13:00:27 [info] [Player] new instance created
+13:00:27 [info] [Stream] opening /home/nuub/Songs/Nightcore/Gaming in Japan/01 Gaming in Japan.m4a
+13:00:27 [info] [LocalFileStream] opening file: /home/nuub/Songs/Nightcore/Gaming in Japan/01 Gaming in Japan.m4a
+13:00:27 [info] [ffmpegdecoder] parsing data stream...
+13:00:28 [info] [ffmpegdecoder] found audio stream!
+13:00:28 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:00:28 [info] [Streams] found a decoder for /home/nuub/Songs/Nightcore/Gaming in Japan/01 Gaming in Japan.m4a
+13:00:35 [info] [ffmpegdecoder] finished decoding.
+13:00:37 [info] [GaplessTransport] stop
+13:00:37 [info] [Player] new instance created
+13:00:37 [info] [Stream] opening /home/nuub/Songs/The Marcus Hedges Trend Orchestra/Gravity Falls Intro Theme (Orchestrated)/01 Gravity Falls Intro Theme (Orchestrated).m4a
+13:00:37 [info] [LocalFileStream] opening file: /home/nuub/Songs/The Marcus Hedges Trend Orchestra/Gravity Falls Intro Theme (Orchestrated)/01 Gravity Falls Intro Theme (Orchestrated).m4a
+13:00:37 [info] [ffmpegdecoder] parsing data stream...
+13:00:37 [info] [ffmpegdecoder] found audio stream!
+13:00:37 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:00:37 [info] [Streams] found a decoder for /home/nuub/Songs/The Marcus Hedges Trend Orchestra/Gravity Falls Intro Theme (Orchestrated)/01 Gravity Falls Intro Theme (Orchestrated).m4a
+13:00:39 [info] [GaplessTransport] starting track at /home/nuub/Songs/Shayne Orok/Fukashigi no Carte (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)/01 Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai.m4a
+13:00:39 [info] [Player] new instance created
+13:00:39 [info] [Stream] opening /home/nuub/Songs/Shayne Orok/Fukashigi no Carte (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)/01 Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai.m4a
+13:00:39 [info] [LocalFileStream] opening file: /home/nuub/Songs/Shayne Orok/Fukashigi no Carte (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)/01 Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai.m4a
+13:00:39 [info] [ffmpegdecoder] parsing data stream...
+13:00:39 [info] [GaplessTransport] stop
+13:00:39 [info] [ffmpegdecoder] found audio stream!
+13:00:39 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:00:39 [info] [Streams] found a decoder for /home/nuub/Songs/Shayne Orok/Fukashigi no Carte (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)/01 Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai.m4a
+13:00:40 [info] [Player] new instance created
+13:00:40 [info] [Stream] opening /home/nuub/Songs/Nightcore/Gaming in Japan/01 Gaming in Japan.m4a
+13:00:40 [info] [LocalFileStream] opening file: /home/nuub/Songs/Nightcore/Gaming in Japan/01 Gaming in Japan.m4a
+13:00:40 [info] [ffmpegdecoder] parsing data stream...
+13:00:40 [info] [ffmpegdecoder] found audio stream!
+13:00:40 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:00:40 [info] [Streams] found a decoder for /home/nuub/Songs/Nightcore/Gaming in Japan/01 Gaming in Japan.m4a
+13:02:03 [info] [ffmpegdecoder] finished decoding.
+13:02:06 [info] [GaplessTransport] stop
+13:02:06 [info] [Player] new instance created
+13:02:06 [info] [Stream] opening /home/nuub/Songs/The Marcus Hedges Trend Orchestra/Gravity Falls Intro Theme (Orchestrated)/01 Gravity Falls Intro Theme (Orchestrated).m4a
+13:02:06 [info] [LocalFileStream] opening file: /home/nuub/Songs/The Marcus Hedges Trend Orchestra/Gravity Falls Intro Theme (Orchestrated)/01 Gravity Falls Intro Theme (Orchestrated).m4a
+13:02:06 [info] [ffmpegdecoder] parsing data stream...
+13:02:06 [info] [ffmpegdecoder] found audio stream!
+13:02:06 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:02:06 [info] [Streams] found a decoder for /home/nuub/Songs/The Marcus Hedges Trend Orchestra/Gravity Falls Intro Theme (Orchestrated)/01 Gravity Falls Intro Theme (Orchestrated).m4a
+13:04:31 [info] [ffmpegdecoder] finished decoding.
+13:04:33 [info] [GaplessTransport] stop
+13:04:34 [info] [Player] new instance created
+13:04:34 [info] [Stream] opening /home/nuub/Songs/Jayn/Gravity Falls Theme (Music Box)/01 Gravity Falls Theme (Music Box).m4a
+13:04:34 [info] [LocalFileStream] opening file: /home/nuub/Songs/Jayn/Gravity Falls Theme (Music Box)/01 Gravity Falls Theme (Music Box).m4a
+13:04:34 [info] [ffmpegdecoder] parsing data stream...
+13:04:34 [info] [ffmpegdecoder] found audio stream!
+13:04:34 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:04:34 [info] [Streams] found a decoder for /home/nuub/Songs/Jayn/Gravity Falls Theme (Music Box)/01 Gravity Falls Theme (Music Box).m4a
+13:05:52 [info] [ffmpegdecoder] finished decoding.
+13:05:54 [info] [GaplessTransport] stop
+13:05:54 [info] [Player] new instance created
+13:05:54 [info] [Stream] opening /home/nuub/Songs/The Turtles/Happy Together/06 Happy Together.m4a
+13:05:54 [info] [LocalFileStream] opening file: /home/nuub/Songs/The Turtles/Happy Together/06 Happy Together.m4a
+13:05:54 [info] [ffmpegdecoder] parsing data stream...
+13:05:54 [info] [ffmpegdecoder] found audio stream!
+13:05:54 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:05:54 [info] [Streams] found a decoder for /home/nuub/Songs/The Turtles/Happy Together/06 Happy Together.m4a
+13:06:39 [info] [ffmpegdecoder] finished decoding.
+13:06:41 [info] [GaplessTransport] stop
+13:06:41 [info] [Player] new instance created
+13:06:41 [info] [Stream] opening /home/nuub/Songs/Noise Matters/Heavy Thunder And Soothing Noise/01 Heavy Thunder And Soothing Noise Seamless.m4a
+13:06:41 [info] [LocalFileStream] opening file: /home/nuub/Songs/Noise Matters/Heavy Thunder And Soothing Noise/01 Heavy Thunder And Soothing Noise Seamless.m4a
+13:06:41 [info] [ffmpegdecoder] parsing data stream...
+13:06:41 [info] [ffmpegdecoder] found audio stream!
+13:06:41 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:06:41 [info] [Streams] found a decoder for /home/nuub/Songs/Noise Matters/Heavy Thunder And Soothing Noise/01 Heavy Thunder And Soothing Noise Seamless.m4a
+13:09:35 [info] [ffmpegdecoder] finished decoding.
+13:09:38 [info] [GaplessTransport] stop
+13:09:38 [info] [Player] new instance created
+13:09:38 [info] [Stream] opening /home/nuub/Songs/Shiki-TMNS/Hentai San/01 Hentai San.m4a
+13:09:38 [info] [LocalFileStream] opening file: /home/nuub/Songs/Shiki-TMNS/Hentai San/01 Hentai San.m4a
+13:09:38 [info] [ffmpegdecoder] parsing data stream...
+13:09:38 [info] [ffmpegdecoder] found audio stream!
+13:09:38 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:09:38 [info] [Streams] found a decoder for /home/nuub/Songs/Shiki-TMNS/Hentai San/01 Hentai San.m4a
+13:12:47 [info] [ffmpegdecoder] finished decoding.
+13:12:49 [info] [GaplessTransport] stop
+13:12:50 [info] [Player] new instance created
+13:12:50 [info] [Stream] opening /home/nuub/Songs/Markiplier/I Don't Wanna Be Free/01 I Don't Wanna Be Free.m4a
+13:12:50 [info] [LocalFileStream] opening file: /home/nuub/Songs/Markiplier/I Don't Wanna Be Free/01 I Don't Wanna Be Free.m4a
+13:12:50 [info] [ffmpegdecoder] parsing data stream...
+13:12:50 [info] [ffmpegdecoder] found audio stream!
+13:12:50 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:12:50 [info] [Streams] found a decoder for /home/nuub/Songs/Markiplier/I Don't Wanna Be Free/01 I Don't Wanna Be Free.m4a
+13:16:11 [info] [ffmpegdecoder] finished decoding.
+13:16:14 [info] [GaplessTransport] stop
+13:16:14 [info] [Player] new instance created
+13:16:14 [info] [Stream] opening /home/nuub/Songs/INTERSECTION/INTERSECTION/10 One Step Closer.m4a
+13:16:14 [info] [LocalFileStream] opening file: /home/nuub/Songs/INTERSECTION/INTERSECTION/10 One Step Closer.m4a
+13:16:14 [info] [ffmpegdecoder] parsing data stream...
+13:16:14 [info] [ffmpegdecoder] found audio stream!
+13:16:14 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:16:14 [info] [Streams] found a decoder for /home/nuub/Songs/INTERSECTION/INTERSECTION/10 One Step Closer.m4a
+13:18:34 [info] [ffmpegdecoder] finished decoding.
+13:18:36 [info] [GaplessTransport] stop
+13:18:36 [info] [Player] new instance created
+13:18:36 [info] [Stream] opening /home/nuub/Songs/Akano/Isabella's Lullaby (From _The Promised Neverland_)/01 Isabella's Lullaby (From _The Promised Neverland_).m4a
+13:18:36 [info] [LocalFileStream] opening file: /home/nuub/Songs/Akano/Isabella's Lullaby (From _The Promised Neverland_)/01 Isabella's Lullaby (From _The Promised Neverland_).m4a
+13:18:36 [info] [ffmpegdecoder] parsing data stream...
+13:18:36 [info] [ffmpegdecoder] found audio stream!
+13:18:36 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:18:36 [info] [Streams] found a decoder for /home/nuub/Songs/Akano/Isabella's Lullaby (From _The Promised Neverland_)/01 Isabella's Lullaby (From _The Promised Neverland_).m4a
+13:22:23 [info] [ffmpegdecoder] finished decoding.
+13:22:26 [info] [GaplessTransport] stop
+13:22:26 [info] [Player] new instance created
+13:22:26 [info] [Stream] opening /home/nuub/Songs/Yugo Kanno/JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture/01 il vento d'oro.m4a
+13:22:26 [info] [LocalFileStream] opening file: /home/nuub/Songs/Yugo Kanno/JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture/01 il vento d'oro.m4a
+13:22:26 [info] [ffmpegdecoder] parsing data stream...
+13:22:26 [info] [ffmpegdecoder] found audio stream!
+13:22:26 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:22:26 [info] [Streams] found a decoder for /home/nuub/Songs/Yugo Kanno/JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture/01 il vento d'oro.m4a
+13:24:51 [info] [ffmpegdecoder] finished decoding.
+13:24:53 [info] [GaplessTransport] stop
+13:24:54 [info] [Player] new instance created
+13:24:54 [info] [Stream] opening /home/nuub/Songs/Fonzi M/Kamado Tanjiro no Uta (From _Demon Slayer_ Kimetsu no Yaiba_) [Piano Solo]/01 Kamado Tanjiro no Uta (From _Demon Slayer_ Kimetsu no Yaiba_) [Piano Solo].m4a
+13:24:54 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/Kamado Tanjiro no Uta (From _Demon Slayer_ Kimetsu no Yaiba_) [Piano Solo]/01 Kamado Tanjiro no Uta (From _Demon Slayer_ Kimetsu no Yaiba_) [Piano Solo].m4a
+13:24:54 [info] [ffmpegdecoder] parsing data stream...
+13:24:54 [info] [ffmpegdecoder] found audio stream!
+13:24:54 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+13:24:54 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/Kamado Tanjiro no Uta (From _Demon Slayer_ Kimetsu no Yaiba_) [Piano Solo]/01 Kamado Tanjiro no Uta (From _Demon Slayer_ Kimetsu no Yaiba_) [Piano Solo].m4a
+13:29:28 [info] [GaplessTransport] pause
+13:33:48 [info] [GaplessTransport] stop
