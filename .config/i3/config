@@ -511,3 +511,6 @@ mode "$mode_launcher" {
 
 # Starting up caps-indicator
 exec --no-startup-id caps-indicator
+
+# Starting up the i3-auto-arrange
+exec --no-startup-id i3-auto-arrange
