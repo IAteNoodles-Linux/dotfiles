@@ -1,64 +1,69 @@
-09:56:03 [info] [LOG SESSION] ---------- START ----------
-09:56:03 [info] [PluginFactory] loading plugins
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
-09:56:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-09:56:03 [info] [Indexer] indexer source -1303229654 running...
-09:56:03 [info] [Indexer] indexer source -1303229654 finished
-09:56:03 [info] [Indexer] indexer source 155697690 running...
-09:56:03 [info] [Indexer] indexer source 155697690 finished
-09:56:03 [info] [Indexer] scanning /home/nuub/Music/
-09:56:03 [info] [Indexer] scanning /home/nuub/Songs/
-09:56:03 [info] [Indexer] scan completed successfully
-09:56:03 [info] [Indexer] cleanup 1/2
-09:56:03 [info] [Indexer] cleanup 2/2
-09:56:03 [info] [Indexer] optimizing
-09:56:03 [info] [Indexer] done!
-09:56:03 [info] [GaplessTransport] starting track at /home/nuub/Songs/Yugo Kanno/JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture/01 il vento d'oro.m4a
-09:56:03 [info] [Player] new instance created
-09:56:03 [info] [GaplessTransport] stop
-09:56:03 [info] [Stream] opening /home/nuub/Songs/Yugo Kanno/JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture/01 il vento d'oro.m4a
-09:56:03 [info] [LocalFileStream] opening file: /home/nuub/Songs/Yugo Kanno/JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture/01 il vento d'oro.m4a
-09:56:03 [info] [ffmpegdecoder] parsing data stream...
-09:56:03 [info] [ffmpegdecoder] found audio stream!
-09:56:03 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-09:56:03 [info] [Streams] found a decoder for /home/nuub/Songs/Yugo Kanno/JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture/01 il vento d'oro.m4a
-09:56:07 [info] [GaplessTransport] starting track at /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
-09:56:07 [info] [Player] new instance created
-09:56:07 [info] [Stream] opening /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
-09:56:07 [info] [LocalFileStream] opening file: /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
-09:56:07 [info] [ffmpegdecoder] parsing data stream...
-09:56:07 [info] [GaplessTransport] stop
-09:56:07 [info] [ffmpegdecoder] found audio stream!
-09:56:07 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-09:56:07 [info] [Streams] found a decoder for /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
-09:56:07 [info] [Player] new instance created
-09:56:07 [info] [Stream] opening /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-09:56:07 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-09:56:07 [info] [ffmpegdecoder] parsing data stream...
-09:56:07 [info] [ffmpegdecoder] found audio stream!
-09:56:07 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-09:56:07 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-09:56:08 [info] [GaplessTransport] pause
-09:56:21 [info] [GaplessTransport] resume
-09:56:22 [info] [GaplessTransport] pause
-09:56:31 [info] [GaplessTransport] resume
-10:00:11 [info] [ffmpegdecoder] finished decoding.
-10:00:14 [info] [GaplessTransport] stop
-10:00:14 [info] [Player] new instance created
-10:00:14 [info] [Stream] opening /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
-10:00:14 [info] [LocalFileStream] opening file: /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
-10:00:14 [info] [ffmpegdecoder] parsing data stream...
-10:00:14 [info] [ffmpegdecoder] found audio stream!
-10:00:14 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-10:00:14 [info] [Streams] found a decoder for /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
-10:01:19 [info] [GaplessTransport] stop
+21:58:14 [info] [LOG SESSION] ---------- START ----------
+21:58:14 [info] [PluginFactory] loading plugins
+21:58:14 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+21:58:14 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+21:58:14 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
+21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+21:58:15 [info] [Indexer] indexer source -1303229654 running...
+21:58:15 [info] [Indexer] indexer source -1303229654 finished
+21:58:15 [info] [Indexer] indexer source 155697690 running...
+21:58:15 [info] [Indexer] indexer source 155697690 finished
+21:58:15 [info] [Indexer] scanning /home/nuub/Music/
+21:58:15 [info] [Indexer] scanning /home/nuub/Songs/
+21:58:15 [info] [GaplessTransport] starting track at /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:58:15 [info] [Player] new instance created
+21:58:15 [info] [GaplessTransport] stop
+21:58:15 [info] [Stream] opening /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:58:15 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:58:15 [info] [ffmpegdecoder] parsing data stream...
+21:58:15 [info] [Indexer] scan completed successfully
+21:58:15 [info] [Indexer] cleanup 1/2
+21:58:15 [info] [Indexer] cleanup 2/2
+21:58:15 [info] [Indexer] optimizing
+21:58:15 [info] [Indexer] done!
+21:58:15 [info] [ffmpegdecoder] found audio stream!
+21:58:15 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:58:15 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:59:49 [info] [GaplessTransport] starting track at /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:59:49 [info] [Player] new instance created
+21:59:49 [info] [Stream] opening /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:59:49 [info] [LocalFileStream] opening file: /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:59:49 [info] [ffmpegdecoder] parsing data stream...
+21:59:49 [info] [GaplessTransport] stop
+21:59:49 [info] [ffmpegdecoder] found audio stream!
+21:59:49 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:59:49 [info] [Streams] found a decoder for /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
+21:59:50 [info] [Player] new instance created
+21:59:50 [info] [Stream] opening /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:59:50 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+21:59:50 [info] [ffmpegdecoder] parsing data stream...
+21:59:50 [info] [ffmpegdecoder] found audio stream!
+21:59:50 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+21:59:50 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
+22:03:33 [info] [ffmpegdecoder] finished decoding.
+22:03:35 [info] [GaplessTransport] stop
+22:03:35 [info] [Player] new instance created
+22:03:35 [info] [Stream] opening /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
+22:03:35 [info] [LocalFileStream] opening file: /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
+22:03:35 [info] [ffmpegdecoder] parsing data stream...
+22:03:35 [info] [ffmpegdecoder] found audio stream!
+22:03:35 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+22:03:35 [info] [Streams] found a decoder for /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
+22:06:52 [info] [ffmpegdecoder] finished decoding.
+22:06:54 [info] [GaplessTransport] stop
+22:06:54 [info] [Player] new instance created
+22:06:54 [info] [Stream] opening /home/nuub/Songs/Caramel Column/ALTER EGO ORIGINAL SOUNDTRACK/02 Silence (piano).m4a
+22:06:54 [info] [LocalFileStream] opening file: /home/nuub/Songs/Caramel Column/ALTER EGO ORIGINAL SOUNDTRACK/02 Silence (piano).m4a
+22:06:54 [info] [ffmpegdecoder] parsing data stream...
+22:06:54 [info] [ffmpegdecoder] found audio stream!
+22:06:54 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+22:06:54 [info] [Streams] found a decoder for /home/nuub/Songs/Caramel Column/ALTER EGO ORIGINAL SOUNDTRACK/02 Silence (piano).m4a
+22:08:49 [info] [GaplessTransport] stop
