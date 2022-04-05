@@ -512,5 +512,5 @@ mode "$mode_launcher" {
 # Starting up caps-indicator
 exec --no-startup-id caps-indicator
 
-# Starting up the autotilling
-exec --no-startup-id autotilling
+# Starting up the autotiling
+exec --no-startup-id autotiling
