@@ -58,7 +58,9 @@ Plug 'SirVer/ultisnips'
 Plug 'vim-airline/vim-airline'
 Plug 'NLKNguyen/papercolor-theme'
 Plug 'ryanoasis/vim-devicons'
-
+Plug 'tpope/vim-surround'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'tpope/vim-repeat'
 call plug#end()
 
 "Setting up line numbering"

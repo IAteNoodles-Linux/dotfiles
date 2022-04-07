@@ -58,7 +58,9 @@ Plug 'SirVer/ultisnips'
 Plug 'vim-airline/vim-airline'
 Plug 'NLKNguyen/papercolor-theme'
 Plug 'ryanoasis/vim-devicons'
-
+Plug 'tpope/vim-surround'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'tpope/vim-repeat'
 call plug#end()
 
 "Setting up line numbering"
@@ -104,7 +106,5 @@ let g:PaperColor_Theme_Options = {
 let g:python_highlight_all = 1
 let g:python_highlight_builtins = 1
 set grepprg=grep\ -nH\ $*
-
 let g:tex_flavor = "latex"
-
 
