@@ -108,3 +108,7 @@ let g:python_highlight_builtins = 1
 set grepprg=grep\ -nH\ $*
 let g:tex_flavor = "latex"
 
+"Setting up autosave"
+autocmd BufWritePre * :wq!
+
+
