@@ -1,35 +1,45 @@
-19:08:03 [info] [LOG SESSION] ---------- START ----------
-19:08:03 [info] [PluginFactory] loading plugins
-19:08:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-19:08:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-19:08:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-19:08:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-19:08:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-19:08:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-19:08:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-19:08:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-19:08:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-19:08:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-19:08:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
-19:08:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-19:08:04 [info] [Indexer] indexer source -1303229654 running...
-19:08:04 [info] [Indexer] indexer source -1303229654 finished
-19:08:04 [info] [Indexer] indexer source 155697690 running...
-19:08:04 [info] [Indexer] indexer source 155697690 finished
-19:08:04 [info] [Indexer] scanning /home/nuub/Music/
-19:08:04 [info] [Indexer] scanning /home/nuub/SpotiFlyer/
-19:08:04 [info] [Indexer] scan completed successfully
-19:08:04 [info] [Indexer] cleanup 1/2
-19:08:04 [info] [Indexer] cleanup 2/2
-19:08:04 [info] [Indexer] optimizing
-19:08:04 [info] [Indexer] done!
-19:08:04 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
-19:08:04 [info] [Player] new instance created
-19:08:04 [info] [GaplessTransport] stop
-19:08:04 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
-19:08:04 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
-19:08:04 [info] [ffmpegdecoder] parsing data stream...
-19:08:04 [info] [ffmpegdecoder] found audio stream!
-19:08:04 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:08:04 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
-19:08:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:17:56 [info] [LOG SESSION] ---------- START ----------
+20:17:56 [info] [PluginFactory] loading plugins
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
+20:17:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+20:17:56 [info] [Indexer] indexer source -1303229654 running...
+20:17:56 [info] [Indexer] indexer source -1303229654 finished
+20:17:56 [info] [Indexer] indexer source 155697690 running...
+20:17:56 [info] [Indexer] indexer source 155697690 finished
+20:17:56 [info] [Indexer] scanning /home/nuub/Music/
+20:17:56 [info] [Indexer] scanning /home/nuub/SpotiFlyer/
+20:17:56 [info] [Indexer] scan completed successfully
+20:17:56 [info] [Indexer] cleanup 1/2
+20:17:56 [info] [Indexer] cleanup 2/2
+20:17:56 [info] [Indexer] optimizing
+20:17:57 [info] [Indexer] done!
+20:17:57 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Silence__piano_.mp3
+20:17:57 [info] [Player] new instance created
+20:17:57 [info] [GaplessTransport] stop
+20:17:57 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Silence__piano_.mp3
+20:17:57 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Silence__piano_.mp3
+20:17:57 [info] [ffmpegdecoder] parsing data stream...
+20:17:57 [info] [ffmpegdecoder] found audio stream!
+20:17:57 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:17:57 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Silence__piano_.mp3
+20:17:57 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:18:04 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/100_Years.mp3
+20:18:04 [info] [Player] new instance created
+20:18:04 [info] [GaplessTransport] stop
+20:18:04 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/100_Years.mp3
+20:18:04 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/100_Years.mp3
+20:18:04 [info] [ffmpegdecoder] parsing data stream...
+20:18:04 [info] [ffmpegdecoder] found audio stream!
+20:18:04 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:18:04 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/100_Years.mp3
+20:18:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
