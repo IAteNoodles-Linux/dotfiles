@@ -1,6 +1,3 @@
-[2022-04-09 23:02:26] [info] asio async_connect error: system:111 (Connection refused)
-[2022-04-09 23:02:26] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
-[2022-04-09 23:02:26] [error] handle_connect error: Underlying Transport Error
 AlsaOut::AlsaOut() called
 PulseOut::PulseOut() called
 AlsaOut: destructor
@@ -8,14 +5,9 @@ AlsaOut: joining...
 AlsaOut: thread finished
 AlsaOut: closing device...
 AlsaOut: destroyed.
-TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
-[mp3float @ 0x7fadfc020580] Could not update timestamps for skipped samples.
-TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
-TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
-TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
-TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
-TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
-[mp3float @ 0x7fae18006300] Could not update timestamps for skipped samples.
+[2022-04-10 19:02:17] [info] asio listen error: system:98 (Address already in use)
+Underlying Transport Error
+[mp3float @ 0x7ffbac03f280] Could not update timestamps for skipped samples.
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
 pulse_blocking_stream: CHECK_VALIDITY dir
@@ -24,45 +16,3 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[mp3float @ 0x7fadec01f740] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fadec061800] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fade401fec0] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fade401f340] stream 0, timescale not set
-[aac @ 0x7fade400b380] Multiple frames in a packet.
-[aac @ 0x7fade400b380] Number of bands (12) exceeds limit (11).
-[aac @ 0x7fade400b380] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fae18060b80] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fae1804b580] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fade4030b80] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fadec01a4c0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fae180066c0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fade4004f80] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fadec01a880] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fade4004f80] Could not update timestamps for discarded samples.
-[mp3float @ 0x7fade4017ec0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fadec01a880] Could not update timestamps for discarded samples.
-[mp3float @ 0x7fadec01ac40] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fae180021c0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fae180555c0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fade4017ec0] overread, skip -6 enddists: -3 -3
-[mp3float @ 0x7fade4017ec0] overread, skip -5 enddists: -1 -1
-[mp3float @ 0x7fade4017ec0] overread, skip -6 enddists: -3 -3
-[mp3float @ 0x7fadec072940] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fade400e800] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fadec072940] Could not update timestamps for discarded samples.
-[mp3float @ 0x7fadec037440] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fadec01b000] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fae18058cc0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fade4040a80] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fae18058cc0] Could not update timestamps for discarded samples.
-[mp3float @ 0x7fae18054680] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fade4040a80] Could not update timestamps for discarded samples.
-[mp3float @ 0x7fade4041740] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fae18054680] Could not update timestamps for discarded samples.
-[mp3float @ 0x7fae1805a880] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fade4041740] Could not update timestamps for discarded samples.
-[mp3float @ 0x7fade4042400] Could not update timestamps for skipped samples.
-[2022-04-09 23:32:53] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
-PulseOut: destroy
-PulseOut: destructor
-PulseOut: closing device
