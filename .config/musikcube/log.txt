@@ -1,69 +1,273 @@
-21:58:14 [info] [LOG SESSION] ---------- START ----------
-21:58:14 [info] [PluginFactory] loading plugins
-21:58:14 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-21:58:14 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-21:58:14 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
-21:58:15 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-21:58:15 [info] [Indexer] indexer source -1303229654 running...
-21:58:15 [info] [Indexer] indexer source -1303229654 finished
-21:58:15 [info] [Indexer] indexer source 155697690 running...
-21:58:15 [info] [Indexer] indexer source 155697690 finished
-21:58:15 [info] [Indexer] scanning /home/nuub/Music/
-21:58:15 [info] [Indexer] scanning /home/nuub/Songs/
-21:58:15 [info] [GaplessTransport] starting track at /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-21:58:15 [info] [Player] new instance created
-21:58:15 [info] [GaplessTransport] stop
-21:58:15 [info] [Stream] opening /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-21:58:15 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-21:58:15 [info] [ffmpegdecoder] parsing data stream...
-21:58:15 [info] [Indexer] scan completed successfully
-21:58:15 [info] [Indexer] cleanup 1/2
-21:58:15 [info] [Indexer] cleanup 2/2
-21:58:15 [info] [Indexer] optimizing
-21:58:15 [info] [Indexer] done!
-21:58:15 [info] [ffmpegdecoder] found audio stream!
-21:58:15 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-21:58:15 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-21:59:49 [info] [GaplessTransport] starting track at /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
-21:59:49 [info] [Player] new instance created
-21:59:49 [info] [Stream] opening /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
-21:59:49 [info] [LocalFileStream] opening file: /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
-21:59:49 [info] [ffmpegdecoder] parsing data stream...
-21:59:49 [info] [GaplessTransport] stop
-21:59:49 [info] [ffmpegdecoder] found audio stream!
-21:59:49 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-21:59:49 [info] [Streams] found a decoder for /home/nuub/Songs/Or3o/100 Years/01 100 Years.m4a
-21:59:50 [info] [Player] new instance created
-21:59:50 [info] [Stream] opening /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-21:59:50 [info] [LocalFileStream] opening file: /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-21:59:50 [info] [ffmpegdecoder] parsing data stream...
-21:59:50 [info] [ffmpegdecoder] found audio stream!
-21:59:50 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-21:59:50 [info] [Streams] found a decoder for /home/nuub/Songs/Fonzi M/A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version]/01 A Cruel Angel's Thesis (From _Neon Genesis Evangelion_) [Piano Version].m4a
-22:03:33 [info] [ffmpegdecoder] finished decoding.
-22:03:35 [info] [GaplessTransport] stop
-22:03:35 [info] [Player] new instance created
-22:03:35 [info] [Stream] opening /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
-22:03:35 [info] [LocalFileStream] opening file: /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
-22:03:35 [info] [ffmpegdecoder] parsing data stream...
-22:03:35 [info] [ffmpegdecoder] found audio stream!
-22:03:35 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-22:03:35 [info] [Streams] found a decoder for /home/nuub/Songs/Kensuke Ushio/A Shape of Light _A Silent Voice the Movie_ Original Soundtrack/39 lit(var).m4a
-22:06:52 [info] [ffmpegdecoder] finished decoding.
-22:06:54 [info] [GaplessTransport] stop
-22:06:54 [info] [Player] new instance created
-22:06:54 [info] [Stream] opening /home/nuub/Songs/Caramel Column/ALTER EGO ORIGINAL SOUNDTRACK/02 Silence (piano).m4a
-22:06:54 [info] [LocalFileStream] opening file: /home/nuub/Songs/Caramel Column/ALTER EGO ORIGINAL SOUNDTRACK/02 Silence (piano).m4a
-22:06:54 [info] [ffmpegdecoder] parsing data stream...
-22:06:54 [info] [ffmpegdecoder] found audio stream!
-22:06:54 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
-22:06:54 [info] [Streams] found a decoder for /home/nuub/Songs/Caramel Column/ALTER EGO ORIGINAL SOUNDTRACK/02 Silence (piano).m4a
-22:08:49 [info] [GaplessTransport] stop
+23:02:26 [info] [LOG SESSION] ---------- START ----------
+23:02:26 [info] [PluginFactory] loading plugins
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
+23:02:26 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+23:02:26 [info] [Indexer] indexer source -1303229654 running...
+23:02:26 [info] [Indexer] indexer source -1303229654 finished
+23:02:26 [info] [Indexer] indexer source 155697690 running...
+23:02:26 [info] [Indexer] indexer source 155697690 finished
+23:02:26 [info] [Indexer] scanning /home/nuub/Music/
+23:02:26 [info] [Indexer] scanning /home/nuub/SpotiFlyer/
+23:02:26 [info] [Indexer] scan completed successfully
+23:02:26 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Undertale_Shop.mp3
+23:02:26 [info] [Player] new instance created
+23:02:26 [info] [GaplessTransport] stop
+23:02:26 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Undertale_Shop.mp3
+23:02:26 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Undertale_Shop.mp3
+23:02:26 [info] [ffmpegdecoder] parsing data stream...
+23:02:26 [info] [ffmpegdecoder] found audio stream!
+23:02:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:02:26 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Undertale_Shop.mp3
+23:02:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:02:29 [info] [Indexer] cleanup 1/2
+23:02:29 [info] [Indexer] cleanup 2/2
+23:02:29 [info] [Indexer] optimizing
+23:02:29 [info] [Indexer] done!
+23:02:40 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Brittle_Bones_Nicky.mp3
+23:02:40 [info] [Player] new instance created
+23:02:40 [info] [GaplessTransport] stop
+23:02:40 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Brittle_Bones_Nicky.mp3
+23:02:40 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Brittle_Bones_Nicky.mp3
+23:02:40 [info] [ffmpegdecoder] parsing data stream...
+23:02:40 [info] [ffmpegdecoder] found audio stream!
+23:02:40 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:02:40 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Brittle_Bones_Nicky.mp3
+23:02:40 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:02:41 [info] [Player] new instance created
+23:02:41 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/A_Cruel_Angel_s_Thesis__From__Evangelion__.mp3
+23:02:41 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/A_Cruel_Angel_s_Thesis__From__Evangelion__.mp3
+23:02:41 [info] [ffmpegdecoder] parsing data stream...
+23:02:41 [info] [ffmpegdecoder] found audio stream!
+23:02:41 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:02:41 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/A_Cruel_Angel_s_Thesis__From__Evangelion__.mp3
+23:02:41 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:02:42 [info] [Player] new instance created
+23:02:42 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Brittle_Bones_Nicky.mp3
+23:02:42 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Brittle_Bones_Nicky.mp3
+23:02:42 [info] [ffmpegdecoder] parsing data stream...
+23:02:42 [info] [ffmpegdecoder] found audio stream!
+23:02:42 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:02:42 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Brittle_Bones_Nicky.mp3
+23:02:42 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:02:43 [info] [Player] new instance created
+23:02:43 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/A_Cruel_Angel_s_Thesis__From__Evangelion__.mp3
+23:02:43 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/A_Cruel_Angel_s_Thesis__From__Evangelion__.mp3
+23:02:43 [info] [ffmpegdecoder] parsing data stream...
+23:02:43 [info] [ffmpegdecoder] found audio stream!
+23:02:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:02:43 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/A_Cruel_Angel_s_Thesis__From__Evangelion__.mp3
+23:02:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:02:51 [info] [GaplessTransport] starting track at /home/nuub/Music/Kato/Anime & Chill 2/02 Sparkle (Your Name).m4a
+23:02:51 [info] [Player] new instance created
+23:02:51 [info] [GaplessTransport] stop
+23:02:51 [info] [Stream] opening /home/nuub/Music/Kato/Anime & Chill 2/02 Sparkle (Your Name).m4a
+23:02:51 [info] [LocalFileStream] opening file: /home/nuub/Music/Kato/Anime & Chill 2/02 Sparkle (Your Name).m4a
+23:02:51 [info] [ffmpegdecoder] parsing data stream...
+23:02:51 [info] [ffmpegdecoder] found audio stream!
+23:02:51 [info] [ffmpegdecoder] resolved codec: AAC (Advanced Audio Coding)
+23:02:51 [info] [Streams] found a decoder for /home/nuub/Music/Kato/Anime & Chill 2/02 Sparkle (Your Name).m4a
+23:02:51 [info] [Player] new instance created
+23:02:51 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Blend_W.mp3
+23:02:51 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Blend_W.mp3
+23:02:51 [info] [ffmpegdecoder] parsing data stream...
+23:02:51 [info] [ffmpegdecoder] found audio stream!
+23:02:51 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:02:51 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Blend_W.mp3
+23:02:51 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:02:55 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dance_Diversion__The_Henry_Stickmin_Collection__-_Extended_Instrumental_Version.mp3
+23:02:55 [info] [Player] new instance created
+23:02:55 [info] [GaplessTransport] stop
+23:02:55 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dance_Diversion__The_Henry_Stickmin_Collection__-_Extended_Instrumental_Version.mp3
+23:02:55 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dance_Diversion__The_Henry_Stickmin_Collection__-_Extended_Instrumental_Version.mp3
+23:02:55 [info] [ffmpegdecoder] parsing data stream...
+23:02:55 [info] [ffmpegdecoder] found audio stream!
+23:02:55 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:02:55 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dance_Diversion__The_Henry_Stickmin_Collection__-_Extended_Instrumental_Version.mp3
+23:02:55 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:02:55 [info] [Player] new instance created
+23:02:55 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daybreak.mp3
+23:02:55 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daybreak.mp3
+23:02:55 [info] [ffmpegdecoder] parsing data stream...
+23:02:55 [info] [ffmpegdecoder] found audio stream!
+23:02:55 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:02:55 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daybreak.mp3
+23:02:55 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:02:56 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daybreak.mp3
+23:02:56 [info] [Player] new instance created
+23:02:56 [info] [GaplessTransport] stop
+23:02:56 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daybreak.mp3
+23:02:56 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daybreak.mp3
+23:02:56 [info] [ffmpegdecoder] parsing data stream...
+23:02:56 [info] [ffmpegdecoder] found audio stream!
+23:02:56 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:02:56 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daybreak.mp3
+23:02:56 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:02:57 [info] [Player] new instance created
+23:02:57 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dumb_Ways_to_Die.mp3
+23:02:57 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dumb_Ways_to_Die.mp3
+23:02:57 [info] [ffmpegdecoder] parsing data stream...
+23:02:57 [info] [ffmpegdecoder] found audio stream!
+23:02:57 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:02:57 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dumb_Ways_to_Die.mp3
+23:02:57 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:03:00 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+23:03:00 [info] [Player] new instance created
+23:03:00 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+23:03:00 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+23:03:00 [info] [ffmpegdecoder] parsing data stream...
+23:03:00 [info] [GaplessTransport] stop
+23:03:00 [info] [ffmpegdecoder] found audio stream!
+23:03:00 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:03:00 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+23:03:00 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:03:01 [info] [Player] new instance created
+23:03:01 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Help_Me.mp3
+23:03:01 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Help_Me.mp3
+23:03:01 [info] [ffmpegdecoder] parsing data stream...
+23:03:01 [info] [ffmpegdecoder] found audio stream!
+23:03:01 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:03:01 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Help_Me.mp3
+23:03:01 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:04:38 [info] [ffmpegdecoder] finished decoding.
+23:04:40 [info] [GaplessTransport] stop
+23:04:40 [info] [Player] new instance created
+23:04:40 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Karma.mp3
+23:04:40 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Karma.mp3
+23:04:40 [info] [ffmpegdecoder] parsing data stream...
+23:04:40 [info] [ffmpegdecoder] found audio stream!
+23:04:40 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:04:40 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Karma.mp3
+23:04:40 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:08:11 [info] [ffmpegdecoder] finished decoding.
+23:08:13 [info] [GaplessTransport] stop
+23:08:13 [info] [Player] new instance created
+23:08:13 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dance_Diversion__The_Henry_Stickmin_Collection__-_Extended_Instrumental_Version.mp3
+23:08:13 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dance_Diversion__The_Henry_Stickmin_Collection__-_Extended_Instrumental_Version.mp3
+23:08:13 [info] [ffmpegdecoder] parsing data stream...
+23:08:13 [info] [ffmpegdecoder] found audio stream!
+23:08:13 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:08:13 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dance_Diversion__The_Henry_Stickmin_Collection__-_Extended_Instrumental_Version.mp3
+23:08:13 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:10:38 [info] [GaplessTransport] pause
+23:10:41 [info] [Player] new instance created
+23:10:41 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Karma.mp3
+23:10:41 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Karma.mp3
+23:10:41 [info] [ffmpegdecoder] parsing data stream...
+23:10:41 [info] [ffmpegdecoder] found audio stream!
+23:10:41 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:10:41 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Karma.mp3
+23:10:41 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:10:42 [info] [Player] new instance created
+23:10:42 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dance_Diversion__The_Henry_Stickmin_Collection__-_Extended_Instrumental_Version.mp3
+23:10:42 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dance_Diversion__The_Henry_Stickmin_Collection__-_Extended_Instrumental_Version.mp3
+23:10:42 [info] [ffmpegdecoder] parsing data stream...
+23:10:42 [info] [ffmpegdecoder] found audio stream!
+23:10:42 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:10:42 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Dance_Diversion__The_Henry_Stickmin_Collection__-_Extended_Instrumental_Version.mp3
+23:10:42 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:10:47 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:10:47 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+23:10:47 [info] [Player] new instance created
+23:10:47 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+23:10:47 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+23:10:47 [info] [GaplessTransport] stop
+23:10:47 [info] [ffmpegdecoder] parsing data stream...
+23:10:47 [info] [ffmpegdecoder] found audio stream!
+23:10:47 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:10:47 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+23:10:47 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:10:48 [info] [Player] new instance created
+23:10:48 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Help_Me.mp3
+23:10:48 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Help_Me.mp3
+23:10:48 [info] [ffmpegdecoder] parsing data stream...
+23:10:48 [info] [ffmpegdecoder] found audio stream!
+23:10:48 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:10:48 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Help_Me.mp3
+23:10:48 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:12:25 [info] [ffmpegdecoder] finished decoding.
+23:12:27 [info] [GaplessTransport] stop
+23:12:28 [info] [Player] new instance created
+23:12:28 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Karma.mp3
+23:12:28 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Karma.mp3
+23:12:28 [info] [ffmpegdecoder] parsing data stream...
+23:12:28 [info] [ffmpegdecoder] found audio stream!
+23:12:28 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:12:28 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Karma.mp3
+23:12:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:14:06 [info] [Player] new instance created
+23:14:06 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Help_Me.mp3
+23:14:06 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Help_Me.mp3
+23:14:06 [info] [ffmpegdecoder] parsing data stream...
+23:14:06 [info] [ffmpegdecoder] found audio stream!
+23:14:06 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:14:06 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Help_Me.mp3
+23:14:06 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:14:12 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:14:12 [info] [Player] new instance created
+23:14:12 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:14:12 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:14:12 [info] [ffmpegdecoder] parsing data stream...
+23:14:12 [info] [GaplessTransport] stop
+23:14:12 [info] [ffmpegdecoder] found audio stream!
+23:14:12 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:14:12 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:14:12 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:14:13 [info] [Player] new instance created
+23:14:13 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:14:13 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:14:13 [info] [ffmpegdecoder] parsing data stream...
+23:14:13 [info] [ffmpegdecoder] found audio stream!
+23:14:13 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:14:13 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:14:13 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:18:02 [info] [ffmpegdecoder] finished decoding.
+23:18:04 [info] [GaplessTransport] stop
+23:18:05 [info] [Player] new instance created
+23:18:05 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:18:05 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:18:05 [info] [ffmpegdecoder] parsing data stream...
+23:18:05 [info] [ffmpegdecoder] found audio stream!
+23:18:05 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:18:05 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:18:05 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:21:54 [info] [ffmpegdecoder] finished decoding.
+23:21:57 [info] [GaplessTransport] stop
+23:21:57 [info] [Player] new instance created
+23:21:57 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:21:57 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:21:57 [info] [ffmpegdecoder] parsing data stream...
+23:21:57 [info] [ffmpegdecoder] found audio stream!
+23:21:57 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:21:57 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:21:57 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:25:47 [info] [ffmpegdecoder] finished decoding.
+23:25:49 [info] [GaplessTransport] stop
+23:25:49 [info] [Player] new instance created
+23:25:49 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:25:49 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:25:49 [info] [ffmpegdecoder] parsing data stream...
+23:25:49 [info] [ffmpegdecoder] found audio stream!
+23:25:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:25:49 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:25:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:29:39 [info] [ffmpegdecoder] finished decoding.
+23:29:41 [info] [GaplessTransport] stop
+23:29:41 [info] [Player] new instance created
+23:29:41 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:29:41 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:29:41 [info] [ffmpegdecoder] parsing data stream...
+23:29:41 [info] [ffmpegdecoder] found audio stream!
+23:29:41 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:29:41 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Seven_Nation_Army.mp3
+23:29:41 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:32:53 [info] [GaplessTransport] stop
