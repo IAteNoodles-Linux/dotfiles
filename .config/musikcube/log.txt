@@ -1,54 +1,37 @@
-23:42:34 [info] [LOG SESSION] ---------- START ----------
-23:42:34 [info] [PluginFactory] loading plugins
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
-23:42:34 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-23:42:34 [info] [Indexer] indexer source -1303229654 running...
-23:42:34 [info] [Indexer] indexer source -1303229654 finished
-23:42:34 [info] [Indexer] indexer source 155697690 running...
-23:42:34 [info] [Indexer] indexer source 155697690 finished
-23:42:34 [info] [Indexer] scanning /home/nuub/Music/
-23:42:34 [info] [Indexer] scanning /home/nuub/SpotiFlyer/
-23:42:34 [info] [Indexer] scan completed successfully
-23:42:34 [info] [Indexer] cleanup 1/2
-23:42:34 [info] [Indexer] cleanup 2/2
-23:42:34 [info] [Indexer] optimizing
-23:42:34 [info] [Indexer] done!
-23:42:34 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Silence__piano_.mp3
-23:42:34 [info] [Player] new instance created
-23:42:34 [info] [GaplessTransport] stop
-23:42:34 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Silence__piano_.mp3
-23:42:34 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Silence__piano_.mp3
-23:42:34 [info] [ffmpegdecoder] parsing data stream...
-23:42:35 [info] [ffmpegdecoder] found audio stream!
-23:42:35 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-23:42:35 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Silence__piano_.mp3
-23:42:35 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-23:42:41 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
-23:42:41 [info] [Player] new instance created
-23:42:41 [info] [GaplessTransport] stop
-23:42:41 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
-23:42:41 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
-23:42:41 [info] [ffmpegdecoder] parsing data stream...
-23:42:41 [info] [ffmpegdecoder] found audio stream!
-23:42:41 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-23:42:41 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
-23:42:41 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-23:42:41 [info] [Player] new instance created
-23:42:41 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
-23:42:41 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
-23:42:41 [info] [ffmpegdecoder] parsing data stream...
-23:42:41 [info] [ffmpegdecoder] found audio stream!
-23:42:41 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-23:42:41 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
-23:42:41 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-23:42:44 [info] [GaplessTransport] stop
+09:55:43 [info] [LOG SESSION] ---------- START ----------
+09:55:43 [info] [PluginFactory] loading plugins
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
+09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+09:55:43 [info] [Indexer] indexer source -1303229654 running...
+09:55:43 [info] [Indexer] indexer source -1303229654 finished
+09:55:43 [info] [Indexer] indexer source 155697690 running...
+09:55:43 [info] [Indexer] indexer source 155697690 finished
+09:55:43 [info] [Indexer] scanning /home/nuub/Music/
+09:55:43 [info] [Indexer] scanning /home/nuub/SpotiFlyer/
+09:55:43 [info] [Indexer] scan completed successfully
+09:55:43 [info] [Indexer] cleanup 1/2
+09:55:43 [info] [Indexer] cleanup 2/2
+09:55:43 [info] [Indexer] optimizing
+09:55:43 [info] [Indexer] done!
+09:55:43 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
+09:55:43 [info] [Player] new instance created
+09:55:43 [info] [GaplessTransport] stop
+09:55:43 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
+09:55:43 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
+09:55:43 [info] [ffmpegdecoder] parsing data stream...
+09:55:43 [info] [ffmpegdecoder] found audio stream!
+09:55:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:55:43 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
+09:55:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+09:55:47 [info] [GaplessTransport] resume
+09:55:47 [warning] [ffmpegdecoder] invalid packet detected, discarding.
