@@ -1,37 +1,109 @@
-09:55:43 [info] [LOG SESSION] ---------- START ----------
-09:55:43 [info] [PluginFactory] loading plugins
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
-09:55:43 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-09:55:43 [info] [Indexer] indexer source -1303229654 running...
-09:55:43 [info] [Indexer] indexer source -1303229654 finished
-09:55:43 [info] [Indexer] indexer source 155697690 running...
-09:55:43 [info] [Indexer] indexer source 155697690 finished
-09:55:43 [info] [Indexer] scanning /home/nuub/Music/
-09:55:43 [info] [Indexer] scanning /home/nuub/SpotiFlyer/
-09:55:43 [info] [Indexer] scan completed successfully
-09:55:43 [info] [Indexer] cleanup 1/2
-09:55:43 [info] [Indexer] cleanup 2/2
-09:55:43 [info] [Indexer] optimizing
-09:55:43 [info] [Indexer] done!
-09:55:43 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
-09:55:43 [info] [Player] new instance created
-09:55:43 [info] [GaplessTransport] stop
-09:55:43 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
-09:55:43 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
-09:55:43 [info] [ffmpegdecoder] parsing data stream...
-09:55:43 [info] [ffmpegdecoder] found audio stream!
-09:55:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-09:55:43 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
-09:55:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-09:55:47 [info] [GaplessTransport] resume
-09:55:47 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:52:17 [info] [LOG SESSION] ---------- START ----------
+16:52:17 [info] [PluginFactory] loading plugins
+16:52:17 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+16:52:17 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+16:52:17 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+16:52:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+16:52:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+16:52:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+16:52:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+16:52:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+16:52:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+16:52:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+16:52:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
+16:52:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+16:52:18 [info] [Indexer] indexer source -1303229654 running...
+16:52:18 [info] [Indexer] indexer source -1303229654 finished
+16:52:18 [info] [Indexer] indexer source 155697690 running...
+16:52:18 [info] [Indexer] indexer source 155697690 finished
+16:52:18 [info] [Indexer] scanning /home/nuub/Music/
+16:52:18 [info] [Indexer] scanning /home/nuub/SpotiFlyer/
+16:52:18 [info] [Indexer] scan completed successfully
+16:52:18 [info] [Indexer] cleanup 1/2
+16:52:18 [info] [Indexer] cleanup 2/2
+16:52:18 [info] [Indexer] optimizing
+16:52:18 [info] [Indexer] done!
+16:52:18 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
+16:52:18 [info] [Player] new instance created
+16:52:18 [info] [GaplessTransport] stop
+16:52:18 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
+16:52:18 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
+16:52:18 [info] [ffmpegdecoder] parsing data stream...
+16:52:18 [info] [ffmpegdecoder] found audio stream!
+16:52:18 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:52:18 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Kamado_Tanjirou_no_Uta__From__Demon_Slayer____Piano_Arrangement_.mp3
+16:52:18 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:52:25 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [info] [Player] new instance created
+16:52:25 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [info] [ffmpegdecoder] parsing data stream...
+16:52:25 [info] [GaplessTransport] stop
+16:52:25 [info] [ffmpegdecoder] found audio stream!
+16:52:25 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:52:25 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:52:25 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [info] [Player] new instance created
+16:52:25 [info] [GaplessTransport] stop
+16:52:25 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [info] [ffmpegdecoder] parsing data stream...
+16:52:25 [info] [ffmpegdecoder] found audio stream!
+16:52:25 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:52:25 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:52:25 [info] [Player] new instance created
+16:52:25 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [info] [ffmpegdecoder] parsing data stream...
+16:52:25 [info] [ffmpegdecoder] found audio stream!
+16:52:25 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:52:25 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:52:25 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [info] [Player] new instance created
+16:52:25 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [info] [GaplessTransport] stop
+16:52:25 [info] [ffmpegdecoder] parsing data stream...
+16:52:25 [info] [ffmpegdecoder] found audio stream!
+16:52:25 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:52:25 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:52:26 [info] [Player] new instance created
+16:52:26 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [info] [ffmpegdecoder] parsing data stream...
+16:52:26 [info] [ffmpegdecoder] found audio stream!
+16:52:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:52:26 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:52:26 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [info] [Player] new instance created
+16:52:26 [info] [GaplessTransport] stop
+16:52:26 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [info] [ffmpegdecoder] parsing data stream...
+16:52:26 [info] [ffmpegdecoder] found audio stream!
+16:52:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:52:26 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:52:26 [info] [Player] new instance created
+16:52:26 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [info] [ffmpegdecoder] parsing data stream...
+16:52:26 [info] [ffmpegdecoder] found audio stream!
+16:52:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:52:26 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:52:26 [info] [Player] new instance created
+16:52:26 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [info] [ffmpegdecoder] parsing data stream...
+16:52:26 [info] [ffmpegdecoder] found audio stream!
+16:52:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:52:26 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Daughter_Of_The_Moon.mp3
+16:52:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:52:27 [info] [GaplessTransport] pause
+16:52:29 [info] [GaplessTransport] stop
