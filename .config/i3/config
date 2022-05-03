@@ -461,7 +461,7 @@ bindsym Mod1+w exec "alacritty -e whatscli"
 
 #[P]assmenu-rs
 #The passmenu-rs client
-bindsym Mod1+p exec passmenu-rs
+bindsym Mod1+p exec passmenu
 #
 #
 # Loading dunst
