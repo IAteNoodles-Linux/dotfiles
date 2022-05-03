@@ -1,46 +1,86 @@
-23:44:30 [info] [LOG SESSION] ---------- START ----------
-23:44:30 [info] [PluginFactory] loading plugins
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
-23:44:30 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-23:44:30 [info] [Indexer] indexer source -1303229654 running...
-23:44:30 [info] [Indexer] indexer source -1303229654 finished
-23:44:30 [info] [Indexer] indexer source 155697690 running...
-23:44:30 [info] [Indexer] indexer source 155697690 finished
-23:44:30 [info] [Indexer] scanning /home/nuub/Music/
-23:44:30 [info] [Indexer] scanning /home/nuub/SpotiFlyer/
-23:44:30 [info] [Indexer] scan completed successfully
-23:44:30 [info] [Indexer] cleanup 1/2
-23:44:30 [info] [Indexer] cleanup 2/2
-23:44:30 [info] [Indexer] optimizing
-23:44:30 [info] [Indexer] done!
-23:44:30 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
-23:44:30 [info] [Player] new instance created
-23:44:30 [info] [GaplessTransport] stop
-23:44:30 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
-23:44:30 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
-23:44:30 [info] [ffmpegdecoder] parsing data stream...
-23:44:30 [info] [ffmpegdecoder] found audio stream!
-23:44:30 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-23:44:30 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
-23:44:30 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-23:44:34 [info] [GaplessTransport] resume
-23:44:34 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-00:38:17 [info] [Player] new instance created
-00:38:17 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
-00:38:17 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
-00:38:17 [info] [ffmpegdecoder] parsing data stream...
-00:38:17 [info] [ffmpegdecoder] found audio stream!
-00:38:17 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-00:38:17 [info] [Streams] found a decoder for /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
-00:38:17 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-00:38:17 [info] [GaplessTransport] stop
+22:55:49 [info] [LOG SESSION] ---------- START ----------
+22:55:49 [info] [PluginFactory] loading plugins
+22:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+22:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+22:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+22:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+22:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+22:55:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+22:55:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+22:55:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+22:55:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+22:55:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+22:55:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+22:55:50 [info] [Indexer] indexer source -1303229654 running...
+22:55:50 [info] [Indexer] indexer source -1303229654 finished
+22:55:50 [info] [Indexer] scanning /home/nuub/Music/
+22:55:50 [info] [GaplessTransport] starting track at /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
+22:55:50 [info] [Player] new instance created
+22:55:50 [info] [GaplessTransport] stop
+22:55:50 [info] [Stream] opening /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
+22:55:50 [info] [LocalFileStream] opening file: /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
+22:55:50 [error] [LocalFileStream] open with OpenFlags::Read failed because file doesn't exist. /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
+22:55:50 [error] [Stream] failed to open /home/nuub/SpotiFlyer/Playlists/Liked_Uwu/Ballada_Ekologiczna.mp3
+22:55:50 [info] [Indexer] scan completed successfully
+22:55:50 [info] [Indexer] cleanup 1/2
+22:55:50 [info] [Indexer] cleanup 2/2
+22:55:50 [info] [Indexer] optimizing
+22:55:50 [info] [Indexer] done!
+22:55:50 [info] [GaplessTransport] stop
+22:56:23 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:56:23 [info] [Player] new instance created
+22:56:23 [info] [GaplessTransport] stop
+22:56:23 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:56:23 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:56:23 [info] [ffmpegdecoder] parsing data stream...
+22:56:23 [info] [ffmpegdecoder] found audio stream!
+22:56:23 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:56:23 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:56:23 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:23 [info] [Player] new instance created
+22:56:23 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:56:23 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:56:23 [info] [ffmpegdecoder] parsing data stream...
+22:56:23 [info] [ffmpegdecoder] found audio stream!
+22:56:23 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:56:23 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:56:23 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:37 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:38 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:38 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:39 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:39 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:49 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:56:49 [info] [Player] new instance created
+22:56:49 [info] [GaplessTransport] stop
+22:56:49 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:56:49 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:56:49 [info] [ffmpegdecoder] parsing data stream...
+22:56:49 [info] [ffmpegdecoder] found audio stream!
+22:56:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:56:49 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:56:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:50 [info] [Player] new instance created
+22:56:50 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:56:50 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:56:50 [info] [ffmpegdecoder] parsing data stream...
+22:56:50 [info] [ffmpegdecoder] found audio stream!
+22:56:50 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:56:50 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:56:50 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:52 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:53 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:56 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:57 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:56:57 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:01:57 [info] [ffmpegdecoder] finished decoding.
+23:01:59 [info] [GaplessTransport] stop
+23:01:59 [info] [Player] new instance created
+23:01:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+23:01:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+23:01:59 [info] [ffmpegdecoder] parsing data stream...
+23:01:59 [info] [ffmpegdecoder] found audio stream!
+23:01:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:01:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+23:01:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:04:58 [info] [GaplessTransport] stop

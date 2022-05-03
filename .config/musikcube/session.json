@@ -1,4 +1,11 @@
 {
-  "LastPlayQueueIndex": 0,
-  "LastPlayQueueTime": 230.0
+  "LastBrowseCategoryId": 298.0,
+  "LastBrowseCategoryType": "artist",
+  "LastCategoryFilter": "",
+  "LastCategoryFilterMatchType": 1,
+  "LastLibraryView": "TrackFilter",
+  "LastPlayQueueIndex": 5,
+  "LastPlayQueueTime": 178.0,
+  "LastTrackFilter": "",
+  "LastTrackFilterMatchType": 1
 }
