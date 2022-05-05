@@ -1,1302 +1,172 @@
-19:12:03 [info] [LOG SESSION] ---------- START ----------
-19:12:03 [info] [PluginFactory] loading plugins
-19:12:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-19:12:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-19:12:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-19:12:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-19:12:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-19:12:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-19:12:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-19:12:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-19:12:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-19:12:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-19:12:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-19:12:03 [info] [Indexer] indexer source -1303229654 running...
-19:12:03 [info] [Indexer] indexer source -1303229654 finished
-19:12:03 [info] [Indexer] scanning /home/nuub/Music/
-19:12:03 [info] [Indexer] scan completed successfully
-19:12:03 [info] [Indexer] cleanup 1/2
-19:12:03 [info] [Indexer] cleanup 2/2
-19:12:03 [info] [Indexer] optimizing
-19:12:03 [info] [Indexer] done!
-19:12:03 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Felted.mp3
-19:12:03 [info] [Player] new instance created
-19:12:03 [info] [GaplessTransport] stop
-19:12:03 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Felted.mp3
-19:12:03 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Felted.mp3
-19:12:03 [info] [ffmpegdecoder] parsing data stream...
-19:12:03 [info] [ffmpegdecoder] found audio stream!
-19:12:03 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:12:03 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Felted.mp3
-19:12:03 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:12:27 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/One_Step_Closer.mp3
-19:12:27 [info] [Player] new instance created
-19:12:27 [info] [GaplessTransport] stop
-19:12:27 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/One_Step_Closer.mp3
-19:12:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/One_Step_Closer.mp3
-19:12:27 [info] [ffmpegdecoder] parsing data stream...
-19:12:27 [info] [ffmpegdecoder] found audio stream!
-19:12:27 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:12:27 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/One_Step_Closer.mp3
-19:12:27 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:12:28 [info] [Player] new instance created
-19:12:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/One_Step_Closer.mp3
-19:12:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/One_Step_Closer.mp3
-19:12:28 [info] [ffmpegdecoder] parsing data stream...
-19:12:28 [info] [ffmpegdecoder] found audio stream!
-19:12:28 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:12:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/One_Step_Closer.mp3
-19:12:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:12:35 [info] [GaplessTransport] pause
-19:12:40 [info] [GaplessTransport] resume
-19:12:45 [info] [GaplessTransport] pause
-19:12:48 [info] [GaplessTransport] resume
-19:12:53 [info] [GaplessTransport] pause
-19:12:55 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:12:57 [info] [GaplessTransport] pause
-19:13:09 [info] [GaplessTransport] resume
-19:13:09 [info] [GaplessTransport] pause
-19:13:16 [info] [GaplessTransport] resume
-19:13:17 [info] [GaplessTransport] pause
-19:13:20 [info] [GaplessTransport] resume
-19:13:20 [info] [GaplessTransport] pause
-19:13:33 [info] [GaplessTransport] resume
-19:13:44 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:13:44 [info] [Player] new instance created
-19:13:44 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:13:44 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:13:44 [info] [GaplessTransport] stop
-19:13:44 [info] [ffmpegdecoder] parsing data stream...
-19:13:44 [info] [ffmpegdecoder] found audio stream!
-19:13:44 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:13:44 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:13:44 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:13:45 [info] [Player] new instance created
-19:13:45 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:13:45 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:13:45 [info] [ffmpegdecoder] parsing data stream...
-19:13:45 [info] [ffmpegdecoder] found audio stream!
-19:13:45 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:13:45 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:13:45 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:13:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:13:54 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/________feat_____sorry______.mp3
-19:13:54 [info] [Player] new instance created
-19:13:54 [info] [GaplessTransport] stop
-19:13:54 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/________feat_____sorry______.mp3
-19:13:54 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/________feat_____sorry______.mp3
-19:13:54 [info] [ffmpegdecoder] parsing data stream...
-19:13:54 [info] [ffmpegdecoder] found audio stream!
-19:13:54 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:13:54 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/________feat_____sorry______.mp3
-19:13:54 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:13:54 [info] [Player] new instance created
-19:13:54 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/________feat_____sorry______.mp3
-19:13:54 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/________feat_____sorry______.mp3
-19:13:54 [info] [ffmpegdecoder] parsing data stream...
-19:13:54 [info] [ffmpegdecoder] found audio stream!
-19:13:54 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:13:54 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/________feat_____sorry______.mp3
-19:13:54 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:13:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:00 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/________.mp3
-19:14:00 [info] [Player] new instance created
-19:14:00 [info] [GaplessTransport] stop
-19:14:00 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/________.mp3
-19:14:00 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/________.mp3
-19:14:00 [info] [ffmpegdecoder] parsing data stream...
-19:14:00 [info] [ffmpegdecoder] found audio stream!
-19:14:00 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:00 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/________.mp3
-19:14:00 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:00 [info] [Player] new instance created
-19:14:00 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/________.mp3
-19:14:00 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/________.mp3
-19:14:00 [info] [ffmpegdecoder] parsing data stream...
-19:14:00 [info] [ffmpegdecoder] found audio stream!
-19:14:00 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:00 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/________.mp3
-19:14:00 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:03 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/___________feat__________.mp3
-19:14:03 [info] [Player] new instance created
-19:14:03 [info] [GaplessTransport] stop
-19:14:03 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/___________feat__________.mp3
-19:14:03 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/___________feat__________.mp3
-19:14:03 [info] [ffmpegdecoder] parsing data stream...
-19:14:03 [info] [ffmpegdecoder] found audio stream!
-19:14:03 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:03 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/___________feat__________.mp3
-19:14:03 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:03 [info] [Player] new instance created
-19:14:03 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/___________feat__________.mp3
-19:14:03 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/___________feat__________.mp3
-19:14:03 [info] [ffmpegdecoder] parsing data stream...
-19:14:03 [info] [ffmpegdecoder] found audio stream!
-19:14:03 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:03 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/___________feat__________.mp3
-19:14:03 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:04 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/___________.mp3
-19:14:04 [info] [Player] new instance created
-19:14:04 [info] [GaplessTransport] stop
-19:14:04 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/___________.mp3
-19:14:04 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/___________.mp3
-19:14:04 [info] [ffmpegdecoder] parsing data stream...
-19:14:04 [info] [ffmpegdecoder] found audio stream!
-19:14:04 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:04 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/___________.mp3
-19:14:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:05 [info] [Player] new instance created
-19:14:05 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/___________.mp3
-19:14:05 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/___________.mp3
-19:14:05 [info] [ffmpegdecoder] parsing data stream...
-19:14:05 [info] [ffmpegdecoder] found audio stream!
-19:14:05 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:05 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/___________.mp3
-19:14:05 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:07 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/_____________-_TV_version.mp3
-19:14:07 [info] [Player] new instance created
-19:14:07 [info] [GaplessTransport] stop
-19:14:07 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/_____________-_TV_version.mp3
-19:14:07 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/_____________-_TV_version.mp3
-19:14:07 [info] [ffmpegdecoder] parsing data stream...
-19:14:07 [info] [ffmpegdecoder] found audio stream!
-19:14:07 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:07 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/_____________-_TV_version.mp3
-19:14:07 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:07 [info] [Player] new instance created
-19:14:07 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/_____________-_TV_version.mp3
-19:14:07 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/_____________-_TV_version.mp3
-19:14:07 [info] [ffmpegdecoder] parsing data stream...
-19:14:07 [info] [ffmpegdecoder] found audio stream!
-19:14:07 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:07 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/_____________-_TV_version.mp3
-19:14:07 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:09 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Lonely_Feather.mp3
-19:14:09 [info] [Player] new instance created
-19:14:09 [info] [GaplessTransport] stop
-19:14:09 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Lonely_Feather.mp3
-19:14:09 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Lonely_Feather.mp3
-19:14:09 [info] [ffmpegdecoder] parsing data stream...
-19:14:09 [info] [ffmpegdecoder] found audio stream!
-19:14:09 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:09 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Lonely_Feather.mp3
-19:14:09 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:09 [info] [Player] new instance created
-19:14:09 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Lonely_Feather.mp3
-19:14:09 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Lonely_Feather.mp3
-19:14:09 [info] [ffmpegdecoder] parsing data stream...
-19:14:09 [info] [ffmpegdecoder] found audio stream!
-19:14:09 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:09 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Lonely_Feather.mp3
-19:14:09 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:11 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:14:11 [info] [Player] new instance created
-19:14:11 [info] [GaplessTransport] stop
-19:14:11 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:14:11 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:14:11 [info] [ffmpegdecoder] parsing data stream...
-19:14:11 [info] [ffmpegdecoder] found audio stream!
-19:14:11 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:11 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:14:11 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:11 [info] [Player] new instance created
-19:14:11 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:14:11 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:14:11 [info] [ffmpegdecoder] parsing data stream...
-19:14:11 [info] [ffmpegdecoder] found audio stream!
-19:14:11 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:11 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/____.mp3
-19:14:11 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:13 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/_____.mp3
-19:14:13 [info] [Player] new instance created
-19:14:13 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/_____.mp3
-19:14:13 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/_____.mp3
-19:14:13 [info] [ffmpegdecoder] parsing data stream...
-19:14:13 [info] [GaplessTransport] stop
-19:14:13 [info] [ffmpegdecoder] found audio stream!
-19:14:13 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:13 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/_____.mp3
-19:14:13 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:14 [info] [Player] new instance created
-19:14:14 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/_____.mp3
-19:14:14 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/_____.mp3
-19:14:14 [info] [ffmpegdecoder] parsing data stream...
-19:14:14 [info] [ffmpegdecoder] found audio stream!
-19:14:14 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:14 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/_____.mp3
-19:14:14 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:17 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/___.mp3
-19:14:17 [info] [Player] new instance created
-19:14:17 [info] [GaplessTransport] stop
-19:14:17 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/___.mp3
-19:14:17 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/___.mp3
-19:14:17 [info] [ffmpegdecoder] parsing data stream...
-19:14:17 [info] [ffmpegdecoder] found audio stream!
-19:14:17 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:17 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/___.mp3
-19:14:17 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:18 [info] [Player] new instance created
-19:14:18 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/___.mp3
-19:14:18 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/___.mp3
-19:14:18 [info] [ffmpegdecoder] parsing data stream...
-19:14:18 [info] [ffmpegdecoder] found audio stream!
-19:14:18 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:18 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/___.mp3
-19:14:18 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:19 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/_______.mp3
-19:14:19 [info] [Player] new instance created
-19:14:19 [info] [GaplessTransport] stop
-19:14:19 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/_______.mp3
-19:14:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/_______.mp3
-19:14:19 [info] [ffmpegdecoder] parsing data stream...
-19:14:19 [info] [ffmpegdecoder] found audio stream!
-19:14:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/_______.mp3
-19:14:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:19 [info] [Player] new instance created
-19:14:19 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/_______.mp3
-19:14:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/_______.mp3
-19:14:19 [info] [ffmpegdecoder] parsing data stream...
-19:14:19 [info] [ffmpegdecoder] found audio stream!
-19:14:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/_______.mp3
-19:14:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:20 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/__.mp3
-19:14:20 [info] [Player] new instance created
-19:14:20 [info] [GaplessTransport] stop
-19:14:20 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/__.mp3
-19:14:20 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/__.mp3
-19:14:20 [info] [ffmpegdecoder] parsing data stream...
-19:14:20 [info] [ffmpegdecoder] found audio stream!
-19:14:20 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:20 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/__.mp3
-19:14:20 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:21 [info] [Player] new instance created
-19:14:21 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/__.mp3
-19:14:21 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/__.mp3
-19:14:21 [info] [ffmpegdecoder] parsing data stream...
-19:14:21 [info] [ffmpegdecoder] found audio stream!
-19:14:21 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:21 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/__.mp3
-19:14:21 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:24 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Galactic_mermaid.mp3
-19:14:24 [info] [Player] new instance created
-19:14:24 [info] [GaplessTransport] stop
-19:14:24 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Galactic_mermaid.mp3
-19:14:24 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Galactic_mermaid.mp3
-19:14:24 [info] [ffmpegdecoder] parsing data stream...
-19:14:24 [info] [ffmpegdecoder] found audio stream!
-19:14:24 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:24 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Galactic_mermaid.mp3
-19:14:24 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:25 [info] [Player] new instance created
-19:14:25 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Galactic_mermaid.mp3
-19:14:25 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Galactic_mermaid.mp3
-19:14:25 [info] [ffmpegdecoder] parsing data stream...
-19:14:25 [info] [ffmpegdecoder] found audio stream!
-19:14:25 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:25 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Galactic_mermaid.mp3
-19:14:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:26 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Gdzie_jest_bia_y_w_gorz____Zej_cie_.mp3
-19:14:26 [info] [Player] new instance created
-19:14:26 [info] [GaplessTransport] stop
-19:14:26 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Gdzie_jest_bia_y_w_gorz____Zej_cie_.mp3
-19:14:26 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Gdzie_jest_bia_y_w_gorz____Zej_cie_.mp3
-19:14:26 [info] [ffmpegdecoder] parsing data stream...
-19:14:26 [info] [ffmpegdecoder] found audio stream!
-19:14:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:26 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Gdzie_jest_bia_y_w_gorz____Zej_cie_.mp3
-19:14:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:27 [info] [Player] new instance created
-19:14:27 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Gdzie_jest_bia_y_w_gorz____Zej_cie_.mp3
-19:14:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Gdzie_jest_bia_y_w_gorz____Zej_cie_.mp3
-19:14:27 [info] [ffmpegdecoder] parsing data stream...
-19:14:27 [info] [ffmpegdecoder] found audio stream!
-19:14:27 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:27 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Gdzie_jest_bia_y_w_gorz____Zej_cie_.mp3
-19:14:27 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:28 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Ballada_Ekologiczna.mp3
-19:14:28 [info] [Player] new instance created
-19:14:28 [info] [GaplessTransport] stop
-19:14:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Ballada_Ekologiczna.mp3
-19:14:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Ballada_Ekologiczna.mp3
-19:14:28 [info] [ffmpegdecoder] parsing data stream...
-19:14:28 [info] [ffmpegdecoder] found audio stream!
-19:14:28 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Ballada_Ekologiczna.mp3
-19:14:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:28 [info] [Player] new instance created
-19:14:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Ballada_Ekologiczna.mp3
-19:14:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Ballada_Ekologiczna.mp3
-19:14:28 [info] [ffmpegdecoder] parsing data stream...
-19:14:28 [info] [ffmpegdecoder] found audio stream!
-19:14:28 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Ballada_Ekologiczna.mp3
-19:14:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:30 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/vivid_vice_but_it_s_lofi__jujutsu_kaisen_.mp3
-19:14:30 [info] [Player] new instance created
-19:14:30 [info] [GaplessTransport] stop
-19:14:30 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/vivid_vice_but_it_s_lofi__jujutsu_kaisen_.mp3
-19:14:30 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/vivid_vice_but_it_s_lofi__jujutsu_kaisen_.mp3
-19:14:30 [info] [ffmpegdecoder] parsing data stream...
-19:14:30 [info] [ffmpegdecoder] found audio stream!
-19:14:30 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:30 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/vivid_vice_but_it_s_lofi__jujutsu_kaisen_.mp3
-19:14:30 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:30 [info] [Player] new instance created
-19:14:30 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/vivid_vice_but_it_s_lofi__jujutsu_kaisen_.mp3
-19:14:30 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/vivid_vice_but_it_s_lofi__jujutsu_kaisen_.mp3
-19:14:30 [info] [ffmpegdecoder] parsing data stream...
-19:14:30 [info] [ffmpegdecoder] found audio stream!
-19:14:30 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:30 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/vivid_vice_but_it_s_lofi__jujutsu_kaisen_.mp3
-19:14:30 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:33 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
-19:14:33 [info] [Player] new instance created
-19:14:33 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
-19:14:33 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
-19:14:33 [info] [ffmpegdecoder] parsing data stream...
-19:14:33 [info] [GaplessTransport] stop
-19:14:33 [info] [ffmpegdecoder] found audio stream!
-19:14:33 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:33 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
-19:14:33 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:34 [info] [Player] new instance created
-19:14:34 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
-19:14:34 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
-19:14:34 [info] [ffmpegdecoder] parsing data stream...
-19:14:34 [info] [ffmpegdecoder] found audio stream!
-19:14:34 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:34 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
-19:14:34 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:36 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/i_m_so_pathetic.mp3
-19:14:36 [info] [Player] new instance created
-19:14:36 [info] [GaplessTransport] stop
-19:14:36 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/i_m_so_pathetic.mp3
-19:14:36 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/i_m_so_pathetic.mp3
-19:14:36 [info] [ffmpegdecoder] parsing data stream...
-19:14:36 [info] [ffmpegdecoder] found audio stream!
-19:14:36 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:36 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/i_m_so_pathetic.mp3
-19:14:36 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:37 [info] [Player] new instance created
-19:14:37 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/i_m_so_pathetic.mp3
-19:14:37 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/i_m_so_pathetic.mp3
-19:14:37 [info] [ffmpegdecoder] parsing data stream...
-19:14:37 [info] [ffmpegdecoder] found audio stream!
-19:14:37 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:37 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/i_m_so_pathetic.mp3
-19:14:37 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:40 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/gurenge__demon_slayer_lofi_.mp3
-19:14:40 [info] [Player] new instance created
-19:14:40 [info] [GaplessTransport] stop
-19:14:40 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/gurenge__demon_slayer_lofi_.mp3
-19:14:40 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/gurenge__demon_slayer_lofi_.mp3
-19:14:40 [info] [ffmpegdecoder] parsing data stream...
-19:14:40 [info] [ffmpegdecoder] found audio stream!
-19:14:40 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:40 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/gurenge__demon_slayer_lofi_.mp3
-19:14:40 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:40 [info] [Player] new instance created
-19:14:40 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/gurenge__demon_slayer_lofi_.mp3
-19:14:40 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/gurenge__demon_slayer_lofi_.mp3
-19:14:40 [info] [ffmpegdecoder] parsing data stream...
-19:14:40 [info] [ffmpegdecoder] found audio stream!
-19:14:40 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:40 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/gurenge__demon_slayer_lofi_.mp3
-19:14:40 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:42 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/give_it_back.mp3
-19:14:42 [info] [Player] new instance created
-19:14:42 [info] [GaplessTransport] stop
-19:14:42 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/give_it_back.mp3
-19:14:42 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/give_it_back.mp3
-19:14:42 [info] [ffmpegdecoder] parsing data stream...
-19:14:42 [info] [ffmpegdecoder] found audio stream!
-19:14:42 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:42 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/give_it_back.mp3
-19:14:42 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:43 [info] [Player] new instance created
-19:14:43 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/give_it_back.mp3
-19:14:43 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/give_it_back.mp3
-19:14:43 [info] [ffmpegdecoder] parsing data stream...
-19:14:43 [info] [ffmpegdecoder] found audio stream!
-19:14:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:43 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/give_it_back.mp3
-19:14:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:43 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/My_Lie.mp3
-19:14:43 [info] [Player] new instance created
-19:14:43 [info] [GaplessTransport] stop
-19:14:43 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/My_Lie.mp3
-19:14:43 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/My_Lie.mp3
-19:14:43 [info] [ffmpegdecoder] parsing data stream...
-19:14:43 [error] [ffmpegdecoder] failed to find compatible audio stream
-19:14:43 [error] [Streams] open ok, but decode failed /home/nuub/Music/Playlists/Liked/Uwu/My_Lie.mp3
-19:14:49 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/KISS_OF_DEATH_Produced_by_HYDE_.mp3
-19:14:49 [info] [Player] new instance created
-19:14:49 [info] [GaplessTransport] stop
-19:14:49 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/KISS_OF_DEATH_Produced_by_HYDE_.mp3
-19:14:49 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/KISS_OF_DEATH_Produced_by_HYDE_.mp3
-19:14:49 [info] [ffmpegdecoder] parsing data stream...
-19:14:49 [info] [ffmpegdecoder] found audio stream!
-19:14:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:49 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/KISS_OF_DEATH_Produced_by_HYDE_.mp3
-19:14:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:49 [info] [Player] new instance created
-19:14:49 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/KISS_OF_DEATH_Produced_by_HYDE_.mp3
-19:14:49 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/KISS_OF_DEATH_Produced_by_HYDE_.mp3
-19:14:49 [info] [ffmpegdecoder] parsing data stream...
-19:14:49 [info] [ffmpegdecoder] found audio stream!
-19:14:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:49 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/KISS_OF_DEATH_Produced_by_HYDE_.mp3
-19:14:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:51 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/dreamy.mp3
-19:14:51 [info] [Player] new instance created
-19:14:51 [info] [GaplessTransport] stop
-19:14:51 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/dreamy.mp3
-19:14:51 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/dreamy.mp3
-19:14:51 [info] [ffmpegdecoder] parsing data stream...
-19:14:51 [info] [ffmpegdecoder] found audio stream!
-19:14:51 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:51 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/dreamy.mp3
-19:14:51 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:51 [info] [Player] new instance created
-19:14:51 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/dreamy.mp3
-19:14:51 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/dreamy.mp3
-19:14:51 [info] [ffmpegdecoder] parsing data stream...
-19:14:51 [info] [ffmpegdecoder] found audio stream!
-19:14:51 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:51 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/dreamy.mp3
-19:14:51 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:58 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Wet_Hands__A_Cappella_.mp3
-19:14:58 [info] [Player] new instance created
-19:14:58 [info] [GaplessTransport] stop
-19:14:58 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Wet_Hands__A_Cappella_.mp3
-19:14:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Wet_Hands__A_Cappella_.mp3
-19:14:58 [info] [ffmpegdecoder] parsing data stream...
-19:14:58 [info] [ffmpegdecoder] found audio stream!
-19:14:58 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:58 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Wet_Hands__A_Cappella_.mp3
-19:14:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:14:59 [info] [Player] new instance created
-19:14:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Wet_Hands__A_Cappella_.mp3
-19:14:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Wet_Hands__A_Cappella_.mp3
-19:14:59 [info] [ffmpegdecoder] parsing data stream...
-19:14:59 [info] [ffmpegdecoder] found audio stream!
-19:14:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:14:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Wet_Hands__A_Cappella_.mp3
-19:14:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:02 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:02 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:05 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/bad_guy.mp3
-19:15:05 [info] [Player] new instance created
-19:15:05 [info] [GaplessTransport] stop
-19:15:05 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/bad_guy.mp3
-19:15:05 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/bad_guy.mp3
-19:15:05 [info] [ffmpegdecoder] parsing data stream...
-19:15:05 [error] [ffmpegdecoder] failed to find compatible audio stream
-19:15:05 [error] [Streams] open ok, but decode failed /home/nuub/Music/Playlists/Liked/Uwu/bad_guy.mp3
-19:15:07 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Vogel_im_K_fig_-_Sad_Piano_Version.mp3
-19:15:07 [info] [Player] new instance created
-19:15:07 [info] [GaplessTransport] stop
-19:15:07 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Vogel_im_K_fig_-_Sad_Piano_Version.mp3
-19:15:07 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Vogel_im_K_fig_-_Sad_Piano_Version.mp3
-19:15:07 [info] [ffmpegdecoder] parsing data stream...
-19:15:07 [info] [ffmpegdecoder] found audio stream!
-19:15:07 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:07 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Vogel_im_K_fig_-_Sad_Piano_Version.mp3
-19:15:07 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:08 [info] [Player] new instance created
-19:15:08 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Vogel_im_K_fig_-_Sad_Piano_Version.mp3
-19:15:08 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Vogel_im_K_fig_-_Sad_Piano_Version.mp3
-19:15:08 [info] [ffmpegdecoder] parsing data stream...
-19:15:08 [info] [ffmpegdecoder] found audio stream!
-19:15:08 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:08 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Vogel_im_K_fig_-_Sad_Piano_Version.mp3
-19:15:08 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:13 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Bink_s_Sake__From__One_Piece__.mp3
-19:15:13 [info] [Player] new instance created
-19:15:13 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Bink_s_Sake__From__One_Piece__.mp3
-19:15:13 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Bink_s_Sake__From__One_Piece__.mp3
-19:15:13 [info] [GaplessTransport] stop
-19:15:13 [info] [ffmpegdecoder] parsing data stream...
-19:15:13 [info] [ffmpegdecoder] found audio stream!
-19:15:13 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:13 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Bink_s_Sake__From__One_Piece__.mp3
-19:15:13 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:14 [info] [Player] new instance created
-19:15:14 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Bink_s_Sake__From__One_Piece__.mp3
-19:15:14 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Bink_s_Sake__From__One_Piece__.mp3
-19:15:14 [info] [ffmpegdecoder] parsing data stream...
-19:15:14 [info] [ffmpegdecoder] found audio stream!
-19:15:14 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:14 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Bink_s_Sake__From__One_Piece__.mp3
-19:15:14 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:19 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Oraci_n__From__Pok_mon__The_Rise_of_Darkrai__.mp3
-19:15:19 [info] [Player] new instance created
-19:15:19 [info] [GaplessTransport] stop
-19:15:19 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Oraci_n__From__Pok_mon__The_Rise_of_Darkrai__.mp3
-19:15:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Oraci_n__From__Pok_mon__The_Rise_of_Darkrai__.mp3
-19:15:19 [info] [ffmpegdecoder] parsing data stream...
-19:15:19 [info] [ffmpegdecoder] found audio stream!
-19:15:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Oraci_n__From__Pok_mon__The_Rise_of_Darkrai__.mp3
-19:15:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:19 [info] [Player] new instance created
-19:15:19 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Oraci_n__From__Pok_mon__The_Rise_of_Darkrai__.mp3
-19:15:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Oraci_n__From__Pok_mon__The_Rise_of_Darkrai__.mp3
-19:15:19 [info] [ffmpegdecoder] parsing data stream...
-19:15:19 [info] [ffmpegdecoder] found audio stream!
-19:15:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Oraci_n__From__Pok_mon__The_Rise_of_Darkrai__.mp3
-19:15:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:20 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:23 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/I_Will_Become_A_Cat__From__Fruits_Basket__.mp3
-19:15:23 [info] [Player] new instance created
-19:15:23 [info] [GaplessTransport] stop
-19:15:23 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/I_Will_Become_A_Cat__From__Fruits_Basket__.mp3
-19:15:23 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/I_Will_Become_A_Cat__From__Fruits_Basket__.mp3
-19:15:23 [info] [ffmpegdecoder] parsing data stream...
-19:15:23 [info] [ffmpegdecoder] found audio stream!
-19:15:23 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:23 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/I_Will_Become_A_Cat__From__Fruits_Basket__.mp3
-19:15:23 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:24 [info] [Player] new instance created
-19:15:24 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/I_Will_Become_A_Cat__From__Fruits_Basket__.mp3
-19:15:24 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/I_Will_Become_A_Cat__From__Fruits_Basket__.mp3
-19:15:24 [info] [ffmpegdecoder] parsing data stream...
-19:15:24 [info] [ffmpegdecoder] found audio stream!
-19:15:24 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:24 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/I_Will_Become_A_Cat__From__Fruits_Basket__.mp3
-19:15:24 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:27 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [Player] new instance created
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [ffmpegdecoder] parsing data stream...
-19:15:27 [info] [ffmpegdecoder] found audio stream!
-19:15:27 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:27 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:27 [info] [ffmpegdecoder] finished decoding.
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Player] new instance created
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [ffmpegdecoder] parsing data stream...
-19:15:27 [info] [ffmpegdecoder] found audio stream!
-19:15:27 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:27 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:27 [info] [ffmpegdecoder] finished decoding.
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Player] new instance created
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [ffmpegdecoder] parsing data stream...
-19:15:27 [info] [ffmpegdecoder] found audio stream!
-19:15:27 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:27 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:27 [info] [ffmpegdecoder] finished decoding.
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Player] new instance created
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [ffmpegdecoder] parsing data stream...
-19:15:27 [info] [ffmpegdecoder] found audio stream!
-19:15:27 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:27 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:27 [info] [ffmpegdecoder] finished decoding.
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Player] new instance created
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [ffmpegdecoder] parsing data stream...
-19:15:27 [info] [ffmpegdecoder] found audio stream!
-19:15:27 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:27 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:27 [info] [ffmpegdecoder] finished decoding.
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Player] new instance created
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [ffmpegdecoder] parsing data stream...
-19:15:27 [info] [ffmpegdecoder] found audio stream!
-19:15:27 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:27 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:27 [info] [ffmpegdecoder] finished decoding.
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Player] new instance created
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [ffmpegdecoder] parsing data stream...
-19:15:27 [info] [ffmpegdecoder] found audio stream!
-19:15:27 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:27 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:27 [info] [ffmpegdecoder] finished decoding.
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Player] new instance created
-19:15:27 [info] [GaplessTransport] stop
-19:15:27 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:27 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Player] new instance created
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Player] new instance created
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Player] new instance created
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Player] new instance created
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Player] new instance created
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Player] new instance created
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Player] new instance created
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Player] new instance created
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Player] new instance created
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Player] new instance created
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Player] new instance created
-19:15:28 [info] [GaplessTransport] stop
-19:15:28 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [info] [ffmpegdecoder] parsing data stream...
-19:15:28 [info] [ffmpegdecoder] found audio stream!
-19:15:28 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:28 [info] [ffmpegdecoder] finished decoding.
-19:15:28 [info] [GaplessTransport] stop
-19:15:29 [info] [Player] new instance created
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [ffmpegdecoder] parsing data stream...
-19:15:29 [info] [ffmpegdecoder] found audio stream!
-19:15:29 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:29 [info] [ffmpegdecoder] finished decoding.
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Player] new instance created
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [ffmpegdecoder] parsing data stream...
-19:15:29 [info] [ffmpegdecoder] found audio stream!
-19:15:29 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:29 [info] [ffmpegdecoder] finished decoding.
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Player] new instance created
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [ffmpegdecoder] parsing data stream...
-19:15:29 [info] [ffmpegdecoder] found audio stream!
-19:15:29 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:29 [info] [ffmpegdecoder] finished decoding.
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Player] new instance created
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [ffmpegdecoder] parsing data stream...
-19:15:29 [info] [ffmpegdecoder] found audio stream!
-19:15:29 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:29 [info] [ffmpegdecoder] finished decoding.
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Player] new instance created
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [ffmpegdecoder] parsing data stream...
-19:15:29 [info] [ffmpegdecoder] found audio stream!
-19:15:29 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:29 [info] [ffmpegdecoder] finished decoding.
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Player] new instance created
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [ffmpegdecoder] parsing data stream...
-19:15:29 [info] [ffmpegdecoder] found audio stream!
-19:15:29 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:29 [info] [ffmpegdecoder] finished decoding.
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Player] new instance created
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [info] [ffmpegdecoder] parsing data stream...
-19:15:29 [info] [ffmpegdecoder] found audio stream!
-19:15:29 [info] [ffmpegdecoder] resolved codec: MP2 (MPEG audio layer 2)
-19:15:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Morskie_Opowie_ci.mp3
-19:15:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:29 [info] [ffmpegdecoder] finished decoding.
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Last_Agni_Kai_Song.mp3
-19:15:29 [info] [Player] new instance created
-19:15:29 [info] [GaplessTransport] stop
-19:15:29 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Last_Agni_Kai_Song.mp3
-19:15:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Last_Agni_Kai_Song.mp3
-19:15:29 [info] [ffmpegdecoder] parsing data stream...
-19:15:29 [info] [ffmpegdecoder] found audio stream!
-19:15:29 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Last_Agni_Kai_Song.mp3
-19:15:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:29 [info] [Player] new instance created
-19:15:29 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Last_Agni_Kai_Song.mp3
-19:15:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Last_Agni_Kai_Song.mp3
-19:15:29 [info] [ffmpegdecoder] parsing data stream...
-19:15:29 [info] [ffmpegdecoder] found audio stream!
-19:15:29 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Last_Agni_Kai_Song.mp3
-19:15:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:30 [info] [Player] new instance created
-19:15:30 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Last_Agni_Kai_Song.mp3
-19:15:30 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Last_Agni_Kai_Song.mp3
-19:15:30 [info] [ffmpegdecoder] parsing data stream...
-19:15:30 [info] [ffmpegdecoder] found audio stream!
-19:15:30 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:30 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Last_Agni_Kai_Song.mp3
-19:15:30 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:31 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Tales_from_the_Sky.mp3
-19:15:31 [info] [Player] new instance created
-19:15:31 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Tales_from_the_Sky.mp3
-19:15:31 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Tales_from_the_Sky.mp3
-19:15:31 [info] [ffmpegdecoder] parsing data stream...
-19:15:31 [info] [GaplessTransport] stop
-19:15:31 [info] [ffmpegdecoder] found audio stream!
-19:15:31 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:31 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Tales_from_the_Sky.mp3
-19:15:31 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:31 [info] [Player] new instance created
-19:15:31 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Tales_from_the_Sky.mp3
-19:15:31 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Tales_from_the_Sky.mp3
-19:15:31 [info] [ffmpegdecoder] parsing data stream...
-19:15:31 [info] [ffmpegdecoder] found audio stream!
-19:15:31 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:31 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Tales_from_the_Sky.mp3
-19:15:31 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:34 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Fucked_With_A_Knife.mp3
-19:15:34 [info] [Player] new instance created
-19:15:34 [info] [GaplessTransport] stop
-19:15:34 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Fucked_With_A_Knife.mp3
-19:15:34 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Fucked_With_A_Knife.mp3
-19:15:34 [info] [ffmpegdecoder] parsing data stream...
-19:15:34 [info] [ffmpegdecoder] found audio stream!
-19:15:34 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:34 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Fucked_With_A_Knife.mp3
-19:15:34 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:34 [info] [Player] new instance created
-19:15:34 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Fucked_With_A_Knife.mp3
-19:15:34 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Fucked_With_A_Knife.mp3
-19:15:34 [info] [ffmpegdecoder] parsing data stream...
-19:15:34 [info] [ffmpegdecoder] found audio stream!
-19:15:34 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:34 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Fucked_With_A_Knife.mp3
-19:15:34 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:35 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Warm_Sleep.mp3
-19:15:35 [info] [Player] new instance created
-19:15:35 [info] [GaplessTransport] stop
-19:15:35 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Warm_Sleep.mp3
-19:15:35 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Warm_Sleep.mp3
-19:15:35 [info] [ffmpegdecoder] parsing data stream...
-19:15:35 [info] [ffmpegdecoder] found audio stream!
-19:15:35 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:35 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Warm_Sleep.mp3
-19:15:35 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:35 [info] [Player] new instance created
-19:15:35 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Warm_Sleep.mp3
-19:15:35 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Warm_Sleep.mp3
-19:15:35 [info] [ffmpegdecoder] parsing data stream...
-19:15:35 [info] [ffmpegdecoder] found audio stream!
-19:15:35 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:35 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Warm_Sleep.mp3
-19:15:35 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:52 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Boku_no_Sensou__My_War___from__Attack_on_Titan_Season_4__.mp3
-19:15:52 [info] [Player] new instance created
-19:15:52 [info] [GaplessTransport] stop
-19:15:52 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Boku_no_Sensou__My_War___from__Attack_on_Titan_Season_4__.mp3
-19:15:52 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Boku_no_Sensou__My_War___from__Attack_on_Titan_Season_4__.mp3
-19:15:52 [info] [ffmpegdecoder] parsing data stream...
-19:15:52 [info] [ffmpegdecoder] found audio stream!
-19:15:52 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:52 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Boku_no_Sensou__My_War___from__Attack_on_Titan_Season_4__.mp3
-19:15:52 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:52 [info] [Player] new instance created
-19:15:52 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Boku_no_Sensou__My_War___from__Attack_on_Titan_Season_4__.mp3
-19:15:52 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Boku_no_Sensou__My_War___from__Attack_on_Titan_Season_4__.mp3
-19:15:52 [info] [ffmpegdecoder] parsing data stream...
-19:15:52 [info] [ffmpegdecoder] found audio stream!
-19:15:52 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:52 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Boku_no_Sensou__My_War___from__Attack_on_Titan_Season_4__.mp3
-19:15:52 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:53 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/You_re_Loved.mp3
-19:15:53 [info] [Player] new instance created
-19:15:53 [info] [GaplessTransport] stop
-19:15:53 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/You_re_Loved.mp3
-19:15:53 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/You_re_Loved.mp3
-19:15:53 [info] [ffmpegdecoder] parsing data stream...
-19:15:53 [info] [ffmpegdecoder] found audio stream!
-19:15:53 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:53 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/You_re_Loved.mp3
-19:15:53 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:54 [info] [Player] new instance created
-19:15:54 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/You_re_Loved.mp3
-19:15:54 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/You_re_Loved.mp3
-19:15:54 [info] [ffmpegdecoder] parsing data stream...
-19:15:54 [info] [ffmpegdecoder] found audio stream!
-19:15:54 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:54 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/You_re_Loved.mp3
-19:15:54 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:56 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_but_is_it_okay_if_it_s_lofi_.mp3
-19:15:56 [info] [Player] new instance created
-19:15:56 [info] [GaplessTransport] stop
-19:15:56 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_but_is_it_okay_if_it_s_lofi_.mp3
-19:15:56 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_but_is_it_okay_if_it_s_lofi_.mp3
-19:15:56 [info] [ffmpegdecoder] parsing data stream...
-19:15:56 [info] [ffmpegdecoder] found audio stream!
-19:15:56 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:56 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_but_is_it_okay_if_it_s_lofi_.mp3
-19:15:56 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:57 [info] [Player] new instance created
-19:15:57 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_but_is_it_okay_if_it_s_lofi_.mp3
-19:15:57 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_but_is_it_okay_if_it_s_lofi_.mp3
-19:15:57 [info] [ffmpegdecoder] parsing data stream...
-19:15:57 [info] [ffmpegdecoder] found audio stream!
-19:15:57 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:57 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_but_is_it_okay_if_it_s_lofi_.mp3
-19:15:57 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:59 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Beautiful_.mp3
-19:15:59 [info] [Player] new instance created
-19:15:59 [info] [GaplessTransport] stop
-19:15:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Beautiful_.mp3
-19:15:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Beautiful_.mp3
-19:15:59 [info] [ffmpegdecoder] parsing data stream...
-19:15:59 [info] [ffmpegdecoder] found audio stream!
-19:15:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Beautiful_.mp3
-19:15:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:15:59 [info] [Player] new instance created
-19:15:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Beautiful_.mp3
-19:15:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Beautiful_.mp3
-19:15:59 [info] [ffmpegdecoder] parsing data stream...
-19:15:59 [info] [ffmpegdecoder] found audio stream!
-19:15:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:15:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Beautiful_.mp3
-19:15:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:02 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-19:16:02 [info] [Player] new instance created
-19:16:02 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-19:16:02 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-19:16:02 [info] [GaplessTransport] stop
-19:16:02 [info] [ffmpegdecoder] parsing data stream...
-19:16:03 [info] [ffmpegdecoder] found audio stream!
-19:16:03 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:03 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-19:16:03 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:03 [info] [Player] new instance created
-19:16:03 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-19:16:03 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-19:16:03 [info] [ffmpegdecoder] parsing data stream...
-19:16:03 [info] [ffmpegdecoder] found audio stream!
-19:16:03 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:03 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-19:16:03 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:05 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Avatar_s_Love.mp3
-19:16:05 [info] [Player] new instance created
-19:16:05 [info] [GaplessTransport] stop
-19:16:05 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Avatar_s_Love.mp3
-19:16:05 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Avatar_s_Love.mp3
-19:16:05 [info] [ffmpegdecoder] parsing data stream...
-19:16:05 [info] [ffmpegdecoder] found audio stream!
-19:16:05 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:05 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Avatar_s_Love.mp3
-19:16:05 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:06 [info] [Player] new instance created
-19:16:06 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Avatar_s_Love.mp3
-19:16:06 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Avatar_s_Love.mp3
-19:16:06 [info] [ffmpegdecoder] parsing data stream...
-19:16:06 [info] [ffmpegdecoder] found audio stream!
-19:16:06 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:06 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Avatar_s_Love.mp3
-19:16:06 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:08 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Myself.mp3
-19:16:08 [info] [Player] new instance created
-19:16:08 [info] [GaplessTransport] stop
-19:16:08 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Myself.mp3
-19:16:08 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Myself.mp3
-19:16:08 [info] [ffmpegdecoder] parsing data stream...
-19:16:08 [info] [ffmpegdecoder] found audio stream!
-19:16:08 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:08 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Myself.mp3
-19:16:08 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:09 [info] [Player] new instance created
-19:16:09 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Myself.mp3
-19:16:09 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Myself.mp3
-19:16:09 [info] [ffmpegdecoder] parsing data stream...
-19:16:09 [info] [ffmpegdecoder] found audio stream!
-19:16:09 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:09 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Myself.mp3
-19:16:09 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:10 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:10 [info] [Player] new instance created
-19:16:10 [info] [GaplessTransport] stop
-19:16:10 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:10 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:10 [info] [ffmpegdecoder] parsing data stream...
-19:16:10 [info] [ffmpegdecoder] found audio stream!
-19:16:10 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:10 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:10 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:11 [info] [Player] new instance created
-19:16:11 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:11 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:11 [info] [ffmpegdecoder] parsing data stream...
-19:16:11 [info] [ffmpegdecoder] found audio stream!
-19:16:11 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:11 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:11 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:13 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:16 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Still_Alive__From__Portal__.mp3
-19:16:16 [info] [Player] new instance created
-19:16:16 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Still_Alive__From__Portal__.mp3
-19:16:16 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Still_Alive__From__Portal__.mp3
-19:16:16 [info] [GaplessTransport] stop
-19:16:16 [info] [ffmpegdecoder] parsing data stream...
-19:16:16 [info] [ffmpegdecoder] found audio stream!
-19:16:16 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:16 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Still_Alive__From__Portal__.mp3
-19:16:16 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:16 [info] [Player] new instance created
-19:16:16 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Still_Alive__From__Portal__.mp3
-19:16:16 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Still_Alive__From__Portal__.mp3
-19:16:16 [info] [ffmpegdecoder] parsing data stream...
-19:16:16 [info] [ffmpegdecoder] found audio stream!
-19:16:16 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:16 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Still_Alive__From__Portal__.mp3
-19:16:16 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:17 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:17 [info] [Player] new instance created
-19:16:17 [info] [GaplessTransport] stop
-19:16:17 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:17 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:17 [info] [ffmpegdecoder] parsing data stream...
-19:16:17 [info] [ffmpegdecoder] found audio stream!
-19:16:17 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:17 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:17 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:18 [info] [Player] new instance created
-19:16:18 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:18 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:18 [info] [ffmpegdecoder] parsing data stream...
-19:16:18 [info] [ffmpegdecoder] found audio stream!
-19:16:18 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:18 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Call_of_Silence.mp3
-19:16:18 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:18 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/A_Tale_of_Six_Trillion_Years_and_a_Night.mp3
-19:16:18 [info] [Player] new instance created
-19:16:18 [info] [GaplessTransport] stop
-19:16:18 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/A_Tale_of_Six_Trillion_Years_and_a_Night.mp3
-19:16:18 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/A_Tale_of_Six_Trillion_Years_and_a_Night.mp3
-19:16:18 [info] [ffmpegdecoder] parsing data stream...
-19:16:18 [info] [ffmpegdecoder] found audio stream!
-19:16:18 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:18 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/A_Tale_of_Six_Trillion_Years_and_a_Night.mp3
-19:16:18 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:18 [info] [Player] new instance created
-19:16:18 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/A_Tale_of_Six_Trillion_Years_and_a_Night.mp3
-19:16:18 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/A_Tale_of_Six_Trillion_Years_and_a_Night.mp3
-19:16:18 [info] [ffmpegdecoder] parsing data stream...
-19:16:18 [info] [ffmpegdecoder] found audio stream!
-19:16:18 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:18 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/A_Tale_of_Six_Trillion_Years_and_a_Night.mp3
-19:16:18 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:20 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Karma.mp3
-19:16:20 [info] [Player] new instance created
-19:16:20 [info] [GaplessTransport] stop
-19:16:20 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Karma.mp3
-19:16:20 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Karma.mp3
-19:16:20 [info] [ffmpegdecoder] parsing data stream...
-19:16:20 [info] [ffmpegdecoder] found audio stream!
-19:16:20 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:20 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Karma.mp3
-19:16:20 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:20 [info] [Player] new instance created
-19:16:20 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Karma.mp3
-19:16:20 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Karma.mp3
-19:16:20 [info] [ffmpegdecoder] parsing data stream...
-19:16:20 [info] [ffmpegdecoder] found audio stream!
-19:16:20 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:20 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Karma.mp3
-19:16:20 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:22 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Kokoronashi.mp3
-19:16:22 [info] [Player] new instance created
-19:16:22 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Kokoronashi.mp3
-19:16:22 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Kokoronashi.mp3
-19:16:22 [info] [ffmpegdecoder] parsing data stream...
-19:16:22 [info] [GaplessTransport] stop
-19:16:22 [info] [ffmpegdecoder] found audio stream!
-19:16:22 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:22 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Kokoronashi.mp3
-19:16:22 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:22 [info] [Player] new instance created
-19:16:22 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Kokoronashi.mp3
-19:16:22 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Kokoronashi.mp3
-19:16:22 [info] [ffmpegdecoder] parsing data stream...
-19:16:22 [info] [ffmpegdecoder] found audio stream!
-19:16:22 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:22 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Kokoronashi.mp3
-19:16:22 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:23 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:25 [info] [GaplessTransport] pause
-19:16:43 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-19:16:43 [info] [Player] new instance created
-19:16:43 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-19:16:43 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-19:16:43 [info] [ffmpegdecoder] parsing data stream...
-19:16:43 [info] [GaplessTransport] stop
-19:16:43 [info] [ffmpegdecoder] found audio stream!
-19:16:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:43 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-19:16:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:16:44 [info] [Player] new instance created
-19:16:44 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-19:16:44 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-19:16:44 [info] [ffmpegdecoder] parsing data stream...
-19:16:44 [info] [ffmpegdecoder] found audio stream!
-19:16:44 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:16:44 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-19:16:44 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:17:17 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:17:18 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:21:43 [info] [ffmpegdecoder] finished decoding.
-19:21:45 [info] [GaplessTransport] stop
-19:21:45 [info] [Player] new instance created
-19:21:45 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-19:21:45 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-19:21:45 [info] [ffmpegdecoder] parsing data stream...
-19:21:45 [info] [ffmpegdecoder] found audio stream!
-19:21:45 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:21:45 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-19:21:45 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:24:42 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_Lofi.mp3
-19:24:42 [info] [Player] new instance created
-19:24:42 [info] [GaplessTransport] stop
-19:24:42 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_Lofi.mp3
-19:24:42 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_Lofi.mp3
-19:24:42 [info] [ffmpegdecoder] parsing data stream...
-19:24:42 [info] [ffmpegdecoder] found audio stream!
-19:24:42 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:24:42 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_Lofi.mp3
-19:24:42 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:24:43 [info] [Player] new instance created
-19:24:43 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_Lofi.mp3
-19:24:43 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_Lofi.mp3
-19:24:43 [info] [ffmpegdecoder] parsing data stream...
-19:24:43 [info] [ffmpegdecoder] found audio stream!
-19:24:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:24:43 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Blue_Bird_Lofi.mp3
-19:24:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:24:46 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:24:46 [info] [Player] new instance created
-19:24:46 [info] [GaplessTransport] stop
-19:24:46 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:24:46 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:24:46 [info] [ffmpegdecoder] parsing data stream...
-19:24:46 [info] [ffmpegdecoder] found audio stream!
-19:24:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:24:46 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:24:46 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:24:46 [info] [Player] new instance created
-19:24:46 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:24:46 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:24:46 [info] [ffmpegdecoder] parsing data stream...
-19:24:46 [info] [ffmpegdecoder] found audio stream!
-19:24:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:24:46 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:24:46 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:26:24 [info] [ffmpegdecoder] finished decoding.
-19:26:26 [info] [GaplessTransport] stop
-19:26:26 [info] [Player] new instance created
-19:26:26 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:26:26 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:26:26 [info] [ffmpegdecoder] parsing data stream...
-19:26:26 [info] [ffmpegdecoder] found audio stream!
-19:26:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:26:26 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:26:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:28:04 [info] [ffmpegdecoder] finished decoding.
-19:28:06 [info] [GaplessTransport] stop
-19:28:06 [info] [Player] new instance created
-19:28:06 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:28:06 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:28:06 [info] [ffmpegdecoder] parsing data stream...
-19:28:06 [info] [ffmpegdecoder] found audio stream!
-19:28:06 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:28:06 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:28:06 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:29:44 [info] [ffmpegdecoder] finished decoding.
-19:29:46 [info] [GaplessTransport] stop
-19:29:46 [info] [Player] new instance created
-19:29:46 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:29:46 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:29:46 [info] [ffmpegdecoder] parsing data stream...
-19:29:46 [info] [ffmpegdecoder] found audio stream!
-19:29:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:29:46 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:29:46 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:31:24 [info] [ffmpegdecoder] finished decoding.
-19:31:26 [info] [GaplessTransport] stop
-19:31:26 [info] [Player] new instance created
-19:31:26 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:31:26 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:31:26 [info] [ffmpegdecoder] parsing data stream...
-19:31:26 [info] [ffmpegdecoder] found audio stream!
-19:31:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:31:26 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:31:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:33:04 [info] [ffmpegdecoder] finished decoding.
-19:33:06 [info] [GaplessTransport] stop
-19:33:06 [info] [Player] new instance created
-19:33:06 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:33:06 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:33:06 [info] [ffmpegdecoder] parsing data stream...
-19:33:06 [info] [ffmpegdecoder] found audio stream!
-19:33:06 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:33:06 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:33:06 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:34:44 [info] [ffmpegdecoder] finished decoding.
-19:34:46 [info] [GaplessTransport] stop
-19:34:47 [info] [Player] new instance created
-19:34:47 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:34:47 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:34:47 [info] [ffmpegdecoder] parsing data stream...
-19:34:47 [info] [ffmpegdecoder] found audio stream!
-19:34:47 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-19:34:47 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
-19:34:47 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-19:35:12 [info] [GaplessTransport] stop
+20:31:03 [info] [LOG SESSION] ---------- START ----------
+20:31:03 [info] [PluginFactory] loading plugins
+20:31:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+20:31:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+20:31:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+20:31:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+20:31:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+20:31:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+20:31:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+20:31:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+20:31:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+20:31:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+20:31:03 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+20:31:03 [info] [Indexer] indexer source -1303229654 running...
+20:31:03 [info] [Indexer] indexer source -1303229654 finished
+20:31:03 [info] [Indexer] scanning /home/nuub/Music/
+20:31:03 [info] [Indexer] scan completed successfully
+20:31:03 [info] [Indexer] cleanup 1/2
+20:31:03 [info] [Indexer] cleanup 2/2
+20:31:03 [info] [Indexer] optimizing
+20:31:03 [info] [Indexer] done!
+20:31:04 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:31:04 [info] [Player] new instance created
+20:31:04 [info] [GaplessTransport] stop
+20:31:04 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:31:04 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:31:04 [info] [ffmpegdecoder] parsing data stream...
+20:31:04 [info] [ffmpegdecoder] found audio stream!
+20:31:04 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:31:04 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:31:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:31:04 [info] [GaplessTransport] resume
+20:31:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:31:04 [info] [Player] new instance created
+20:31:04 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:31:04 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:31:04 [info] [ffmpegdecoder] parsing data stream...
+20:31:04 [info] [ffmpegdecoder] found audio stream!
+20:31:04 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:31:04 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:31:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:32:16 [info] [ffmpegdecoder] finished decoding.
+20:32:18 [info] [GaplessTransport] stop
+20:32:18 [info] [Player] new instance created
+20:32:18 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:32:18 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:32:18 [info] [ffmpegdecoder] parsing data stream...
+20:32:18 [info] [ffmpegdecoder] found audio stream!
+20:32:18 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:32:18 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:32:18 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:33:56 [info] [ffmpegdecoder] finished decoding.
+20:33:58 [info] [GaplessTransport] stop
+20:33:58 [info] [Player] new instance created
+20:33:58 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:33:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:33:58 [info] [ffmpegdecoder] parsing data stream...
+20:33:58 [info] [ffmpegdecoder] found audio stream!
+20:33:58 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:33:58 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:33:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:35:36 [info] [ffmpegdecoder] finished decoding.
+20:35:38 [info] [GaplessTransport] stop
+20:35:39 [info] [Player] new instance created
+20:35:39 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:35:39 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:35:39 [info] [ffmpegdecoder] parsing data stream...
+20:35:39 [info] [ffmpegdecoder] found audio stream!
+20:35:39 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:35:39 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:35:39 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:37:16 [info] [ffmpegdecoder] finished decoding.
+20:37:18 [info] [GaplessTransport] stop
+20:37:19 [info] [Player] new instance created
+20:37:19 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:37:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:37:19 [info] [ffmpegdecoder] parsing data stream...
+20:37:19 [info] [ffmpegdecoder] found audio stream!
+20:37:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:37:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:37:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:38:56 [info] [ffmpegdecoder] finished decoding.
+20:38:59 [info] [GaplessTransport] stop
+20:38:59 [info] [Player] new instance created
+20:38:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:38:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:38:59 [info] [ffmpegdecoder] parsing data stream...
+20:38:59 [info] [ffmpegdecoder] found audio stream!
+20:38:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:38:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:38:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:40:36 [info] [ffmpegdecoder] finished decoding.
+20:40:39 [info] [GaplessTransport] stop
+20:40:39 [info] [Player] new instance created
+20:40:39 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:40:39 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:40:39 [info] [ffmpegdecoder] parsing data stream...
+20:40:39 [info] [ffmpegdecoder] found audio stream!
+20:40:39 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:40:39 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:40:39 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:42:17 [info] [ffmpegdecoder] finished decoding.
+20:42:19 [info] [GaplessTransport] stop
+20:42:19 [info] [Player] new instance created
+20:42:19 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:42:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:42:19 [info] [ffmpegdecoder] parsing data stream...
+20:42:19 [info] [ffmpegdecoder] found audio stream!
+20:42:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:42:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:42:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:43:57 [info] [ffmpegdecoder] finished decoding.
+20:43:59 [info] [GaplessTransport] stop
+20:43:59 [info] [Player] new instance created
+20:43:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:43:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:43:59 [info] [ffmpegdecoder] parsing data stream...
+20:43:59 [info] [ffmpegdecoder] found audio stream!
+20:43:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:43:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:43:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:45:37 [info] [ffmpegdecoder] finished decoding.
+20:45:39 [info] [GaplessTransport] stop
+20:45:39 [info] [Player] new instance created
+20:45:39 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:45:39 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:45:39 [info] [ffmpegdecoder] parsing data stream...
+20:45:39 [info] [ffmpegdecoder] found audio stream!
+20:45:39 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:45:39 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:45:39 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:47:17 [info] [ffmpegdecoder] finished decoding.
+20:47:19 [info] [GaplessTransport] stop
+20:47:19 [info] [Player] new instance created
+20:47:19 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:47:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:47:19 [info] [ffmpegdecoder] parsing data stream...
+20:47:19 [info] [ffmpegdecoder] found audio stream!
+20:47:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:47:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:47:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:48:57 [info] [ffmpegdecoder] finished decoding.
+20:48:59 [info] [GaplessTransport] stop
+20:48:59 [info] [Player] new instance created
+20:48:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:48:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:48:59 [info] [ffmpegdecoder] parsing data stream...
+20:48:59 [info] [ffmpegdecoder] found audio stream!
+20:48:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:48:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:48:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:50:37 [info] [ffmpegdecoder] finished decoding.
+20:50:39 [info] [GaplessTransport] stop
+20:50:39 [info] [Player] new instance created
+20:50:39 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:50:39 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:50:39 [info] [ffmpegdecoder] parsing data stream...
+20:50:39 [info] [ffmpegdecoder] found audio stream!
+20:50:39 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:50:39 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:50:39 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:52:17 [info] [ffmpegdecoder] finished decoding.
+20:52:19 [info] [GaplessTransport] stop
+20:52:19 [info] [Player] new instance created
+20:52:19 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:52:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:52:19 [info] [ffmpegdecoder] parsing data stream...
+20:52:19 [info] [ffmpegdecoder] found audio stream!
+20:52:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+20:52:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cinderella__From__Komi_Can_t_Communicate__.mp3
+20:52:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:53:07 [info] [GaplessTransport] stop
