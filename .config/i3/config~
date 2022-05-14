@@ -512,5 +512,3 @@ exec --no-startup-id caps-indicator
 # Starting up the autotiling
 exec_always --no-startup-id autotiling
 
-bindsym $mod+ctrl+t exec "alacritty -e powerline wm.i3"
-
