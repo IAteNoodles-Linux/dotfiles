@@ -515,5 +515,6 @@ exec --no-startup-id caps-indicator
 # Starting up the autotiling
 exec_always --no-startup-id autotiling
 
-
+bindsym Mod1+return move scratchpad
+bindsym Mod1+Shift+return move scratchpad
 
