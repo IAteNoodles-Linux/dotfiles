@@ -40,7 +40,7 @@ exec_always --no-startup-id picom -b
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
-exec_always --no-startup-id volumeicon
+exec --no-startup-id volumeicon
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
@@ -492,6 +492,9 @@ bindsym $mod+n bar mode toggle
 # Loading betterlockscreen
 bindsym $mod+shift+x exec betterlockscreen -l dim
 
+#Launching Neovim, but first asking the file. If file isn't found, it will create it.
+bindsym $mod+n exec nvim -c ":NERDTree" -c ":NERDTreeToggle" -c ":wq"
+
 # Setting up a shortcut to shutdown and reboot the computer.
 
 set $mode_launcher Launch: [s]hutdown [r]eboot
@@ -511,4 +514,6 @@ exec --no-startup-id caps-indicator
 
 # Starting up the autotiling
 exec_always --no-startup-id autotiling
+
+
 
