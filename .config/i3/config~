@@ -493,7 +493,7 @@ bindsym $mod+n bar mode toggle
 bindsym $mod+shift+x exec betterlockscreen -l dim
 
 #Launching Neovim, but first asking the file. If file isn't found, it will create it.
-bindsym $mod+n exec nvim -c ":NERDTree" -c ":NERDTreeToggle" -c ":wq"
+bindsym $mod+shift+n exec nvim -c ":NERDTree" -c ":NERDTreeToggle" -c ":wq"
 
 # Setting up a shortcut to shutdown and reboot the computer.
 
