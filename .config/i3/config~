@@ -515,6 +515,6 @@ exec --no-startup-id caps-indicator
 # Starting up the autotiling
 exec_always --no-startup-id autotiling
 
-bindsym Mod1+return move scratchpad
-bindsym Mod1+Shift+return move scratchpad
-
+for_window [title="^scratchpad$"] border 1pixel, floating enable, move scratchpad
+bindsym $mod+x [instance="scratchpad"] scratchpad show; sticky enable
+exec alacritty -name scratchpad -geometry 86x24-8-32
