@@ -19,7 +19,6 @@ font pango:Courier 6
 
 #exec --no-startup-id guake
 #exec --no-startup-id yakuake
-
 #Starts the swap at /dev/sda4
 #exec --no-startup-id sudo swapon /dev/sda4
 #exec sudo swapon --a
@@ -41,11 +40,11 @@ exec_always --no-startup-id picom -b
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
-exec --no-startup-id volumeicon
+exec_always --no-startup-id volumeicon
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
-exec --no-startup-id nm-applet
+exec_always --no-startup-id nm-applet
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3blocks killall -SIGUSR1 i3status
@@ -109,7 +108,7 @@ bindsym $mod+w layout tabbed
 bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
-bindsym$mod+Shift+space floating toggle
+bindsym $mod+Shift+space floating toggle
 
 # change focus between tiling / floating windows
 bindsym $mod+space focus mode_toggle
@@ -346,10 +345,9 @@ mode "$mode_gaps_left" {
         bindsym Escape mode "default"
 }
 
-###############################################################
-            
+################################################################################
 # Changing the gaps between windows
-gaps inner 10                                                        
+gaps inner 10
 gaps outer 0
 gaps horizontal 0
 gaps vertical 0
