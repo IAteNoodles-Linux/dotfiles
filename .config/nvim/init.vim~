@@ -61,7 +61,7 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'tpope/vim-surround'
 "Plug 'neoclide/coc.nvim', {'branch': 'release'}"
 Plug 'tpope/vim-repeat'
-"Plug 'github/copilot.vim'"
+Plug 'github/copilot.vim'
 call plug#end()
 
 "Setting up line numbering"

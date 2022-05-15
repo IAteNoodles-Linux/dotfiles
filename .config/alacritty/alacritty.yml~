@@ -68,7 +68,7 @@ window:
   #
   # Window opacity as a floating point number from `0.0` to `1.0`.
   # The value `0.0` is completely transparent and `1.0` is opaque.
-  opacity: 0.4
+  opacity: 1 
   # Startup Mode (changes require restart)
   #
   # Values for `startup_mode`:
@@ -117,10 +117,10 @@ font:
     #   - (macOS) Menlo
     #   - (Linux/BSD) monospace
     #   - (Windows) Consolas
-    family: Courier
+    family: DaddyTimeMono
 
     # The `style` can be specified to pick a specific face.
-    style: BoldOblique
+    style: Mono Book
 
   # Bold font face
   #bold:
@@ -156,7 +156,7 @@ font:
     #style: Bold Italic
 
   # Point size
-  size: 10 
+  size: 9
 
   # Offset is the extra space around each character. `offset.y` can be thought
   # of as modifying the line spacing, and `offset.x` as modifying the letter
