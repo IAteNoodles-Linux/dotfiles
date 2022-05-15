@@ -120,7 +120,7 @@ font:
     family: Cousine
 
     # The `style` can be specified to pick a specific face.
-    #style: 
+    style: Bold
 
   # Bold font face
   #bold:
