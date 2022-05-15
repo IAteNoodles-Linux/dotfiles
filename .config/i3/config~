@@ -516,4 +516,3 @@ exec --no-startup-id caps-indicator
 exec_always --no-startup-id autotiling
 
 # Starting up guake
-exec_always --no-startup-id guake
