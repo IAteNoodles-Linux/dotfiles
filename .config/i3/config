@@ -199,7 +199,7 @@ bar {
 	position	top	
 
 # Font set to Meslo Nerd
-    font pango: DaddyTimeMono Nerd Font Mono Bold 8.5
+    font pango: DaddyTimeMono Nerd Font Mono Bold 8.455
 # Changing the separator_symbol
     separator_symbol "|"
 
