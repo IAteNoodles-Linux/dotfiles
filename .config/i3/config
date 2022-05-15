@@ -27,7 +27,7 @@ font pango:Courier 6
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-font pango:Courier 8
+font pango:DaddyTimeMono 8
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id megasync
@@ -199,7 +199,7 @@ bar {
 	position	top	
 
 # Font set to Meslo Nerd
-    font pango: MesloLGS 8
+    font pango: DaddyTimeMono Nerd Font:size=12
 
 # Changing the separator_symbol
     separator_symbol " | "

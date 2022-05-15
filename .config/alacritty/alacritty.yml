@@ -117,10 +117,10 @@ font:
     #   - (macOS) Menlo
     #   - (Linux/BSD) monospace
     #   - (Windows) Consolas
-    family: Cousine
+    family: DaddyTimeMono Nerd Font
 
     # The `style` can be specified to pick a specific face.
-  style: Bold
+    style: Mono Book
 
   # Bold font face
   #bold:
@@ -192,8 +192,8 @@ font:
 colors:
   # Default colors
   primary:
-    background: "#100D14"
-    foreground: "#8DF2EE"
+    background: "#0B0A16"
+    foreground: "#E89D9D"
   #cursor:
   #  text: "#000000"
   #  cursor: "#919191"
@@ -251,7 +251,7 @@ colors:
 
     #bar:
     #  background: '#c5c8c6'
-    #  foreground: '#1d1f21'
+    #  foreground: :'#1d1f21'
 
   # Keyboard regex hints
   #hints:
@@ -293,24 +293,24 @@ colors:
 
   # Normal colors
   normal:
-    black: "#303030"
-    red: "#c10023"
-    green: "#EEC1C1"
-    yellow: "#b51d2c"
-    blue: "#8c4b46"
-    magenta: "#7d534f"
-    cyan: "#9a413d"
-    white: "#c6c6c6"
+    black: "#F9ADAD"
+    red: "#F9B4B4"
+    green: "#D75050"
+    yellow: "#635E77"
+    blue: "#922B2B"
+    magenta: "#F66151"
+    cyan: "#ED333B"
+    white: "#A51D2D"
 
   bright:
-    black: "#5e5e5e"
-    red: "#ff8781"
-    green: "#ffa095"
-    yellow: "#ff948b"
-    blue: "#feb2aa"
-    magenta: "#ebbbb5"
-    cyan: "#ffaaa0"
-    white: "#ffffff"
+    black: "#D67050"
+    red: "#1A5FB4"
+    green: "#BC5F5F"
+    yellow: "#F66151"
+    blue: "#C81A1A"
+    magenta: "#BC5F5F"
+    cyan: "#C66666"
+    white: "#C01C28"
 
   # Dim colors
   #

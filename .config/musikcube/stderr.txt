@@ -5,10 +5,6 @@ AlsaOut: joining...
 AlsaOut: thread finished
 AlsaOut: closing device...
 AlsaOut: destroyed.
-[2022-05-14 23:18:42] [info] asio async_connect error: system:111 (Connection refused)
-[2022-05-14 23:18:42] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
-[2022-05-14 23:18:42] [error] handle_connect error: Underlying Transport Error
-[mp3float @ 0x7f7ea800f7c0] Could not update timestamps for skipped samples.
-[2022-05-14 23:19:14] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
-PulseOut: destroy
-PulseOut: destructor
+[2022-05-16 02:05:44] [info] asio async_connect error: system:111 (Connection refused)
+[2022-05-16 02:05:44] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
+[2022-05-16 02:05:44] [error] handle_connect error: Underlying Transport Error
