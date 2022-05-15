@@ -33,7 +33,7 @@ font pango:DaddyTimeMono Nerd Font 8.25
 exec --no-startup-id megasync
 exec --no-startup-id numlockx
 exec_always --no-startup-id picom -b    
-# The combination of xss-lock, nm-applet and pactl is a popular choice, so
+# The combination of xss-lock, nm-apple:t and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
 
 
@@ -199,7 +199,7 @@ bar {
 	position	top	
 
 # Font set to Meslo Nerd
-    font pango: DaddyTimeMono Nerd Font Book 8.25
+    font pango: DaddyTimeMono Nerd Font Book 8.45
 # Changing the separator_symbol
     separator_symbol "|"
 
