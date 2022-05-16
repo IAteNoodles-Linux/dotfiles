@@ -125,3 +125,24 @@
 09:21:24 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
 09:21:24 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
 09:21:24 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+09:26:14 [info] [ffmpegdecoder] finished decoding.
+09:26:17 [info] [GaplessTransport] stop
+09:26:17 [info] [Player] new instance created
+09:26:17 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
+09:26:17 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
+09:26:17 [info] [ffmpegdecoder] parsing data stream...
+09:26:17 [info] [ffmpegdecoder] found audio stream!
+09:26:17 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:26:17 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
+09:26:17 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+09:31:11 [info] [ffmpegdecoder] finished decoding.
+09:31:13 [info] [GaplessTransport] stop
+09:31:14 [info] [Player] new instance created
+09:31:14 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
+09:31:14 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
+09:31:14 [info] [ffmpegdecoder] parsing data stream...
+09:31:14 [info] [ffmpegdecoder] found audio stream!
+09:31:14 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:31:14 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
+09:31:14 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+09:32:02 [info] [GaplessTransport] stop
