@@ -58,6 +58,7 @@ Plug 'SirVer/ultisnips'
 Plug 'vim-airline/vim-airline'
 Plug 'NLKNguyen/papercolor-theme'
 Plug 'ryanoasis/vim-devicons'
+Plug 'ap/vim-css-color'
 Plug 'tpope/vim-surround'
 "Plug 'neoclide/coc.nvim', {'branch': 'release'}"
 Plug 'tpope/vim-repeat'
