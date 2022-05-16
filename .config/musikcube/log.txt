@@ -1,31 +1,127 @@
-02:05:44 [info] [LOG SESSION] ---------- START ----------
-02:05:44 [info] [PluginFactory] loading plugins
-02:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-02:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-02:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-02:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-02:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-02:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-02:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-02:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-02:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-02:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-02:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-02:05:44 [info] [Indexer] indexer source -1303229654 running...
-02:05:44 [info] [Indexer] indexer source -1303229654 finished
-02:05:44 [info] [Indexer] scanning /home/nuub/Music/
-02:05:44 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
-02:05:44 [info] [Indexer] scan completed successfully
-02:05:44 [info] [Indexer] cleanup 1/2
-02:05:44 [info] [Indexer] cleanup 2/2
-02:05:44 [info] [Indexer] optimizing
-02:05:44 [info] [Indexer] done!
-02:05:44 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
-02:05:44 [info] [Player] new instance created
-02:05:44 [info] [GaplessTransport] stop
-02:05:44 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
-02:05:44 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
-02:05:44 [info] [ffmpegdecoder] parsing data stream...
-02:05:44 [info] [ffmpegdecoder] found audio stream!
-02:05:44 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-02:05:44 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+09:03:59 [info] [LOG SESSION] ---------- START ----------
+09:03:59 [info] [PluginFactory] loading plugins
+09:03:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+09:03:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+09:03:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+09:03:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+09:03:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+09:03:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+09:03:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+09:03:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+09:03:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+09:03:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+09:03:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+09:03:59 [info] [Indexer] indexer source -1303229654 running...
+09:03:59 [info] [Indexer] indexer source -1303229654 finished
+09:03:59 [info] [Indexer] scanning /home/nuub/Music/
+09:03:59 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
+09:03:59 [info] [Indexer] scan completed successfully
+09:03:59 [info] [Indexer] cleanup 1/2
+09:03:59 [info] [Indexer] cleanup 2/2
+09:03:59 [info] [Indexer] optimizing
+09:03:59 [info] [Indexer] done!
+09:03:59 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+09:03:59 [info] [Player] new instance created
+09:03:59 [info] [GaplessTransport] stop
+09:03:59 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+09:03:59 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+09:03:59 [info] [ffmpegdecoder] parsing data stream...
+09:03:59 [info] [ffmpegdecoder] found audio stream!
+09:03:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:03:59 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+09:06:52 [info] [GaplessTransport] pause
+09:06:52 [info] [GaplessTransport] resume
+09:06:53 [info] [GaplessTransport] pause
+09:06:53 [info] [ffmpegdecoder] finished decoding.
+09:06:53 [info] [Player] new instance created
+09:06:53 [info] [GaplessTransport] stop
+09:06:53 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+09:06:53 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+09:06:53 [info] [ffmpegdecoder] parsing data stream...
+09:06:53 [info] [ffmpegdecoder] found audio stream!
+09:06:53 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:06:53 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+09:06:54 [info] [Player] new instance created
+09:06:54 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+09:06:54 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+09:06:54 [info] [ffmpegdecoder] parsing data stream...
+09:06:54 [info] [ffmpegdecoder] found audio stream!
+09:06:54 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:06:54 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+09:09:01 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
+09:09:01 [info] [Player] new instance created
+09:09:01 [info] [GaplessTransport] stop
+09:09:01 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
+09:09:01 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
+09:09:01 [info] [ffmpegdecoder] parsing data stream...
+09:09:01 [info] [ffmpegdecoder] found audio stream!
+09:09:01 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:09:01 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
+09:09:01 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+09:09:01 [info] [Player] new instance created
+09:09:01 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
+09:09:01 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
+09:09:01 [info] [ffmpegdecoder] parsing data stream...
+09:09:01 [info] [ffmpegdecoder] found audio stream!
+09:09:01 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:09:01 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
+09:09:01 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+09:10:11 [info] [GaplessTransport] pause
+09:10:11 [info] [GaplessTransport] resume
+09:10:42 [info] [Player] new instance created
+09:10:42 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
+09:10:42 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
+09:10:42 [info] [ffmpegdecoder] parsing data stream...
+09:10:42 [info] [ffmpegdecoder] found audio stream!
+09:10:42 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:10:42 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
+09:10:42 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+09:10:44 [info] [GaplessTransport] pause
+09:10:46 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
+09:10:46 [info] [Player] new instance created
+09:10:46 [info] [GaplessTransport] stop
+09:10:46 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
+09:10:46 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
+09:10:46 [info] [ffmpegdecoder] parsing data stream...
+09:10:46 [info] [ffmpegdecoder] found audio stream!
+09:10:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:10:46 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
+09:10:46 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+09:10:46 [info] [Player] new instance created
+09:10:46 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
+09:10:46 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
+09:10:46 [info] [ffmpegdecoder] parsing data stream...
+09:10:46 [info] [ffmpegdecoder] found audio stream!
+09:10:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:10:46 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
+09:10:46 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+09:14:00 [info] [ffmpegdecoder] finished decoding.
+09:14:03 [info] [GaplessTransport] stop
+09:14:03 [info] [Player] new instance created
+09:14:03 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Cö Shu Nie - asphyxia.mp3
+09:14:03 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Cö Shu Nie - asphyxia.mp3
+09:14:03 [info] [ffmpegdecoder] parsing data stream...
+09:14:03 [info] [ffmpegdecoder] found audio stream!
+09:14:03 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:14:03 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Cö Shu Nie - asphyxia.mp3
+09:14:03 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+09:18:27 [info] [ffmpegdecoder] finished decoding.
+09:18:29 [info] [GaplessTransport] stop
+09:18:29 [info] [Player] new instance created
+09:18:29 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/ReoNa - 虹の彼方に.mp3
+09:18:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/ReoNa - 虹の彼方に.mp3
+09:18:29 [info] [ffmpegdecoder] parsing data stream...
+09:18:29 [info] [ffmpegdecoder] found audio stream!
+09:18:29 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:18:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/ReoNa - 虹の彼方に.mp3
+09:18:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+09:21:21 [info] [ffmpegdecoder] finished decoding.
+09:21:24 [info] [GaplessTransport] stop
+09:21:24 [info] [Player] new instance created
+09:21:24 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
+09:21:24 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
+09:21:24 [info] [ffmpegdecoder] parsing data stream...
+09:21:24 [info] [ffmpegdecoder] found audio stream!
+09:21:24 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+09:21:24 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
+09:21:24 [warning] [ffmpegdecoder] invalid packet detected, discarding.
