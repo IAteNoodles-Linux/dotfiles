@@ -455,7 +455,7 @@ bindsym $mod+Mod1+m exec "alacritty -e musikcube"
 
 #[W]hatscli
 #The whatsapp client
-bindsym Mod1+w exec "alacritty -e whatscli"
+#bindsym Mod1+w exec "alacritty -e whatscli" [Removed]
 
 #[P]assmenu-rs
 #The passmenu-rs client
