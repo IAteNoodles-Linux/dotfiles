@@ -56,3 +56,7 @@ echo $loc
 echo $loc{1}
 echo $loc
 for i in $loc; do echo $i; done
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+nvm install v16.15.0
+nvm use v16.15.0
