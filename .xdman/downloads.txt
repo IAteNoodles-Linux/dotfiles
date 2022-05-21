@@ -1,0 +1,1091 @@
+84
+12
+id: 6df38256-9ee7-494b-b0a6-610d1a5f5b8b
+file: Da_Vincis_Demons_S02E02.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:08:09
+downloaded: 466665600
+size: 466665600
+progress: 97
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 538577f3-f53d-4fcf-b51f-ca58c281efe8
+file: Da_Vincis_Demons_S01E02.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:06:23
+downloaded: 500056444
+size: 500056444
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: fa23ad1c-988f-4799-9189-217bf936d208
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: f93c70f1-5753-4f13-9b3c-44cc3d145eee
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 49a82dc8-2c7c-4db1-a654-a5a10b6b0de8
+file: MegaDownloader_v1.8.exe
+category: 20
+state: 130
+folder: /home/nuub/Downloads/Programs
+date: 2022-04-02 22:01:49
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 3863259f-a6c6-4d39-b7d2-f17fb6b8de7a
+file: livegui-amd64-20220403T220339Z.iso
+category: 60
+state: 100
+date: 2022-04-05 21:26:46
+downloaded: 5064622080
+size: 5064622080
+progress: 99
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: f5642273-c99b-43ca-87f2-ceae83429de8
+file: Da_Vincis_Demons_S01E06.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:06:23
+downloaded: 466580340
+size: 466580340
+progress: 97
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 82f131b8-6230-4f70-b892-246987e36f3c
+file: PowerVacuum-Chapter_9-pc-crunched.html
+category: 10
+state: 100
+folder: /home/nuub/Downloads/Compressed
+date: 2022-03-25 23:50:58
+downloaded: 11936
+size: 11936
+progress: 100
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 6b88e664-facb-4b79-8738-279c5ad17201
+file: PowerVacuum-Chapter_9-pc-crunched_2.html
+category: 10
+state: 100
+folder: /home/nuub/Downloads/Compressed
+date: 2022-03-25 23:53:02
+downloaded: 11936
+size: 11936
+progress: 100
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: af8abd20-eec1-48dc-a972-68a6fdae45b9
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 638c631e-9aa1-486c-b54e-0d30ef345e44
+file: Da_Vincis_Demons_S02E09.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:08:09
+downloaded: 458300000
+size: 458300000
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 2ab02e56-0a5a-4073-ba48-620a0667ed82
+file: PowerVacuum-What_If_Six-Thick_Of_The_Night-pc.html
+category: 10
+state: 100
+folder: /home/nuub/Downloads/Compressed
+date: 2022-04-02 20:38:49
+downloaded: 28513
+size: 28513
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 2fa5434f-837e-4769-a009-0b8702eb4a84
+file: Da_Vincis_Demons_S01E01.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:06:23
+downloaded: 499949902
+size: 499949902
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: f4c0bfc4-407e-409b-bc12-989960cc0c37
+file: Da_Vincis_Demons_S03E02.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:09:42
+downloaded: 484668578
+size: 484668578
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: b91799c9-d113-4d19-9e0f-1259a1dcffb5
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 7a90f783-1f85-45c5-a7c2-d4ff704cb8bc
+file: Da_Vincis_Demons_S02E01.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:08:09
+downloaded: 490463552
+size: 490463552
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 47e01934-86a1-452c-aa8f-8b08f19013f6
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 3910be01-ab98-4a85-96ec-1ca39738ecb9
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 5ff76d67-e0b0-4a17-9bcd-4d79547c5ed2
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 6a95d768-d015-4b7e-88eb-57c4e77c7847
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 1d404783-bf86-446c-b210-c9cb4a7a1355
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: ab6c3d26-3244-4727-92ed-6592c4353a39
+file: Da_Vincis_Demons_S02E04.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:08:09
+downloaded: 474285134
+size: 474285134
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 26f371bf-1011-47bd-89c2-abef6899842d
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: f2388739-38f6-466e-96bc-365b65c8d73c
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 0ed70a41-7e29-420b-990e-89e540f99144
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: b5ddc634-d850-4944-ad44-ff9206552d72
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: ef6053b6-0ca2-4cc1-9602-0a9c9eb4d47a
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 2399945d-cef6-4add-b7e9-2b20da73b721
+file: Da_Vincis_Demons_S01E03.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:06:23
+downloaded: 499670636
+size: 499670636
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 5bcda20a-7e3b-4f5a-87e5-5ff9c29a1982
+file: Da_Vincis_Demons_S03E06.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:09:42
+downloaded: 339410642
+size: 339410642
+progress: 97
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 7e2fceb2-fd7c-4347-8bf6-e7f0e3d6274a
+file: Da_Vincis_Demons_S02E03.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:08:09
+downloaded: 449350086
+size: 449350086
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 3f43145f-706f-424b-905f-047c294e3e6a
+file: Da_Vincis_Demons_S03E01.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:09:42
+downloaded: 437970468
+size: 437970468
+progress: 97
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 3d4f26fa-ac7f-40cc-85e1-f89a461b8bd8
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 500b07e5-bc94-496a-b03d-20c8e170c2ff
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 04b44c2f-472c-4bfb-8024-e3a075a6f51b
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 7a27e968-550c-4f80-ab82-ceaf1489eaaf
+file: Da_Vincis_Demons_S03E04.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:09:42
+downloaded: 517114612
+size: 517114612
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 5dffc45d-f3bf-4e50-a5d3-efc3f877b920
+file: FILE
+category: 60
+state: 110
+folder: /home/nuub/Downloads
+date: 2022-03-27 01:51:03
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 2e15e9aa-0426-4b12-9022-d00ceb206870
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: b2b799a6-2011-44bf-b733-8dd7b8ab8b18
+file: Da_Vincis_Demons_S03E07.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:09:42
+downloaded: 472347628
+size: 472347628
+progress: 99
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 77742b34-87e1-47c2-a86d-d7dc0ec5f59a
+file: Da_Vincis_Demons_S02E05.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:08:09
+downloaded: 475216286
+size: 475216286
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: c75a9010-06b3-467d-89e2-eede4f3ad437
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 9afb62c8-c30f-4abc-9ee5-2f964fdcc291
+file: Da_Vincis_Demons_S01E04.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:06:23
+downloaded: 470614016
+size: 470614016
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: cd24a2e6-d244-4fa1-9e6a-c2bb1ba3df59
+file: Da_Vincis_Demons_S01E08.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:06:23
+downloaded: 491975518
+size: 491975518
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 66166857-ecc0-4c7f-a9a2-3ab1888b12f1
+file: Da_Vincis_Demons_S02E07.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:08:09
+downloaded: 467320326
+size: 467320326
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 672008c5-ba6c-419c-afef-9ad0bd538a6f
+file: Da_Vincis_Demons_S02E06.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:08:09
+downloaded: 465715290
+size: 465715290
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 5d0ccfa2-61e6-4b7e-9abc-8569d879c5f5
+file: Da_Vincis_Demons_S03E08.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:09:42
+downloaded: 486335606
+size: 486335606
+progress: 97
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: b4e37b42-8e3e-4a03-ad4f-48cee30746f5
+file: vyRgBY32nd3.html
+category: 10
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-03-25 23:56:48
+downloaded: 11936
+size: 11936
+progress: 100
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 63150c28-4da4-4250-aaf8-96dee635f3fb
+file: Da_Vincis_Demons_S01E07.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:06:23
+downloaded: 499112284
+size: 499112284
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: d1eb0dc5-f08d-489e-adee-07ab8e694acd
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: baf99449-72d8-4bc5-8509-d53d5f42563b
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 8a862115-9075-4e41-8f79-c0f149a4e82f
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 08a2f7ef-2fd9-4fe5-8fc7-380ae84c0704
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 7f64be91-413c-4255-9fb9-5d75fa81b715
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: c78f2010-2040-4364-85f4-80df2a4f3d54
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 5c11fd5d-f0ee-4414-9f06-81e4153abda1
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 51f3c75d-a48d-4ab1-8c22-fe8d2fdeec84
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 3b6bdc16-dcde-4188-86a8-0d1bbff38899
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 8218fc7e-a55c-475e-8058-0137976de5cb
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: dad49e3e-f0dd-4540-801c-eed1e9c364fc
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: d3eb84ed-a047-4023-ac11-604cb0f7a34a
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 5c6e34ec-49d5-4614-ae2f-903cf64196da
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: bcf0847a-b277-496f-8b1f-396adcdb589e
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 37fe5914-ef5f-46cf-9c06-4ce288abfb3b
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: f025cee4-052c-42dc-9997-ec833a4adee1
+file: Da_Vincis_Demons_S02E08.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:08:09
+downloaded: 434000858
+size: 434000858
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 0275740d-8f13-4999-b9b5-c375d010f22e
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 7cdea832-b038-45ed-8bc5-9b2b8727d61c
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: f62fdbd8-20b3-4b67-958e-c972902439f9
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 27d35b6d-84b1-423e-8460-b32dad6f41d4
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 9687d427-5f05-478b-9086-8dc0c15f6212
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: b0907546-13af-4c2f-9dd3-a759383e5a55
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 9c1cb317-9b0b-4c49-80b5-f248fd1de798
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 78241141-6895-49e9-957a-e85498339fc0
+file: PowerVacuum-Chapter_9-pc-crunched_3.html
+category: 10
+state: 100
+folder: /home/nuub/Downloads/Compressed
+date: 2022-03-25 23:55:01
+downloaded: 11936
+size: 11936
+progress: 100
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: a19b1a89-34cd-4a5c-8d35-fa7314e6c516
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 08644ea0-f21b-4b18-a3c5-491160bd6dce
+file: download.html
+category: 10
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 80
+size: 80
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: e2844321-9324-4f87-854f-c76a529ecc23
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: b1e761e7-00c8-4db3-8535-f7365775ff10
+file: Da_Vincis_Demons_S03E03.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:09:42
+downloaded: 476352490
+size: 476352490
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 87f2e3d3-ff96-46d4-9371-99d53830dedb
+file: vyRgBY32nd3.html
+category: 10
+state: 100
+date: 2022-03-25 23:50:44
+downloaded: 11936
+size: 11936
+progress: 100
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 1a0dca5e-b0a2-46e1-b6a3-81587f0e069a
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: c0119bf2-91df-40bb-a18b-e4d16e373a6d
+file: Da_Vincis_Demons_S01E05.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:06:23
+downloaded: 492225412
+size: 492225412
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 41beb175-b79a-426e-b584-3550292d81d5
+file: PowerVacuum-Chapter_9-pc-crunched_1.html
+category: 10
+state: 100
+folder: /home/nuub/Downloads/Compressed
+date: 2022-03-25 23:51:12
+downloaded: 11936
+size: 11936
+progress: 100
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 36c26856-fbd0-412b-99d8-8cc148f30801
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: b8ed9b45-8a7b-4ed6-a0f4-ea15e6d19c65
+file: Da_Vincis_Demons_S03E09.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:09:42
+downloaded: 395795992
+size: 395795992
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 1974d273-0e4a-45e4-a433-d6d7b22bf4c2
+file: Da_Vincis_Demons_S03E05.avi
+category: 30
+state: 100
+folder: /home/nuub/Downloads
+date: 2022-05-16 12:09:42
+downloaded: 523625808
+size: 523625808
+progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: bb2684a2-9d7c-4327-8c71-8555e041fecc
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 3f6d51de-ff91-4da5-9b17-f692dabbb011
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0

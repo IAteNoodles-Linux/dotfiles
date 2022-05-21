@@ -307,7 +307,7 @@ colors:
     red: "#1A5FB4"
     green: "#BC5F5F"
     yellow: "#F66934"
-    blue: "#BFD139"
+    blue: "#BFD139" #003336
     magenta: "#BC5F5F"
     cyan: "#C66666"
     white: "#ffbfbd"

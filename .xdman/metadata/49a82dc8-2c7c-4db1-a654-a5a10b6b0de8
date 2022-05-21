@@ -1,0 +1,10 @@
+type: 1000
+url: https://softpedia-secure-download.com/dl/2191111073717abcaec694567f73ee5a/62487a6c/100232491/software/internet/download_manager/MegaDownloader_v1.8.exe
+size: 3252185
+header: host:softpedia-secure-download.com
+header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:98.0) Gecko/20100101 Firefox/98.0
+header: referer:https://www.softpedia.com/dyn-postdownload.php/c6ec1250f1719fe15d8170ac1b1c8912/62488875/38c2b/4/1
+header: sec-fetch-dest:document
+header: sec-fetch-mode:navigate
+header: sec-fetch-site:cross-site
+header: sec-fetch-user:?1
