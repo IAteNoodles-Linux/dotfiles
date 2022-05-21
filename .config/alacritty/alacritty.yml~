@@ -204,7 +204,7 @@ colors:
   #  yellow: "#b51d2c"
   #  blue: "#8c4b46"
   #  magenta: "#7d534f"
-  #  cyan: "#9a413d"
+  #  cyan: "#9a203d"
   #  white: "#c6c6c6"
   #bright:
   #  black: "#5e5e5e"
@@ -310,7 +310,7 @@ colors:
     blue: "#BFD139"
     magenta: "#BC5F5F"
     cyan: "#C66666"
-    white: "#C01ef8"
+    white: "#C01e18"
 
   # Dim colors
   #
