@@ -1,6 +1,7 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
 SETUVAR --export EDITOR:nvim
+SETUVAR --path PATH:/home/nuub/\x2envm/versions/node/v16\x2e15\x2e0/bin/
 SETUVAR RANGER_LOAD_DEFAULT_RC:FALSE
 SETUVAR VIRTUAL_ENV_DISABLE_PROMPT:true
 SETUVAR --export VISUAL:nvim
@@ -96,7 +97,7 @@ SETUVAR fish_pager_color_description:B3A06D
 SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SETUVAR fish_pager_color_selected_background:\x2d\x2dbackground\x3dbrblack
-SETUVAR fish_user_paths:/home/nuub/\x2espicetify
+SETUVAR fish_user_paths:/home/nuub/\x2envm/versions/node/v16\x2e15\x2e0/bin\x1e/home/nuub/\x2espicetify
 SETUVAR tide_character_bg_color:normal
 SETUVAR tide_character_color:brgreen
 SETUVAR tide_character_color_failure:brred

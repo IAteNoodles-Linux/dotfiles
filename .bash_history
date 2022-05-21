@@ -60,3 +60,47 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 nvm install v16.15.0
 nvm use v16.15.0
+nvm
+exit
+[ -z "$NVM_DIR" ] && export NVM_DIR="$HOME/.nvm"
+      source /usr/share/nvm/nvm.fish
+      source /usr/share/nvm/bash_completion
+      source /usr/share/nvm/install-nvm-exec
+[ -z "$NVM_DIR" ] && export NVM_DIR="$HOME/.nvm"
+      source /usr/share/nvm/nvm.sh
+      source /usr/share/nvm/bash_completion
+      source /usr/share/nvm/install-nvm-exec
+nvm
+nvm install --lts
+npm
+nodejs
+nvm
+nvm install node
+nvm install node16
+nvm install node v16.15
+nvm install node --lts
+nvm install 
+nvm install nodejs
+nvm install ls-remote
+nvm ls-remote
+nvm install v16.15
+nvm use v16.15
+node
+exit
+exit
+node
+nvim .SpaceVim
+node
+whereis node
+echo $PATH
+cd
+nvm
+fish
+nvm
+nvm alias default 16.15
+node
+node
+nvm
+history 
+hstr
+fish
