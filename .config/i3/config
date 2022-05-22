@@ -466,7 +466,7 @@ bindsym Mod1+p exec passmenu
 #exec --no-startup-id dunst -config $HOME/.config/dunstrc
 
 # Starting up polkit agent
-exec_always --no-startup-id lxqt-policykit-agent
+exec_always --no-startup-id sh ~/Scripts/polkit_load.sh
 
 # Changing the settings of the touchpad. Device id is 13, with a script.
 exec_always --no-startup-id exec sh ~/Scripts/Touchpad.sh
