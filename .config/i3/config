@@ -426,6 +426,9 @@ bindsym Mod1+f exec firefox
 #[N]emo
 bindsym Mod1+n exec nemo
 
+#[N]eovim
+bindsym Mod+v exec neovim
+
 #[V]isual Studio Code
 bindsym Mod1+v exec code
 
