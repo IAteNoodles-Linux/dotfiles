@@ -1017,7 +1017,7 @@ file: fantastic_beasts_the_secrets_of_dumbledore_2022_hdrip.mp4
 category: 30
 state: 110
 date: 2022-05-27 11:27:10
-downloaded: 3204599063
+downloaded: 3216346391
 size: 5560632210
 progress: 57
 tempfolder: /home/nuub/.xdman/temp
