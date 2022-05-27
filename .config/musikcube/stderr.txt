@@ -3,13 +3,13 @@ AlsaOut::AlsaOut() called
 AlsaOut: destructor
 AlsaOut: joining...
 AlsaOut: thread finished
-[2022-05-27 12:01:26] [info] asio async_connect error: system:111 (Connection refused)
-[2022-05-27 12:01:26] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
-[2022-05-27 12:01:26] [error] handle_connect error: Underlying Transport Error
 AlsaOut: closing device...
 AlsaOut: destroyed.
-[mp3float @ 0x7f1d8002c100] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f1d8002c100] overread, skip -8 enddists: -3 -3
+[2022-05-27 12:20:29] [info] asio async_connect error: system:111 (Connection refused)
+[2022-05-27 12:20:29] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
+[2022-05-27 12:20:29] [error] handle_connect error: Underlying Transport Error
+[mp3float @ 0x7ff94c010840] Could not update timestamps for skipped samples.
+[mp3float @ 0x7ff94c010840] overread, skip -8 enddists: -3 -3
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
 pulse_blocking_stream: CHECK_VALIDITY dir
