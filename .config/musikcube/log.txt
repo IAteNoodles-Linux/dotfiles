@@ -1,33 +1,63 @@
-20:44:21 [info] [LOG SESSION] ---------- START ----------
-20:44:21 [info] [PluginFactory] loading plugins
-20:44:21 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-20:44:21 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-20:44:21 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-20:44:21 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-20:44:21 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-20:44:21 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-20:44:21 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-20:44:21 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-20:44:21 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-20:44:21 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-20:44:21 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-20:44:21 [info] [Indexer] indexer source -1303229654 running...
-20:44:21 [info] [Indexer] indexer source -1303229654 finished
-20:44:21 [info] [Indexer] scanning /home/nuub/Music/
-20:44:21 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
-20:44:21 [info] [Indexer] scan completed successfully
-20:44:21 [info] [Indexer] cleanup 1/2
-20:44:21 [info] [Indexer] cleanup 2/2
-20:44:21 [info] [Indexer] optimizing
-20:44:21 [info] [Indexer] done!
-20:44:22 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
-20:44:22 [info] [Player] new instance created
-20:44:22 [info] [GaplessTransport] stop
-20:44:22 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
-20:44:22 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
-20:44:22 [info] [ffmpegdecoder] parsing data stream...
-20:44:22 [info] [ffmpegdecoder] found audio stream!
-20:44:22 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-20:44:22 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
-20:44:22 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-20:44:25 [info] [GaplessTransport] stop
+11:37:05 [info] [LOG SESSION] ---------- START ----------
+11:37:05 [info] [PluginFactory] loading plugins
+11:37:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+11:37:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+11:37:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+11:37:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+11:37:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+11:37:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+11:37:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+11:37:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+11:37:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+11:37:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+11:37:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+11:37:05 [info] [Indexer] indexer source -1303229654 running...
+11:37:05 [info] [Indexer] indexer source -1303229654 finished
+11:37:05 [info] [Indexer] scanning /home/nuub/Music/
+11:37:05 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
+11:37:05 [info] [Indexer] scan completed successfully
+11:37:05 [info] [Indexer] cleanup 1/2
+11:37:05 [info] [Indexer] cleanup 2/2
+11:37:05 [info] [Indexer] optimizing
+11:37:05 [info] [Indexer] done!
+11:37:05 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
+11:37:05 [info] [Player] new instance created
+11:37:05 [info] [GaplessTransport] stop
+11:37:05 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
+11:37:05 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
+11:37:05 [info] [ffmpegdecoder] parsing data stream...
+11:37:05 [info] [ffmpegdecoder] found audio stream!
+11:37:05 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:37:05 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
+11:37:05 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:37:06 [info] [GaplessTransport] resume
+11:37:06 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:37:07 [info] [Player] new instance created
+11:37:07 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
+11:37:07 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
+11:37:07 [info] [ffmpegdecoder] parsing data stream...
+11:37:07 [info] [ffmpegdecoder] found audio stream!
+11:37:07 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:37:07 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
+11:37:07 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:39:38 [info] [ffmpegdecoder] finished decoding.
+11:39:40 [info] [GaplessTransport] stop
+11:39:41 [info] [Player] new instance created
+11:39:41 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
+11:39:41 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
+11:39:41 [info] [ffmpegdecoder] parsing data stream...
+11:39:41 [info] [ffmpegdecoder] found audio stream!
+11:39:41 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:39:41 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
+11:39:41 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:43:05 [info] [ffmpegdecoder] finished decoding.
+11:43:07 [info] [GaplessTransport] stop
+11:43:07 [info] [Player] new instance created
+11:43:07 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - How Wonderful.mp3
+11:43:07 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - How Wonderful.mp3
+11:43:07 [info] [ffmpegdecoder] parsing data stream...
+11:43:07 [info] [ffmpegdecoder] found audio stream!
+11:43:07 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:43:07 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - How Wonderful.mp3
+11:43:07 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:43:15 [info] [GaplessTransport] stop

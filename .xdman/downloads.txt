@@ -1,4 +1,4 @@
-84
+85
 12
 id: 6df38256-9ee7-494b-b0a6-610d1a5f5b8b
 file: Da_Vincis_Demons_S02E02.avi
@@ -457,7 +457,7 @@ formatIndex: 0
 id: 5dffc45d-f3bf-4e50-a5d3-efc3f877b920
 file: FILE
 category: 60
-state: 110
+state: 130
 folder: /home/nuub/Downloads
 date: 2022-03-27 01:51:03
 downloaded: 0
@@ -1008,6 +1008,18 @@ date: 2022-05-16 12:06:23
 downloaded: 492225412
 size: 492225412
 progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: e27a878b-9ee2-4a8f-a470-55f6c3dc8fe3
+file: fantastic_beasts_the_secrets_of_dumbledore_2022_hdrip.mp4
+category: 30
+state: 130
+date: 2022-05-27 11:27:10
+downloaded: 72161851
+size: 5560632210
+progress: 1
 tempfolder: /home/nuub/.xdman/temp
 queueid: 
 formatIndex: 0
