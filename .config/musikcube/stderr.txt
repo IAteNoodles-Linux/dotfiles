@@ -3,15 +3,13 @@ AlsaOut::AlsaOut() called
 AlsaOut: destructor
 AlsaOut: joining...
 AlsaOut: thread finished
+[2022-05-27 12:01:26] [info] asio async_connect error: system:111 (Connection refused)
+[2022-05-27 12:01:26] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
+[2022-05-27 12:01:26] [error] handle_connect error: Underlying Transport Error
 AlsaOut: closing device...
 AlsaOut: destroyed.
-[2022-05-27 11:37:05] [info] asio async_connect error: system:111 (Connection refused)
-[2022-05-27 11:37:05] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
-[2022-05-27 11:37:05] [error] handle_connect error: Underlying Transport Error
-[mp3float @ 0x7f0850011a00] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f0850011a00] overread, skip -6 enddists: -5 -5
-[mp3float @ 0x7f0850011a00] overread, skip -9 enddists: -1 -1
-[mp3float @ 0x7f0850011a00] overread, skip -9 enddists: -1 -1
+[mp3float @ 0x7f1d8002c100] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f1d8002c100] overread, skip -8 enddists: -3 -3
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
 pulse_blocking_stream: CHECK_VALIDITY dir
@@ -20,30 +18,3 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[mp3float @ 0x7f083402a0c0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f0850011a00] Could not update timestamps for discarded samples.
-[mp3float @ 0x7f0850020e80] Could not update timestamps for skipped samples.
-PulseOut::PulseOut() called
-AlsaOut::AlsaOut() called
-AlsaOut: destructor
-AlsaOut: joining...
-AlsaOut: thread finished
-AlsaOut: closing device...
-AlsaOut: destroyed.
-PulseOut::PulseOut() called
-AlsaOut::AlsaOut() called
-AlsaOut: destructor
-AlsaOut: joining...
-AlsaOut: thread finished
-AlsaOut: closing device...
-AlsaOut: destroyed.
-PulseOut: destroy
-PulseOut: destructor
-PulseOut: destroy
-PulseOut: destructor
-[mp3float @ 0x7f083402a0c0] Could not update timestamps for discarded samples.
-[mp3float @ 0x7f0834005ac0] Could not update timestamps for skipped samples.
-[2022-05-27 11:43:15] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
-PulseOut: destroy
-PulseOut: destructor
-PulseOut: closing device
