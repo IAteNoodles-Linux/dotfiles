@@ -38,3 +38,4 @@
 17:03:51 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
 17:03:51 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
 17:03:51 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+17:05:32 [info] [GaplessTransport] stop
