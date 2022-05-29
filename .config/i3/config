@@ -400,6 +400,7 @@ client.placeholder      #2E3440 #2E3440 #D8DEE9 #a7c080   #2yE3440
 default_floating_border none
 default_floating_border normal 0
 hide_edge_borders smart
+smart_gaps on
 
 # Mode Launcher
 #
