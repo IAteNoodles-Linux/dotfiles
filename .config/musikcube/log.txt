@@ -1,48 +1,108 @@
-12:20:29 [info] [LOG SESSION] ---------- START ----------
-12:20:29 [info] [PluginFactory] loading plugins
-12:20:29 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-12:20:29 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-12:20:29 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-12:20:29 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-12:20:29 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-12:20:29 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-12:20:29 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-12:20:29 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-12:20:29 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-12:20:29 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-12:20:29 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-12:20:29 [info] [Indexer] indexer source -1303229654 running...
-12:20:29 [info] [Indexer] indexer source -1303229654 finished
-12:20:29 [info] [Indexer] scanning /home/nuub/Music/
-12:20:29 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
-12:20:29 [info] [Indexer] scan completed successfully
-12:20:29 [info] [Indexer] cleanup 1/2
-12:20:29 [info] [Indexer] cleanup 2/2
-12:20:29 [info] [Indexer] optimizing
-12:20:29 [info] [Indexer] done!
-12:20:29 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
-12:20:29 [info] [Player] new instance created
-12:20:29 [info] [GaplessTransport] stop
-12:20:29 [info] [GaplessTransport] resume
-12:20:29 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
-12:20:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
-12:20:29 [info] [ffmpegdecoder] parsing data stream...
-12:20:29 [info] [ffmpegdecoder] found audio stream!
-12:20:29 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-12:20:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
-12:20:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-12:20:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-12:20:30 [info] [Player] new instance created
-12:20:30 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
-12:20:30 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
-12:20:30 [info] [ffmpegdecoder] parsing data stream...
-12:20:30 [info] [ffmpegdecoder] found audio stream!
-12:20:30 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-12:20:30 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
-12:20:30 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-12:20:30 [info] [GaplessTransport] pause
-12:20:31 [info] [GaplessTransport] resume
-12:20:57 [info] [GaplessTransport] pause
-12:21:22 [info] [GaplessTransport] resume
-12:21:30 [info] [GaplessTransport] pause
-12:21:37 [info] [GaplessTransport] stop
+16:55:35 [info] [LOG SESSION] ---------- START ----------
+16:55:35 [info] [PluginFactory] loading plugins
+16:55:35 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+16:55:35 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+16:55:35 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+16:55:35 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+16:55:35 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+16:55:35 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+16:55:35 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+16:55:35 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+16:55:35 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+16:55:35 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+16:55:35 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+16:55:35 [info] [Indexer] indexer source -1303229654 running...
+16:55:35 [info] [Indexer] indexer source -1303229654 finished
+16:55:35 [info] [Indexer] scanning /home/nuub/Music/
+16:55:35 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
+16:55:35 [info] [Indexer] scan completed successfully
+16:55:35 [info] [Indexer] cleanup 1/2
+16:55:35 [info] [Indexer] cleanup 2/2
+16:55:35 [info] [Indexer] optimizing
+16:55:35 [info] [Indexer] done!
+16:55:35 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
+16:55:35 [info] [Player] new instance created
+16:55:35 [info] [GaplessTransport] stop
+16:55:35 [info] [GaplessTransport] resume
+16:55:35 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
+16:55:35 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
+16:55:35 [info] [ffmpegdecoder] parsing data stream...
+16:55:35 [info] [ffmpegdecoder] found audio stream!
+16:55:35 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:55:35 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
+16:55:35 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:55:35 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:55:35 [info] [Player] new instance created
+16:55:35 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
+16:55:35 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
+16:55:35 [info] [ffmpegdecoder] parsing data stream...
+16:55:35 [info] [ffmpegdecoder] found audio stream!
+16:55:35 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:55:35 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
+16:55:35 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:56:15 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:56:23 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+16:56:23 [info] [Player] new instance created
+16:56:23 [info] [GaplessTransport] stop
+16:56:23 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+16:56:23 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+16:56:23 [info] [ffmpegdecoder] parsing data stream...
+16:56:23 [info] [ffmpegdecoder] found audio stream!
+16:56:23 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:56:23 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+16:56:23 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:56:23 [info] [Player] new instance created
+16:56:23 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+16:56:23 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+16:56:23 [info] [ffmpegdecoder] parsing data stream...
+16:56:23 [info] [ffmpegdecoder] found audio stream!
+16:56:23 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:56:23 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+16:56:23 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:56:58 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/100_Years.mp3
+16:56:58 [info] [Player] new instance created
+16:56:58 [info] [GaplessTransport] stop
+16:56:58 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/100_Years.mp3
+16:56:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/100_Years.mp3
+16:56:58 [info] [ffmpegdecoder] parsing data stream...
+16:56:59 [info] [ffmpegdecoder] found audio stream!
+16:56:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:56:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/100_Years.mp3
+16:56:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:56:59 [info] [Player] new instance created
+16:56:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/A_Cruel_Angel_s_Thesis__From__Evangelion__.mp3
+16:56:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/A_Cruel_Angel_s_Thesis__From__Evangelion__.mp3
+16:56:59 [info] [ffmpegdecoder] parsing data stream...
+16:56:59 [info] [ffmpegdecoder] found audio stream!
+16:56:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:56:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/A_Cruel_Angel_s_Thesis__From__Evangelion__.mp3
+16:56:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:57:09 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:57:12 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+16:57:12 [info] [Player] new instance created
+16:57:12 [info] [GaplessTransport] stop
+16:57:12 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+16:57:12 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+16:57:12 [info] [ffmpegdecoder] parsing data stream...
+16:57:12 [info] [ffmpegdecoder] found audio stream!
+16:57:12 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:57:12 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+16:57:12 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:57:12 [info] [Player] new instance created
+16:57:12 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+16:57:12 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+16:57:12 [info] [ffmpegdecoder] parsing data stream...
+16:57:12 [info] [ffmpegdecoder] found audio stream!
+16:57:12 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:57:12 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+16:57:12 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:59:34 [info] [ffmpegdecoder] finished decoding.
+16:59:36 [info] [GaplessTransport] stop
+16:59:36 [info] [Player] new instance created
+16:59:36 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush C.mp3
+16:59:36 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush C.mp3
+16:59:36 [info] [ffmpegdecoder] parsing data stream...
+16:59:36 [info] [ffmpegdecoder] found audio stream!
+16:59:36 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:59:36 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush C.mp3
+16:59:36 [warning] [ffmpegdecoder] invalid packet detected, discarding.
