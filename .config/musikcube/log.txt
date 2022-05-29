@@ -108,3 +108,4 @@
 16:59:36 [warning] [ffmpegdecoder] invalid packet detected, discarding.
 17:01:30 [info] [GaplessTransport] pause
 17:02:37 [info] [GaplessTransport] resume
+17:02:53 [info] [GaplessTransport] stop
