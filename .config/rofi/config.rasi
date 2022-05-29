@@ -1,2 +1,8 @@
+configuration {
+modi: "drun";
+font: "DaddyTimeMono Nerd Font Mono 11.75";
+combi-modi: "drun,window,ssh";
+}
 //@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
 @theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+
