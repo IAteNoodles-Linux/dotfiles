@@ -139,3 +139,19 @@ PulseOut: destroy
 PulseOut: destructor
 PulseOut: destroy
 PulseOut: destructor
+[mp3float @ 0x7f79e401d940] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec067e40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d4028c80] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4006f40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec0a44c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d40cb380] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4027ec0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec06a640] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d402e240] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e40230c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d402e240] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f79d4006c00] Could not update timestamps for skipped samples.
+[2022-05-31 22:00:26] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: closing device

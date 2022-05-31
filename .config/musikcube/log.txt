@@ -655,3 +655,89 @@
 21:33:40 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
 21:33:40 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
 21:33:40 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:35:36 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:36 [info] [Player] new instance created
+21:35:36 [info] [GaplessTransport] stop
+21:35:36 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:36 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:36 [info] [ffmpegdecoder] parsing data stream...
+21:35:36 [info] [ffmpegdecoder] found audio stream!
+21:35:36 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+21:35:36 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:36 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:35:36 [info] [Player] new instance created
+21:35:36 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+21:35:36 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+21:35:36 [info] [ffmpegdecoder] parsing data stream...
+21:35:36 [info] [ffmpegdecoder] found audio stream!
+21:35:36 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+21:35:36 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+21:35:36 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:35:36 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:36 [info] [Player] new instance created
+21:35:36 [info] [GaplessTransport] stop
+21:35:36 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:36 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:36 [info] [ffmpegdecoder] parsing data stream...
+21:35:36 [info] [ffmpegdecoder] found audio stream!
+21:35:36 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+21:35:36 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:36 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:35:37 [info] [Player] new instance created
+21:35:37 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+21:35:37 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+21:35:37 [info] [ffmpegdecoder] parsing data stream...
+21:35:37 [info] [ffmpegdecoder] found audio stream!
+21:35:37 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+21:35:37 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+21:35:37 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:35:37 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:37 [info] [Player] new instance created
+21:35:37 [info] [GaplessTransport] stop
+21:35:37 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:37 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:37 [info] [ffmpegdecoder] parsing data stream...
+21:35:37 [info] [ffmpegdecoder] found audio stream!
+21:35:37 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+21:35:37 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+21:35:37 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:35:38 [info] [Player] new instance created
+21:35:38 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+21:35:38 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+21:35:38 [info] [ffmpegdecoder] parsing data stream...
+21:35:38 [info] [ffmpegdecoder] found audio stream!
+21:35:38 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+21:35:38 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+21:35:38 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:35:41 [info] [GaplessTransport] pause
+21:35:43 [info] [GaplessTransport] resume
+21:35:44 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+21:35:44 [info] [Player] new instance created
+21:35:44 [info] [GaplessTransport] stop
+21:35:44 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+21:35:44 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+21:35:44 [info] [ffmpegdecoder] parsing data stream...
+21:35:44 [info] [ffmpegdecoder] found audio stream!
+21:35:44 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+21:35:44 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+21:35:44 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:35:44 [info] [Player] new instance created
+21:35:44 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+21:35:44 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+21:35:44 [info] [ffmpegdecoder] parsing data stream...
+21:35:44 [info] [ffmpegdecoder] found audio stream!
+21:35:44 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+21:35:44 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+21:35:44 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:50:44 [info] [ffmpegdecoder] finished decoding.
+21:50:46 [info] [GaplessTransport] stop
+21:50:46 [info] [Player] new instance created
+21:50:46 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+21:50:46 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+21:50:46 [info] [ffmpegdecoder] parsing data stream...
+21:50:46 [info] [ffmpegdecoder] found audio stream!
+21:50:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+21:50:46 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+21:50:46 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:53:26 [info] [GaplessTransport] pause
+22:00:26 [info] [GaplessTransport] stop
