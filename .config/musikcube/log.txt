@@ -38,3 +38,5 @@
 18:12:04 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
 18:12:04 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Polish_Cow.mp3
 18:12:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+18:12:32 [info] [GaplessTransport] pause
+18:12:34 [info] [GaplessTransport] resume
