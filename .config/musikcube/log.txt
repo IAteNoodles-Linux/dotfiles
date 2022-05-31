@@ -1,41 +1,40 @@
-17:05:48 [info] [LOG SESSION] ---------- START ----------
-17:05:48 [info] [PluginFactory] loading plugins
-17:05:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-17:05:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-17:05:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-17:05:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-17:05:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-17:05:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-17:05:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-17:05:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-17:05:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-17:05:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-17:05:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-17:05:48 [info] [Indexer] indexer source -1303229654 running...
-17:05:48 [info] [Indexer] indexer source -1303229654 finished
-17:05:48 [info] [Indexer] scanning /home/nuub/Music/
-17:05:48 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
-17:05:48 [info] [Indexer] scan completed successfully
-17:05:48 [info] [Indexer] cleanup 1/2
-17:05:48 [info] [Indexer] cleanup 2/2
-17:05:48 [info] [Indexer] optimizing
-17:05:48 [info] [Indexer] done!
-17:05:58 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-17:05:58 [info] [Player] new instance created
-17:05:58 [info] [GaplessTransport] stop
-17:05:58 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-17:05:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-17:05:58 [info] [ffmpegdecoder] parsing data stream...
-17:05:58 [info] [ffmpegdecoder] found audio stream!
-17:05:58 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-17:05:58 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-17:05:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-17:05:58 [info] [Player] new instance created
-17:05:58 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-17:05:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-17:05:58 [info] [ffmpegdecoder] parsing data stream...
-17:05:58 [info] [ffmpegdecoder] found audio stream!
-17:05:58 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-17:05:58 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-17:05:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-17:07:32 [info] [GaplessTransport] stop
+18:11:50 [info] [LOG SESSION] ---------- START ----------
+18:11:50 [info] [PluginFactory] loading plugins
+18:11:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+18:11:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+18:11:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+18:11:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+18:11:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+18:11:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+18:11:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+18:11:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+18:11:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+18:11:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+18:11:50 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+18:11:50 [info] [Indexer] indexer source -1303229654 running...
+18:11:50 [info] [Indexer] indexer source -1303229654 finished
+18:11:50 [info] [Indexer] scanning /home/nuub/Music/
+18:11:51 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
+18:11:51 [info] [Indexer] scan completed successfully
+18:11:51 [info] [Indexer] cleanup 1/2
+18:11:51 [info] [Indexer] cleanup 2/2
+18:11:51 [info] [Indexer] optimizing
+18:11:51 [info] [Indexer] done!
+18:12:04 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
+18:12:04 [info] [Player] new instance created
+18:12:04 [info] [GaplessTransport] stop
+18:12:04 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
+18:12:04 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
+18:12:04 [info] [ffmpegdecoder] parsing data stream...
+18:12:04 [info] [ffmpegdecoder] found audio stream!
+18:12:04 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+18:12:04 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
+18:12:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+18:12:04 [info] [Player] new instance created
+18:12:04 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Polish_Cow.mp3
+18:12:04 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Polish_Cow.mp3
+18:12:04 [info] [ffmpegdecoder] parsing data stream...
+18:12:04 [info] [ffmpegdecoder] found audio stream!
+18:12:04 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+18:12:04 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Polish_Cow.mp3
+18:12:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
