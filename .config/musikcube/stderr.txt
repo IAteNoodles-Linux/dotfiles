@@ -5,10 +5,10 @@ AlsaOut: joining...
 AlsaOut: thread finished
 AlsaOut: closing device...
 AlsaOut: destroyed.
-[2022-05-31 18:37:39] [info] asio async_connect error: system:111 (Connection refused)
-[2022-05-31 18:37:39] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
-[2022-05-31 18:37:39] [error] handle_connect error: Underlying Transport Error
-[mp3float @ 0x7ff59401b2c0] Could not update timestamps for skipped samples.
+[2022-05-31 21:04:31] [info] asio async_connect error: system:111 (Connection refused)
+[2022-05-31 21:04:31] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
+[2022-05-31 21:04:31] [error] handle_connect error: Underlying Transport Error
+[mp3float @ 0x7f79ec04f800] Could not update timestamps for skipped samples.
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
 pulse_blocking_stream: CHECK_VALIDITY dir
@@ -17,8 +17,125 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[mp3float @ 0x7ff588040d80] Could not update timestamps for skipped samples.
-[2022-05-31 18:38:22] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
+[mp3float @ 0x7f79e402c280] Could not update timestamps for skipped samples.
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
 PulseOut: destroy
 PulseOut: destructor
-PulseOut: closing device
+PulseOut: destroy
+PulseOut: destructor
+[mp3float @ 0x7f79d4075800] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec068680] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec0660c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d4033b40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e402ac80] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec004f00] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d403edc0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e404e040] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec06b040] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d40406c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d4032980] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec02c1c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4029d40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d4042080] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec007e00] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4026140] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d4032d40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec061a40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4026580] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d403f180] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec054500] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e400d480] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d406c280] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec098400] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4003900] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d4042d40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d406be40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e40031c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec0522c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d4043180] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4015a00] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec05c700] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d40c9340] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4009dc0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec069f00] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d403dcc0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4008f80] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec061200] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d406ab80] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e400fbc0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec0630c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d4039100] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e404c380] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec0548c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d406cd00] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4013540] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec0615c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d4007980] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec0615c0] overread, skip -5 enddists: -1 -1
+[mp3float @ 0x7f79e4063ac0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec051980] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d40cd000] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e40291c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec0a99c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d40cc740] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4009340] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec051d40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d4042440] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4010000] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec096a40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d4007dc0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e4012980] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec094840] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d40317c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79e400c080] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79ec054c80] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f79d40cbe40] Could not update timestamps for skipped samples.
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
