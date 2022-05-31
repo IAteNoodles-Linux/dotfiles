@@ -104,3 +104,6 @@ nvm
 history 
 hstr
 fish
+yay -S xcursor
+yay -S xcursor*
+fish
