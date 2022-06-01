@@ -37,7 +37,7 @@
   "RemoteLibraryWssTls": false,
   "RemoveMissingFiles": true,
   "ResumePlaybackOnStartup": true,
-  "SaveSessionOnExit": false,
+  "SaveSessionOnExit": true,
   "StartMinimized": false,
   "SyncOnStartup": true,
   "TrackSearchSortOrder": 0,

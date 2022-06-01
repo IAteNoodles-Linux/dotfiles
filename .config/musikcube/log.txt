@@ -1,743 +1,864 @@
-21:04:31 [info] [LOG SESSION] ---------- START ----------
-21:04:31 [info] [PluginFactory] loading plugins
-21:04:31 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-21:04:31 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-21:04:31 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-21:04:31 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-21:04:31 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-21:04:31 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-21:04:31 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-21:04:31 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-21:04:31 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-21:04:31 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-21:04:31 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-21:04:31 [info] [Indexer] indexer source -1303229654 running...
-21:04:31 [info] [Indexer] indexer source -1303229654 finished
-21:04:31 [info] [Indexer] scanning /home/nuub/Music/
-21:04:31 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
-21:04:31 [info] [Indexer] scan completed successfully
-21:04:31 [info] [Indexer] cleanup 1/2
-21:04:31 [info] [Indexer] cleanup 2/2
-21:04:31 [info] [Indexer] optimizing
-21:04:31 [info] [Indexer] done!
-21:04:45 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/Sea of Thieves - We Shall Sail Together - Original Game Soundtrack.mp3
-21:04:45 [info] [Player] new instance created
-21:04:45 [info] [GaplessTransport] stop
-21:04:45 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Sea of Thieves - We Shall Sail Together - Original Game Soundtrack.mp3
-21:04:45 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Sea of Thieves - We Shall Sail Together - Original Game Soundtrack.mp3
-21:04:45 [info] [ffmpegdecoder] parsing data stream...
-21:04:45 [info] [ffmpegdecoder] found audio stream!
-21:04:45 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:04:45 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Sea of Thieves - We Shall Sail Together - Original Game Soundtrack.mp3
-21:04:45 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:04:46 [info] [Player] new instance created
-21:04:46 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - High Barbary.mp3
-21:04:46 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - High Barbary.mp3
-21:04:46 [info] [ffmpegdecoder] parsing data stream...
-21:04:46 [info] [ffmpegdecoder] found audio stream!
-21:04:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:04:46 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - High Barbary.mp3
-21:04:46 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:21 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - High Barbary.mp3
-21:05:21 [info] [Player] new instance created
-21:05:21 [info] [GaplessTransport] stop
-21:05:21 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - High Barbary.mp3
-21:05:21 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - High Barbary.mp3
-21:05:21 [info] [ffmpegdecoder] parsing data stream...
-21:05:21 [info] [ffmpegdecoder] found audio stream!
-21:05:21 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:21 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - High Barbary.mp3
-21:05:21 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:22 [info] [Player] new instance created
-21:05:22 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - Blood Red Roses.mp3
-21:05:22 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - Blood Red Roses.mp3
-21:05:22 [info] [ffmpegdecoder] parsing data stream...
-21:05:22 [info] [ffmpegdecoder] found audio stream!
-21:05:22 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:22 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - Blood Red Roses.mp3
-21:05:22 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:22 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - Blood Red Roses.mp3
-21:05:22 [info] [Player] new instance created
-21:05:22 [info] [GaplessTransport] stop
-21:05:22 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - Blood Red Roses.mp3
-21:05:22 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - Blood Red Roses.mp3
-21:05:22 [info] [ffmpegdecoder] parsing data stream...
-21:05:22 [info] [ffmpegdecoder] found audio stream!
-21:05:22 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:22 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Storm Weather Shanty Choir - Blood Red Roses.mp3
-21:05:22 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:23 [info] [Player] new instance created
-21:05:23 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The Sheringham Shantymen - Rattle Them Winches.mp3
-21:05:23 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The Sheringham Shantymen - Rattle Them Winches.mp3
-21:05:23 [info] [ffmpegdecoder] parsing data stream...
-21:05:23 [info] [ffmpegdecoder] found audio stream!
-21:05:23 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:23 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The Sheringham Shantymen - Rattle Them Winches.mp3
-21:05:23 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:24 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/The Sheringham Shantymen - Rattle Them Winches.mp3
-21:05:24 [info] [Player] new instance created
-21:05:24 [info] [GaplessTransport] stop
-21:05:24 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The Sheringham Shantymen - Rattle Them Winches.mp3
-21:05:24 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The Sheringham Shantymen - Rattle Them Winches.mp3
-21:05:24 [info] [ffmpegdecoder] parsing data stream...
-21:05:24 [info] [ffmpegdecoder] found audio stream!
-21:05:24 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:24 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The Sheringham Shantymen - Rattle Them Winches.mp3
-21:05:24 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:24 [info] [Player] new instance created
-21:05:24 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Sean Dagher, Nils Brown, Michiel Schrey - Leave Her Johnny.mp3
-21:05:24 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Sean Dagher, Nils Brown, Michiel Schrey - Leave Her Johnny.mp3
-21:05:24 [info] [ffmpegdecoder] parsing data stream...
-21:05:24 [info] [ffmpegdecoder] found audio stream!
-21:05:24 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:24 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Sean Dagher, Nils Brown, Michiel Schrey - Leave Her Johnny.mp3
-21:05:24 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:25 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/Sean Dagher, Nils Brown, Michiel Schrey - Leave Her Johnny.mp3
-21:05:25 [info] [Player] new instance created
-21:05:25 [info] [GaplessTransport] stop
-21:05:25 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Sean Dagher, Nils Brown, Michiel Schrey - Leave Her Johnny.mp3
-21:05:25 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Sean Dagher, Nils Brown, Michiel Schrey - Leave Her Johnny.mp3
-21:05:25 [info] [ffmpegdecoder] parsing data stream...
-21:05:25 [info] [ffmpegdecoder] found audio stream!
-21:05:25 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:25 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Sean Dagher, Nils Brown, Michiel Schrey - Leave Her Johnny.mp3
-21:05:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:25 [info] [Player] new instance created
-21:05:25 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Michiel Schrey, Sean Dagher, Nils Brown - Fish in the Sea.mp3
-21:05:25 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Michiel Schrey, Sean Dagher, Nils Brown - Fish in the Sea.mp3
-21:05:25 [info] [ffmpegdecoder] parsing data stream...
-21:05:25 [info] [ffmpegdecoder] found audio stream!
-21:05:25 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:25 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Michiel Schrey, Sean Dagher, Nils Brown - Fish in the Sea.mp3
-21:05:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:32 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/Michiel Schrey, Sean Dagher, Nils Brown - Fish in the Sea.mp3
-21:05:32 [info] [Player] new instance created
-21:05:32 [info] [GaplessTransport] stop
-21:05:32 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Michiel Schrey, Sean Dagher, Nils Brown - Fish in the Sea.mp3
-21:05:32 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Michiel Schrey, Sean Dagher, Nils Brown - Fish in the Sea.mp3
-21:05:32 [info] [ffmpegdecoder] parsing data stream...
-21:05:32 [info] [ffmpegdecoder] found audio stream!
-21:05:32 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:32 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Michiel Schrey, Sean Dagher, Nils Brown - Fish in the Sea.mp3
-21:05:32 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:33 [info] [Player] new instance created
-21:05:33 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Sean Dagher, Clayton Kennedy, Nils Brown - Where Am I to Go, M'Johnnies.mp3
-21:05:33 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Sean Dagher, Clayton Kennedy, Nils Brown - Where Am I to Go, M'Johnnies.mp3
-21:05:33 [info] [ffmpegdecoder] parsing data stream...
-21:05:33 [info] [ffmpegdecoder] found audio stream!
-21:05:33 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:33 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Sean Dagher, Clayton Kennedy, Nils Brown - Where Am I to Go, M'Johnnies.mp3
-21:05:33 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:33 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/Sean Dagher, Clayton Kennedy, Nils Brown - Where Am I to Go, M'Johnnies.mp3
-21:05:33 [info] [Player] new instance created
-21:05:33 [info] [GaplessTransport] stop
-21:05:33 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Sean Dagher, Clayton Kennedy, Nils Brown - Where Am I to Go, M'Johnnies.mp3
-21:05:33 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Sean Dagher, Clayton Kennedy, Nils Brown - Where Am I to Go, M'Johnnies.mp3
-21:05:33 [info] [ffmpegdecoder] parsing data stream...
-21:05:33 [info] [ffmpegdecoder] found audio stream!
-21:05:33 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:33 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Sean Dagher, Clayton Kennedy, Nils Brown - Where Am I to Go, M'Johnnies.mp3
-21:05:33 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:34 [info] [Player] new instance created
-21:05:34 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Sean Dagher, Richard Irwin, Nelson Carter, Nils Brown, Michiel Shrey, Charlotte Cumberbirch, David Gossage - Here's a Health to the Company.mp3
-21:05:34 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Sean Dagher, Richard Irwin, Nelson Carter, Nils Brown, Michiel Shrey, Charlotte Cumberbirch, David Gossage - Here's a Health to the Company.mp3
-21:05:34 [info] [ffmpegdecoder] parsing data stream...
-21:05:34 [info] [ffmpegdecoder] found audio stream!
-21:05:34 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:34 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Sean Dagher, Richard Irwin, Nelson Carter, Nils Brown, Michiel Shrey, Charlotte Cumberbirch, David Gossage - Here's a Health to the Company.mp3
-21:05:34 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:34 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/Sean Dagher, Richard Irwin, Nelson Carter, Nils Brown, Michiel Shrey, Charlotte Cumberbirch, David Gossage - Here's a Health to the Company.mp3
-21:05:34 [info] [Player] new instance created
-21:05:34 [info] [GaplessTransport] stop
-21:05:34 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Sean Dagher, Richard Irwin, Nelson Carter, Nils Brown, Michiel Shrey, Charlotte Cumberbirch, David Gossage - Here's a Health to the Company.mp3
-21:05:34 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Sean Dagher, Richard Irwin, Nelson Carter, Nils Brown, Michiel Shrey, Charlotte Cumberbirch, David Gossage - Here's a Health to the Company.mp3
-21:05:34 [info] [ffmpegdecoder] parsing data stream...
-21:05:34 [info] [ffmpegdecoder] found audio stream!
-21:05:34 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:34 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Sean Dagher, Richard Irwin, Nelson Carter, Nils Brown, Michiel Shrey, Charlotte Cumberbirch, David Gossage - Here's a Health to the Company.mp3
-21:05:34 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:34 [info] [Player] new instance created
-21:05:34 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Nils Brown, Sean Dagher, Clayton Kennedy, David Tinervia, David Gossage - Donkey Riding.mp3
-21:05:34 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Nils Brown, Sean Dagher, Clayton Kennedy, David Tinervia, David Gossage - Donkey Riding.mp3
-21:05:34 [info] [ffmpegdecoder] parsing data stream...
-21:05:34 [info] [ffmpegdecoder] found audio stream!
-21:05:34 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:34 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Nils Brown, Sean Dagher, Clayton Kennedy, David Tinervia, David Gossage - Donkey Riding.mp3
-21:05:34 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:44 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/Nils Brown, Sean Dagher, Clayton Kennedy, David Tinervia, David Gossage - Donkey Riding.mp3
-21:05:44 [info] [Player] new instance created
-21:05:44 [info] [GaplessTransport] stop
-21:05:44 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Nils Brown, Sean Dagher, Clayton Kennedy, David Tinervia, David Gossage - Donkey Riding.mp3
-21:05:44 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Nils Brown, Sean Dagher, Clayton Kennedy, David Tinervia, David Gossage - Donkey Riding.mp3
-21:05:44 [info] [ffmpegdecoder] parsing data stream...
-21:05:44 [info] [ffmpegdecoder] found audio stream!
-21:05:44 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:44 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Nils Brown, Sean Dagher, Clayton Kennedy, David Tinervia, David Gossage - Donkey Riding.mp3
-21:05:44 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:45 [info] [Player] new instance created
-21:05:45 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The Longest Johns - Wellerman.mp3
-21:05:45 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The Longest Johns - Wellerman.mp3
-21:05:45 [info] [ffmpegdecoder] parsing data stream...
-21:05:45 [info] [ffmpegdecoder] found audio stream!
-21:05:45 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:45 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The Longest Johns - Wellerman.mp3
-21:05:45 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:58 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/The Longest Johns - Wellerman.mp3
-21:05:58 [info] [Player] new instance created
-21:05:58 [info] [GaplessTransport] stop
-21:05:58 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The Longest Johns - Wellerman.mp3
-21:05:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The Longest Johns - Wellerman.mp3
-21:05:58 [info] [ffmpegdecoder] parsing data stream...
-21:05:58 [info] [ffmpegdecoder] found audio stream!
-21:05:58 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:58 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The Longest Johns - Wellerman.mp3
-21:05:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:58 [info] [Player] new instance created
-21:05:58 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The Longest Johns - Bones in the Ocean.mp3
-21:05:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The Longest Johns - Bones in the Ocean.mp3
-21:05:58 [info] [ffmpegdecoder] parsing data stream...
-21:05:58 [info] [ffmpegdecoder] found audio stream!
-21:05:58 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:58 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The Longest Johns - Bones in the Ocean.mp3
-21:05:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:59 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/The Longest Johns - Bones in the Ocean.mp3
-21:05:59 [info] [Player] new instance created
-21:05:59 [info] [GaplessTransport] stop
-21:05:59 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The Longest Johns - Bones in the Ocean.mp3
-21:05:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The Longest Johns - Bones in the Ocean.mp3
-21:05:59 [info] [ffmpegdecoder] parsing data stream...
-21:05:59 [info] [ffmpegdecoder] found audio stream!
-21:05:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The Longest Johns - Bones in the Ocean.mp3
-21:05:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:05:59 [info] [Player] new instance created
-21:05:59 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The Foc'sle Singers - The Black Ball Line.mp3
-21:05:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The Foc'sle Singers - The Black Ball Line.mp3
-21:05:59 [info] [ffmpegdecoder] parsing data stream...
-21:05:59 [info] [ffmpegdecoder] found audio stream!
-21:05:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:05:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The Foc'sle Singers - The Black Ball Line.mp3
-21:05:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:00 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/The Foc'sle Singers - The Black Ball Line.mp3
-21:06:00 [info] [Player] new instance created
-21:06:00 [info] [GaplessTransport] stop
-21:06:00 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The Foc'sle Singers - The Black Ball Line.mp3
-21:06:00 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The Foc'sle Singers - The Black Ball Line.mp3
-21:06:00 [info] [ffmpegdecoder] parsing data stream...
-21:06:00 [info] [ffmpegdecoder] found audio stream!
-21:06:00 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:00 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The Foc'sle Singers - The Black Ball Line.mp3
-21:06:00 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:00 [info] [Player] new instance created
-21:06:00 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The X-Seamen's Institute - Boney.mp3
-21:06:00 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The X-Seamen's Institute - Boney.mp3
-21:06:00 [info] [ffmpegdecoder] parsing data stream...
-21:06:00 [info] [ffmpegdecoder] found audio stream!
-21:06:00 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:00 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The X-Seamen's Institute - Boney.mp3
-21:06:00 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:01 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/The X-Seamen's Institute - Boney.mp3
-21:06:01 [info] [Player] new instance created
-21:06:01 [info] [GaplessTransport] stop
-21:06:01 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The X-Seamen's Institute - Boney.mp3
-21:06:01 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The X-Seamen's Institute - Boney.mp3
-21:06:01 [info] [ffmpegdecoder] parsing data stream...
-21:06:01 [info] [ffmpegdecoder] found audio stream!
-21:06:01 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:01 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The X-Seamen's Institute - Boney.mp3
-21:06:01 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:01 [info] [Player] new instance created
-21:06:01 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The Longest Johns - Got No Beard.mp3
-21:06:01 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The Longest Johns - Got No Beard.mp3
-21:06:01 [info] [ffmpegdecoder] parsing data stream...
-21:06:01 [info] [ffmpegdecoder] found audio stream!
-21:06:01 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:01 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The Longest Johns - Got No Beard.mp3
-21:06:01 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:02 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/The Longest Johns - Got No Beard.mp3
-21:06:02 [info] [Player] new instance created
-21:06:02 [info] [GaplessTransport] stop
-21:06:02 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/The Longest Johns - Got No Beard.mp3
-21:06:02 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/The Longest Johns - Got No Beard.mp3
-21:06:02 [info] [ffmpegdecoder] parsing data stream...
-21:06:02 [info] [ffmpegdecoder] found audio stream!
-21:06:02 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:02 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/The Longest Johns - Got No Beard.mp3
-21:06:02 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:02 [info] [Player] new instance created
-21:06:02 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/John Roberts, The Revels Chorus - Roll Down.mp3
-21:06:02 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/John Roberts, The Revels Chorus - Roll Down.mp3
-21:06:02 [info] [ffmpegdecoder] parsing data stream...
-21:06:02 [info] [ffmpegdecoder] found audio stream!
-21:06:02 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:02 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/John Roberts, The Revels Chorus - Roll Down.mp3
-21:06:02 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:10 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/John Roberts, The Revels Chorus - Roll Down.mp3
-21:06:10 [info] [Player] new instance created
-21:06:10 [info] [GaplessTransport] stop
-21:06:10 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/John Roberts, The Revels Chorus - Roll Down.mp3
-21:06:10 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/John Roberts, The Revels Chorus - Roll Down.mp3
-21:06:10 [info] [ffmpegdecoder] parsing data stream...
-21:06:10 [info] [ffmpegdecoder] found audio stream!
-21:06:10 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:10 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/John Roberts, The Revels Chorus - Roll Down.mp3
-21:06:10 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:10 [info] [Player] new instance created
-21:06:10 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Kimber's Men - BULLY IN THE ALLEY.mp3
-21:06:10 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Kimber's Men - BULLY IN THE ALLEY.mp3
-21:06:10 [info] [ffmpegdecoder] parsing data stream...
-21:06:10 [info] [ffmpegdecoder] found audio stream!
-21:06:10 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:10 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Kimber's Men - BULLY IN THE ALLEY.mp3
-21:06:10 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:10 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Pirates/Kimber's Men - BULLY IN THE ALLEY.mp3
-21:06:10 [info] [Player] new instance created
-21:06:10 [info] [GaplessTransport] stop
-21:06:10 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Kimber's Men - BULLY IN THE ALLEY.mp3
-21:06:10 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Kimber's Men - BULLY IN THE ALLEY.mp3
-21:06:10 [info] [ffmpegdecoder] parsing data stream...
-21:06:10 [info] [ffmpegdecoder] found audio stream!
-21:06:10 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:10 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Kimber's Men - BULLY IN THE ALLEY.mp3
-21:06:10 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:11 [info] [Player] new instance created
-21:06:11 [info] [Stream] opening /home/nuub/Music/Playlists/Pirates/Kimber's Men - MOLLYMAUK.mp3
-21:06:11 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Pirates/Kimber's Men - MOLLYMAUK.mp3
-21:06:11 [info] [ffmpegdecoder] parsing data stream...
-21:06:11 [info] [ffmpegdecoder] found audio stream!
-21:06:11 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:11 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Pirates/Kimber's Men - MOLLYMAUK.mp3
-21:06:11 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:29 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
-21:06:29 [info] [Player] new instance created
-21:06:29 [info] [GaplessTransport] stop
-21:06:29 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
-21:06:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
-21:06:29 [info] [ffmpegdecoder] parsing data stream...
-21:06:29 [info] [ffmpegdecoder] found audio stream!
-21:06:29 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
-21:06:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:29 [info] [Player] new instance created
-21:06:29 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
-21:06:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
-21:06:29 [info] [ffmpegdecoder] parsing data stream...
-21:06:29 [info] [ffmpegdecoder] found audio stream!
-21:06:29 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
-21:06:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:31 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
-21:06:31 [info] [Player] new instance created
-21:06:31 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
-21:06:31 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
-21:06:31 [info] [ffmpegdecoder] parsing data stream...
-21:06:31 [info] [GaplessTransport] stop
-21:06:31 [info] [ffmpegdecoder] found audio stream!
-21:06:31 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:31 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/TK from Ling tosite sigure - katharsis.mp3
-21:06:31 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:32 [info] [Player] new instance created
-21:06:32 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Cö Shu Nie - asphyxia.mp3
-21:06:32 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Cö Shu Nie - asphyxia.mp3
-21:06:32 [info] [ffmpegdecoder] parsing data stream...
-21:06:32 [info] [ffmpegdecoder] found audio stream!
-21:06:32 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:32 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Cö Shu Nie - asphyxia.mp3
-21:06:32 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:33 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/Cö Shu Nie - asphyxia.mp3
-21:06:33 [info] [Player] new instance created
-21:06:33 [info] [GaplessTransport] stop
-21:06:33 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Cö Shu Nie - asphyxia.mp3
-21:06:33 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Cö Shu Nie - asphyxia.mp3
-21:06:33 [info] [ffmpegdecoder] parsing data stream...
-21:06:33 [info] [ffmpegdecoder] found audio stream!
-21:06:33 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:33 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Cö Shu Nie - asphyxia.mp3
-21:06:33 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:33 [info] [Player] new instance created
-21:06:34 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/ReoNa - 虹の彼方に.mp3
-21:06:34 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/ReoNa - 虹の彼方に.mp3
-21:06:34 [info] [ffmpegdecoder] parsing data stream...
-21:06:34 [info] [ffmpegdecoder] found audio stream!
-21:06:34 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:34 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/ReoNa - 虹の彼方に.mp3
-21:06:34 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:35 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/ReoNa - 虹の彼方に.mp3
-21:06:35 [info] [Player] new instance created
-21:06:35 [info] [GaplessTransport] stop
-21:06:35 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/ReoNa - 虹の彼方に.mp3
-21:06:35 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/ReoNa - 虹の彼方に.mp3
-21:06:35 [info] [ffmpegdecoder] parsing data stream...
-21:06:35 [info] [ffmpegdecoder] found audio stream!
-21:06:35 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:35 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/ReoNa - 虹の彼方に.mp3
-21:06:35 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:36 [info] [Player] new instance created
-21:06:36 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
-21:06:36 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
-21:06:36 [info] [ffmpegdecoder] parsing data stream...
-21:06:36 [info] [ffmpegdecoder] found audio stream!
-21:06:36 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:36 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
-21:06:36 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:37 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
-21:06:37 [info] [Player] new instance created
-21:06:37 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
-21:06:37 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
-21:06:37 [info] [ffmpegdecoder] parsing data stream...
-21:06:37 [info] [GaplessTransport] stop
-21:06:37 [info] [ffmpegdecoder] found audio stream!
-21:06:37 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:37 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
-21:06:37 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:38 [info] [Player] new instance created
-21:06:38 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
-21:06:38 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
-21:06:38 [info] [ffmpegdecoder] parsing data stream...
-21:06:38 [info] [ffmpegdecoder] found audio stream!
-21:06:38 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:38 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
-21:06:38 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:39 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
-21:06:39 [info] [Player] new instance created
-21:06:39 [info] [GaplessTransport] stop
-21:06:39 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
-21:06:39 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
-21:06:39 [info] [ffmpegdecoder] parsing data stream...
-21:06:39 [info] [ffmpegdecoder] found audio stream!
-21:06:39 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:39 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Sou - ミスターフィクサー.mp3
-21:06:39 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:40 [info] [Player] new instance created
-21:06:40 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
-21:06:40 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
-21:06:40 [info] [ffmpegdecoder] parsing data stream...
-21:06:40 [info] [ffmpegdecoder] found audio stream!
-21:06:40 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:40 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
-21:06:40 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:41 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
-21:06:41 [info] [Player] new instance created
-21:06:41 [info] [GaplessTransport] stop
-21:06:41 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
-21:06:41 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
-21:06:41 [info] [ffmpegdecoder] parsing data stream...
-21:06:41 [info] [ffmpegdecoder] found audio stream!
-21:06:41 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:41 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Reol - 激白.mp3
-21:06:41 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:41 [info] [Player] new instance created
-21:06:41 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
-21:06:41 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
-21:06:41 [info] [ffmpegdecoder] parsing data stream...
-21:06:41 [info] [ffmpegdecoder] found audio stream!
-21:06:41 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:41 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
-21:06:41 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:42 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
-21:06:42 [info] [Player] new instance created
-21:06:42 [info] [GaplessTransport] stop
-21:06:42 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
-21:06:42 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
-21:06:42 [info] [ffmpegdecoder] parsing data stream...
-21:06:42 [info] [ffmpegdecoder] found audio stream!
-21:06:42 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:42 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/Reol - 1LDK.mp3
-21:06:42 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:43 [info] [Player] new instance created
-21:06:43 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - How Wonderful.mp3
-21:06:43 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - How Wonderful.mp3
-21:06:43 [info] [ffmpegdecoder] parsing data stream...
-21:06:43 [info] [ffmpegdecoder] found audio stream!
-21:06:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:43 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - How Wonderful.mp3
-21:06:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:43 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - How Wonderful.mp3
-21:06:43 [info] [Player] new instance created
-21:06:43 [info] [GaplessTransport] stop
-21:06:43 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - How Wonderful.mp3
-21:06:43 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - How Wonderful.mp3
-21:06:43 [info] [ffmpegdecoder] parsing data stream...
-21:06:43 [info] [ffmpegdecoder] found audio stream!
-21:06:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:43 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - How Wonderful.mp3
-21:06:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:43 [info] [Player] new instance created
-21:06:43 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
-21:06:43 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
-21:06:43 [info] [ffmpegdecoder] parsing data stream...
-21:06:43 [info] [ffmpegdecoder] found audio stream!
-21:06:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:06:43 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
-21:06:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:06:45 [info] [GaplessTransport] pause
-21:28:19 [info] [GaplessTransport] resume
-21:29:10 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:13 [info] [GaplessTransport] pause
-21:29:15 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
-21:29:15 [info] [Player] new instance created
-21:29:15 [info] [GaplessTransport] stop
-21:29:15 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
-21:29:15 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
-21:29:15 [info] [ffmpegdecoder] parsing data stream...
-21:29:15 [info] [ffmpegdecoder] found audio stream!
-21:29:15 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:15 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
-21:29:15 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:15 [info] [Player] new instance created
-21:29:15 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Rakugaki Page.mp3
-21:29:15 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Rakugaki Page.mp3
-21:29:15 [info] [ffmpegdecoder] parsing data stream...
-21:29:15 [info] [ffmpegdecoder] found audio stream!
-21:29:15 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:15 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Rakugaki Page.mp3
-21:29:15 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:18 [info] [GaplessTransport] pause
-21:29:19 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:19 [info] [Player] new instance created
-21:29:19 [info] [GaplessTransport] stop
-21:29:19 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:19 [info] [ffmpegdecoder] parsing data stream...
-21:29:19 [info] [ffmpegdecoder] found audio stream!
-21:29:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:20 [info] [Player] new instance created
-21:29:20 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:20 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:20 [info] [ffmpegdecoder] parsing data stream...
-21:29:20 [info] [ffmpegdecoder] found audio stream!
-21:29:20 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:20 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:20 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:22 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:22 [info] [Player] new instance created
-21:29:22 [info] [GaplessTransport] stop
-21:29:22 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:22 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:22 [info] [ffmpegdecoder] parsing data stream...
-21:29:22 [info] [ffmpegdecoder] found audio stream!
-21:29:22 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:22 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:22 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:22 [info] [Player] new instance created
-21:29:22 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:22 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:22 [info] [ffmpegdecoder] parsing data stream...
-21:29:22 [info] [ffmpegdecoder] found audio stream!
-21:29:22 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:22 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:22 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:23 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:23 [info] [Player] new instance created
-21:29:23 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:23 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:23 [info] [GaplessTransport] stop
-21:29:23 [info] [ffmpegdecoder] parsing data stream...
-21:29:23 [info] [ffmpegdecoder] found audio stream!
-21:29:23 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:23 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:23 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:23 [info] [Player] new instance created
-21:29:23 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:23 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:23 [info] [ffmpegdecoder] parsing data stream...
-21:29:23 [info] [ffmpegdecoder] found audio stream!
-21:29:23 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:23 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:23 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:24 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:24 [info] [Player] new instance created
-21:29:24 [info] [GaplessTransport] stop
-21:29:24 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:24 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:24 [info] [ffmpegdecoder] parsing data stream...
-21:29:24 [info] [ffmpegdecoder] found audio stream!
-21:29:24 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:24 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:24 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:24 [info] [Player] new instance created
-21:29:24 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:24 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:24 [info] [ffmpegdecoder] parsing data stream...
-21:29:24 [info] [ffmpegdecoder] found audio stream!
-21:29:24 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:24 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:24 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:25 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:25 [info] [Player] new instance created
-21:29:25 [info] [GaplessTransport] stop
-21:29:25 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:25 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:25 [info] [ffmpegdecoder] parsing data stream...
-21:29:25 [info] [ffmpegdecoder] found audio stream!
-21:29:25 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:25 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:25 [info] [Player] new instance created
-21:29:25 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:25 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:25 [info] [ffmpegdecoder] parsing data stream...
-21:29:25 [info] [ffmpegdecoder] found audio stream!
-21:29:25 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:25 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:26 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:26 [info] [Player] new instance created
-21:29:26 [info] [GaplessTransport] stop
-21:29:26 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:26 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:26 [info] [ffmpegdecoder] parsing data stream...
-21:29:26 [info] [ffmpegdecoder] found audio stream!
-21:29:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:26 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:29:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:26 [info] [Player] new instance created
-21:29:26 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:26 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:26 [info] [ffmpegdecoder] parsing data stream...
-21:29:26 [info] [ffmpegdecoder] found audio stream!
-21:29:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:26 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:27 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:27 [info] [Player] new instance created
-21:29:27 [info] [GaplessTransport] stop
-21:29:27 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:27 [info] [ffmpegdecoder] parsing data stream...
-21:29:27 [info] [ffmpegdecoder] found audio stream!
-21:29:27 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:27 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:29:27 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:27 [info] [Player] new instance created
-21:29:27 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:27 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:27 [info] [ffmpegdecoder] parsing data stream...
-21:29:27 [info] [ffmpegdecoder] found audio stream!
-21:29:27 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:27 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:27 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:29 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:29 [info] [Player] new instance created
-21:29:29 [info] [GaplessTransport] stop
-21:29:29 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:29 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:29 [info] [ffmpegdecoder] parsing data stream...
-21:29:29 [info] [ffmpegdecoder] found audio stream!
-21:29:29 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:29 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
-21:29:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:29:30 [info] [Player] new instance created
-21:29:30 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:30 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:30 [info] [ffmpegdecoder] parsing data stream...
-21:29:30 [info] [ffmpegdecoder] found audio stream!
-21:29:30 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:29:30 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:29:30 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:33:40 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:33:40 [info] [Player] new instance created
-21:33:40 [info] [GaplessTransport] stop
-21:33:40 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:33:40 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:33:40 [info] [ffmpegdecoder] parsing data stream...
-21:33:40 [info] [ffmpegdecoder] found audio stream!
-21:33:40 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:33:40 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:33:40 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:33:40 [info] [Player] new instance created
-21:33:40 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:33:40 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:33:40 [info] [ffmpegdecoder] parsing data stream...
-21:33:40 [info] [ffmpegdecoder] found audio stream!
-21:33:40 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:33:40 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:33:40 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:35:36 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:36 [info] [Player] new instance created
-21:35:36 [info] [GaplessTransport] stop
-21:35:36 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:36 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:36 [info] [ffmpegdecoder] parsing data stream...
-21:35:36 [info] [ffmpegdecoder] found audio stream!
-21:35:36 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:35:36 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:36 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:35:36 [info] [Player] new instance created
-21:35:36 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:35:36 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:35:36 [info] [ffmpegdecoder] parsing data stream...
-21:35:36 [info] [ffmpegdecoder] found audio stream!
-21:35:36 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:35:36 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:35:36 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:35:36 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:36 [info] [Player] new instance created
-21:35:36 [info] [GaplessTransport] stop
-21:35:36 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:36 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:36 [info] [ffmpegdecoder] parsing data stream...
-21:35:36 [info] [ffmpegdecoder] found audio stream!
-21:35:36 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:35:36 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:36 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:35:37 [info] [Player] new instance created
-21:35:37 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:35:37 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:35:37 [info] [ffmpegdecoder] parsing data stream...
-21:35:37 [info] [ffmpegdecoder] found audio stream!
-21:35:37 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:35:37 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:35:37 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:35:37 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:37 [info] [Player] new instance created
-21:35:37 [info] [GaplessTransport] stop
-21:35:37 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:37 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:37 [info] [ffmpegdecoder] parsing data stream...
-21:35:37 [info] [ffmpegdecoder] found audio stream!
-21:35:37 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:35:37 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
-21:35:37 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:35:38 [info] [Player] new instance created
-21:35:38 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:35:38 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:35:38 [info] [ffmpegdecoder] parsing data stream...
-21:35:38 [info] [ffmpegdecoder] found audio stream!
-21:35:38 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:35:38 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
-21:35:38 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:35:41 [info] [GaplessTransport] pause
-21:35:43 [info] [GaplessTransport] resume
-21:35:44 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:35:44 [info] [Player] new instance created
-21:35:44 [info] [GaplessTransport] stop
-21:35:44 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:35:44 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:35:44 [info] [ffmpegdecoder] parsing data stream...
-21:35:44 [info] [ffmpegdecoder] found audio stream!
-21:35:44 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:35:44 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-21:35:44 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:35:44 [info] [Player] new instance created
-21:35:44 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:35:44 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:35:44 [info] [ffmpegdecoder] parsing data stream...
-21:35:44 [info] [ffmpegdecoder] found audio stream!
-21:35:44 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:35:44 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-21:35:44 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:50:44 [info] [ffmpegdecoder] finished decoding.
-21:50:46 [info] [GaplessTransport] stop
-21:50:46 [info] [Player] new instance created
-21:50:46 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:50:46 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:50:46 [info] [ffmpegdecoder] parsing data stream...
-21:50:46 [info] [ffmpegdecoder] found audio stream!
-21:50:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-21:50:46 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-21:50:46 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-21:53:26 [info] [GaplessTransport] pause
-22:00:26 [info] [GaplessTransport] stop
+22:22:58 [info] [LOG SESSION] ---------- START ----------
+22:22:58 [info] [PluginFactory] loading plugins
+22:22:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+22:22:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+22:22:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+22:22:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+22:22:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+22:22:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+22:22:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+22:22:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+22:22:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+22:22:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+22:22:59 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+22:22:59 [info] [Indexer] indexer source -1303229654 running...
+22:22:59 [info] [Indexer] indexer source -1303229654 finished
+22:22:59 [info] [Indexer] scanning /home/nuub/Music/
+22:22:59 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
+22:22:59 [info] [Indexer] scan completed successfully
+22:22:59 [info] [Indexer] cleanup 1/2
+22:22:59 [info] [Indexer] cleanup 2/2
+22:22:59 [info] [Indexer] optimizing
+22:22:59 [info] [Indexer] done!
+22:23:37 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+22:23:37 [info] [Player] new instance created
+22:23:37 [info] [GaplessTransport] stop
+22:23:37 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+22:23:37 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+22:23:37 [info] [ffmpegdecoder] parsing data stream...
+22:23:37 [info] [ffmpegdecoder] found audio stream!
+22:23:37 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:23:37 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush A.mp3
+22:23:37 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:23:38 [info] [Player] new instance created
+22:23:38 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+22:23:38 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+22:23:38 [info] [ffmpegdecoder] parsing data stream...
+22:23:38 [info] [ffmpegdecoder] found audio stream!
+22:23:38 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:23:38 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush B.mp3
+22:23:38 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:23:55 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+22:23:55 [info] [Player] new instance created
+22:23:55 [info] [GaplessTransport] stop
+22:23:55 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+22:23:55 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+22:23:55 [info] [ffmpegdecoder] parsing data stream...
+22:23:55 [info] [ffmpegdecoder] found audio stream!
+22:23:55 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:23:55 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+22:23:55 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:23:56 [info] [Player] new instance created
+22:23:56 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+22:23:56 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+22:23:56 [info] [ffmpegdecoder] parsing data stream...
+22:23:56 [info] [ffmpegdecoder] found audio stream!
+22:23:56 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:23:56 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+22:23:56 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:23:58 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+22:23:58 [info] [Player] new instance created
+22:23:58 [info] [GaplessTransport] stop
+22:23:58 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+22:23:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+22:23:58 [info] [ffmpegdecoder] parsing data stream...
+22:23:58 [info] [ffmpegdecoder] found audio stream!
+22:23:58 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:23:58 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+22:23:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:23:58 [info] [Player] new instance created
+22:23:58 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+22:23:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+22:23:58 [info] [ffmpegdecoder] parsing data stream...
+22:23:58 [info] [ffmpegdecoder] found audio stream!
+22:23:58 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:23:58 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+22:23:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:23:59 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+22:23:59 [info] [Player] new instance created
+22:23:59 [info] [GaplessTransport] stop
+22:23:59 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+22:23:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+22:23:59 [info] [ffmpegdecoder] parsing data stream...
+22:23:59 [info] [ffmpegdecoder] found audio stream!
+22:23:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:23:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+22:23:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:24:00 [info] [Player] new instance created
+22:24:00 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
+22:24:00 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
+22:24:00 [info] [ffmpegdecoder] parsing data stream...
+22:24:00 [info] [ffmpegdecoder] found audio stream!
+22:24:00 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:00 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
+22:24:00 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:24:02 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
+22:24:02 [info] [Player] new instance created
+22:24:02 [info] [GaplessTransport] stop
+22:24:02 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
+22:24:02 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
+22:24:02 [info] [ffmpegdecoder] parsing data stream...
+22:24:02 [info] [ffmpegdecoder] found audio stream!
+22:24:02 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:02 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  III. Allegro  IV. Allegro Presto.mp3
+22:24:02 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:24:02 [info] [Player] new instance created
+22:24:02 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+22:24:02 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+22:24:02 [info] [ffmpegdecoder] parsing data stream...
+22:24:02 [info] [ffmpegdecoder] found audio stream!
+22:24:02 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:02 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+22:24:02 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:24:07 [info] [GaplessTransport] pause
+22:24:09 [info] [GaplessTransport] resume
+22:24:19 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+22:24:19 [info] [Player] new instance created
+22:24:19 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+22:24:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+22:24:19 [info] [ffmpegdecoder] parsing data stream...
+22:24:19 [info] [GaplessTransport] stop
+22:24:19 [info] [ffmpegdecoder] found audio stream!
+22:24:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+22:24:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:24:19 [info] [Player] new instance created
+22:24:19 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+22:24:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+22:24:19 [info] [ffmpegdecoder] parsing data stream...
+22:24:19 [info] [ffmpegdecoder] found audio stream!
+22:24:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+22:24:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:24:40 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/01-White-Noise-10min.mp3
+22:24:40 [info] [Player] new instance created
+22:24:40 [info] [GaplessTransport] stop
+22:24:40 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/01-White-Noise-10min.mp3
+22:24:40 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/01-White-Noise-10min.mp3
+22:24:40 [info] [ffmpegdecoder] parsing data stream...
+22:24:40 [info] [ffmpegdecoder] found audio stream!
+22:24:40 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:40 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/01-White-Noise-10min.mp3
+22:24:41 [info] [Player] new instance created
+22:24:41 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/02-White-Noise-10min.mp3
+22:24:41 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/02-White-Noise-10min.mp3
+22:24:41 [info] [ffmpegdecoder] parsing data stream...
+22:24:41 [info] [ffmpegdecoder] found audio stream!
+22:24:41 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:41 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/02-White-Noise-10min.mp3
+22:24:43 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/02-White-Noise-10min.mp3
+22:24:43 [info] [Player] new instance created
+22:24:43 [info] [GaplessTransport] stop
+22:24:43 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/02-White-Noise-10min.mp3
+22:24:43 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/02-White-Noise-10min.mp3
+22:24:43 [info] [ffmpegdecoder] parsing data stream...
+22:24:43 [info] [ffmpegdecoder] found audio stream!
+22:24:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:43 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/02-White-Noise-10min.mp3
+22:24:43 [info] [Player] new instance created
+22:24:43 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/03-White-Noise-10min.mp3
+22:24:43 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/03-White-Noise-10min.mp3
+22:24:43 [info] [ffmpegdecoder] parsing data stream...
+22:24:43 [info] [ffmpegdecoder] found audio stream!
+22:24:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:43 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/03-White-Noise-10min.mp3
+22:24:44 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/03-White-Noise-10min.mp3
+22:24:44 [info] [Player] new instance created
+22:24:44 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/03-White-Noise-10min.mp3
+22:24:44 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/03-White-Noise-10min.mp3
+22:24:44 [info] [ffmpegdecoder] parsing data stream...
+22:24:44 [info] [GaplessTransport] stop
+22:24:44 [info] [ffmpegdecoder] found audio stream!
+22:24:44 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:44 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/03-White-Noise-10min.mp3
+22:24:45 [info] [Player] new instance created
+22:24:45 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/04-Dryer-10min.mp3
+22:24:45 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/04-Dryer-10min.mp3
+22:24:45 [info] [ffmpegdecoder] parsing data stream...
+22:24:45 [info] [ffmpegdecoder] found audio stream!
+22:24:45 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:45 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/04-Dryer-10min.mp3
+22:24:45 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/04-Dryer-10min.mp3
+22:24:45 [info] [Player] new instance created
+22:24:45 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/04-Dryer-10min.mp3
+22:24:45 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/04-Dryer-10min.mp3
+22:24:45 [info] [ffmpegdecoder] parsing data stream...
+22:24:45 [info] [GaplessTransport] stop
+22:24:45 [info] [ffmpegdecoder] found audio stream!
+22:24:45 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:45 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/04-Dryer-10min.mp3
+22:24:45 [info] [Player] new instance created
+22:24:45 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/05-Fan-10min.mp3
+22:24:45 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/05-Fan-10min.mp3
+22:24:45 [info] [ffmpegdecoder] parsing data stream...
+22:24:46 [info] [ffmpegdecoder] found audio stream!
+22:24:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:46 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/05-Fan-10min.mp3
+22:24:46 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/05-Fan-10min.mp3
+22:24:46 [info] [Player] new instance created
+22:24:46 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/05-Fan-10min.mp3
+22:24:46 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/05-Fan-10min.mp3
+22:24:46 [info] [ffmpegdecoder] parsing data stream...
+22:24:46 [info] [GaplessTransport] stop
+22:24:46 [info] [ffmpegdecoder] found audio stream!
+22:24:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:46 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/05-Fan-10min.mp3
+22:24:47 [info] [Player] new instance created
+22:24:47 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/06-Ocean-10min.mp3
+22:24:47 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/06-Ocean-10min.mp3
+22:24:47 [info] [ffmpegdecoder] parsing data stream...
+22:24:47 [info] [ffmpegdecoder] found audio stream!
+22:24:47 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:47 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/06-Ocean-10min.mp3
+22:24:47 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/06-Ocean-10min.mp3
+22:24:47 [info] [Player] new instance created
+22:24:47 [info] [GaplessTransport] stop
+22:24:47 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/06-Ocean-10min.mp3
+22:24:47 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/06-Ocean-10min.mp3
+22:24:47 [info] [ffmpegdecoder] parsing data stream...
+22:24:47 [info] [ffmpegdecoder] found audio stream!
+22:24:47 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:47 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/06-Ocean-10min.mp3
+22:24:48 [info] [Player] new instance created
+22:24:48 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/07-PinkNoise-10min.mp3
+22:24:48 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/07-PinkNoise-10min.mp3
+22:24:48 [info] [ffmpegdecoder] parsing data stream...
+22:24:48 [info] [ffmpegdecoder] found audio stream!
+22:24:48 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:48 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/07-PinkNoise-10min.mp3
+22:24:48 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/07-PinkNoise-10min.mp3
+22:24:48 [info] [Player] new instance created
+22:24:48 [info] [GaplessTransport] stop
+22:24:48 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/07-PinkNoise-10min.mp3
+22:24:48 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/07-PinkNoise-10min.mp3
+22:24:48 [info] [ffmpegdecoder] parsing data stream...
+22:24:48 [info] [ffmpegdecoder] found audio stream!
+22:24:48 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:48 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/07-PinkNoise-10min.mp3
+22:24:49 [info] [Player] new instance created
+22:24:49 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/08-Rain-10min.mp3
+22:24:49 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/08-Rain-10min.mp3
+22:24:49 [info] [ffmpegdecoder] parsing data stream...
+22:24:49 [info] [ffmpegdecoder] found audio stream!
+22:24:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:49 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/08-Rain-10min.mp3
+22:24:49 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/08-Rain-10min.mp3
+22:24:49 [info] [Player] new instance created
+22:24:49 [info] [GaplessTransport] stop
+22:24:49 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/08-Rain-10min.mp3
+22:24:49 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/08-Rain-10min.mp3
+22:24:49 [info] [ffmpegdecoder] parsing data stream...
+22:24:49 [info] [ffmpegdecoder] found audio stream!
+22:24:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:49 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/08-Rain-10min.mp3
+22:24:49 [info] [Player] new instance created
+22:24:49 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/09-Rain-10min.mp3
+22:24:49 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/09-Rain-10min.mp3
+22:24:49 [info] [ffmpegdecoder] parsing data stream...
+22:24:49 [info] [ffmpegdecoder] found audio stream!
+22:24:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:49 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/09-Rain-10min.mp3
+22:24:50 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/09-Rain-10min.mp3
+22:24:50 [info] [Player] new instance created
+22:24:50 [info] [GaplessTransport] stop
+22:24:50 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/09-Rain-10min.mp3
+22:24:50 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/09-Rain-10min.mp3
+22:24:50 [info] [ffmpegdecoder] parsing data stream...
+22:24:50 [info] [ffmpegdecoder] found audio stream!
+22:24:50 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:50 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/09-Rain-10min.mp3
+22:24:50 [info] [Player] new instance created
+22:24:50 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/11-Blender-10min.mp3
+22:24:50 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/11-Blender-10min.mp3
+22:24:50 [info] [ffmpegdecoder] parsing data stream...
+22:24:50 [info] [ffmpegdecoder] found audio stream!
+22:24:50 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:50 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/11-Blender-10min.mp3
+22:24:51 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/11-Blender-10min.mp3
+22:24:51 [info] [Player] new instance created
+22:24:51 [info] [GaplessTransport] stop
+22:24:51 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/11-Blender-10min.mp3
+22:24:51 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/11-Blender-10min.mp3
+22:24:51 [info] [ffmpegdecoder] parsing data stream...
+22:24:51 [info] [ffmpegdecoder] found audio stream!
+22:24:51 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:51 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/11-Blender-10min.mp3
+22:24:51 [info] [Player] new instance created
+22:24:51 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/12-Blender-10min.mp3
+22:24:51 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/12-Blender-10min.mp3
+22:24:51 [info] [ffmpegdecoder] parsing data stream...
+22:24:51 [info] [ffmpegdecoder] found audio stream!
+22:24:51 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:51 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/12-Blender-10min.mp3
+22:24:51 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/12-Blender-10min.mp3
+22:24:51 [info] [Player] new instance created
+22:24:51 [info] [GaplessTransport] stop
+22:24:51 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/12-Blender-10min.mp3
+22:24:51 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/12-Blender-10min.mp3
+22:24:51 [info] [ffmpegdecoder] parsing data stream...
+22:24:51 [info] [ffmpegdecoder] found audio stream!
+22:24:51 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:51 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/12-Blender-10min.mp3
+22:24:52 [info] [Player] new instance created
+22:24:52 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+22:24:52 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+22:24:52 [info] [ffmpegdecoder] parsing data stream...
+22:24:52 [info] [ffmpegdecoder] found audio stream!
+22:24:52 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:52 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+22:24:52 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+22:24:52 [info] [Player] new instance created
+22:24:52 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+22:24:52 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+22:24:52 [info] [ffmpegdecoder] parsing data stream...
+22:24:52 [info] [GaplessTransport] stop
+22:24:52 [info] [ffmpegdecoder] found audio stream!
+22:24:52 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:52 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+22:24:52 [info] [Player] new instance created
+22:24:52 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/16-Dryer-10min.mp3
+22:24:52 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/16-Dryer-10min.mp3
+22:24:52 [info] [ffmpegdecoder] parsing data stream...
+22:24:52 [info] [ffmpegdecoder] found audio stream!
+22:24:52 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:52 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/16-Dryer-10min.mp3
+22:24:53 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/16-Dryer-10min.mp3
+22:24:53 [info] [Player] new instance created
+22:24:53 [info] [GaplessTransport] stop
+22:24:53 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/16-Dryer-10min.mp3
+22:24:53 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/16-Dryer-10min.mp3
+22:24:53 [info] [ffmpegdecoder] parsing data stream...
+22:24:53 [info] [ffmpegdecoder] found audio stream!
+22:24:53 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:53 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/16-Dryer-10min.mp3
+22:24:53 [info] [Player] new instance created
+22:24:53 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/17-Fan-10min.mp3
+22:24:53 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/17-Fan-10min.mp3
+22:24:53 [info] [ffmpegdecoder] parsing data stream...
+22:24:53 [info] [ffmpegdecoder] found audio stream!
+22:24:53 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:53 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/17-Fan-10min.mp3
+22:24:53 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/17-Fan-10min.mp3
+22:24:53 [info] [Player] new instance created
+22:24:53 [info] [GaplessTransport] stop
+22:24:53 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/17-Fan-10min.mp3
+22:24:53 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/17-Fan-10min.mp3
+22:24:53 [info] [ffmpegdecoder] parsing data stream...
+22:24:53 [info] [ffmpegdecoder] found audio stream!
+22:24:53 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:53 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/17-Fan-10min.mp3
+22:24:54 [info] [Player] new instance created
+22:24:54 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/18-Fan-10min.mp3
+22:24:54 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/18-Fan-10min.mp3
+22:24:54 [info] [ffmpegdecoder] parsing data stream...
+22:24:54 [info] [ffmpegdecoder] found audio stream!
+22:24:54 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:54 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/18-Fan-10min.mp3
+22:24:54 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/18-Fan-10min.mp3
+22:24:54 [info] [Player] new instance created
+22:24:54 [info] [GaplessTransport] stop
+22:24:54 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/18-Fan-10min.mp3
+22:24:54 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/18-Fan-10min.mp3
+22:24:54 [info] [ffmpegdecoder] parsing data stream...
+22:24:54 [info] [ffmpegdecoder] found audio stream!
+22:24:54 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:54 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/18-Fan-10min.mp3
+22:24:56 [info] [Player] new instance created
+22:24:56 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/19-Fan-10min.mp3
+22:24:56 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/19-Fan-10min.mp3
+22:24:56 [info] [ffmpegdecoder] parsing data stream...
+22:24:56 [info] [ffmpegdecoder] found audio stream!
+22:24:56 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:56 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/19-Fan-10min.mp3
+22:24:56 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/19-Fan-10min.mp3
+22:24:56 [info] [Player] new instance created
+22:24:56 [info] [GaplessTransport] stop
+22:24:56 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/19-Fan-10min.mp3
+22:24:56 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/19-Fan-10min.mp3
+22:24:56 [info] [ffmpegdecoder] parsing data stream...
+22:24:56 [info] [ffmpegdecoder] found audio stream!
+22:24:56 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:56 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/19-Fan-10min.mp3
+22:24:56 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/20-Fan-10min.mp3
+22:24:56 [info] [Player] new instance created
+22:24:56 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/20-Fan-10min.mp3
+22:24:56 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/20-Fan-10min.mp3
+22:24:56 [info] [ffmpegdecoder] parsing data stream...
+22:24:56 [info] [GaplessTransport] stop
+22:24:56 [info] [ffmpegdecoder] found audio stream!
+22:24:56 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:56 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/20-Fan-10min.mp3
+22:24:56 [info] [Player] new instance created
+22:24:56 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/21-Heater-10min.mp3
+22:24:56 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/21-Heater-10min.mp3
+22:24:56 [info] [ffmpegdecoder] parsing data stream...
+22:24:56 [info] [ffmpegdecoder] found audio stream!
+22:24:56 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:56 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/21-Heater-10min.mp3
+22:24:59 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/21-Heater-10min.mp3
+22:24:59 [info] [Player] new instance created
+22:24:59 [info] [GaplessTransport] stop
+22:24:59 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/21-Heater-10min.mp3
+22:24:59 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/21-Heater-10min.mp3
+22:24:59 [info] [ffmpegdecoder] parsing data stream...
+22:24:59 [info] [ffmpegdecoder] found audio stream!
+22:24:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:59 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/21-Heater-10min.mp3
+22:24:59 [info] [Player] new instance created
+22:24:59 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/22-Heater-10min.mp3
+22:24:59 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/22-Heater-10min.mp3
+22:24:59 [info] [ffmpegdecoder] parsing data stream...
+22:24:59 [info] [ffmpegdecoder] found audio stream!
+22:24:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:24:59 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/22-Heater-10min.mp3
+22:24:59 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/22-Heater-10min.mp3
+22:25:00 [info] [Player] new instance created
+22:25:00 [info] [GaplessTransport] stop
+22:25:00 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/22-Heater-10min.mp3
+22:25:00 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/22-Heater-10min.mp3
+22:25:00 [info] [ffmpegdecoder] parsing data stream...
+22:25:00 [info] [ffmpegdecoder] found audio stream!
+22:25:00 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:25:00 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/22-Heater-10min.mp3
+22:25:00 [info] [Player] new instance created
+22:25:00 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/23-Heater-10min.mp3
+22:25:00 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/23-Heater-10min.mp3
+22:25:00 [info] [ffmpegdecoder] parsing data stream...
+22:25:00 [info] [ffmpegdecoder] found audio stream!
+22:25:00 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:25:00 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/23-Heater-10min.mp3
+22:25:00 [info] [GaplessTransport] starting track at /home/nuub/Downloads/mc2method.org/23-Heater-10min.mp3
+22:25:00 [info] [Player] new instance created
+22:25:00 [info] [GaplessTransport] stop
+22:25:00 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/23-Heater-10min.mp3
+22:25:00 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/23-Heater-10min.mp3
+22:25:00 [info] [ffmpegdecoder] parsing data stream...
+22:25:00 [info] [ffmpegdecoder] found audio stream!
+22:25:00 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:25:00 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/23-Heater-10min.mp3
+22:25:01 [info] [Player] new instance created
+22:25:01 [info] [Stream] opening /home/nuub/Downloads/mc2method.org/24-Storm-10min.mp3
+22:25:01 [info] [LocalFileStream] opening file: /home/nuub/Downloads/mc2method.org/24-Storm-10min.mp3
+22:25:01 [info] [ffmpegdecoder] parsing data stream...
+22:25:01 [info] [ffmpegdecoder] found audio stream!
+22:25:01 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:25:01 [info] [Streams] found a decoder for /home/nuub/Downloads/mc2method.org/24-Storm-10min.mp3
+22:25:05 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush E.mp3
+22:25:05 [info] [Player] new instance created
+22:25:05 [info] [GaplessTransport] stop
+22:25:05 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush E.mp3
+22:25:05 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush E.mp3
+22:25:05 [info] [ffmpegdecoder] parsing data stream...
+22:25:05 [info] [ffmpegdecoder] found audio stream!
+22:25:05 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:25:05 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush E.mp3
+22:25:05 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:25:06 [info] [Player] new instance created
+22:25:06 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush F.mp3
+22:25:06 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush F.mp3
+22:25:06 [info] [ffmpegdecoder] parsing data stream...
+22:25:06 [info] [ffmpegdecoder] found audio stream!
+22:25:06 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:25:06 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush F.mp3
+22:25:06 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:26:19 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush F.mp3
+22:26:19 [info] [Player] new instance created
+22:26:19 [info] [GaplessTransport] stop
+22:26:19 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush F.mp3
+22:26:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush F.mp3
+22:26:19 [info] [ffmpegdecoder] parsing data stream...
+22:26:19 [info] [ffmpegdecoder] found audio stream!
+22:26:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:26:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush F.mp3
+22:26:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:26:20 [info] [Player] new instance created
+22:26:20 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush G.mp3
+22:26:20 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush G.mp3
+22:26:20 [info] [ffmpegdecoder] parsing data stream...
+22:26:20 [info] [ffmpegdecoder] found audio stream!
+22:26:20 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:26:20 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Sheet Music Boss - Rush G.mp3
+22:26:20 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:26:20 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:26:38 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:26:38 [info] [Player] new instance created
+22:26:38 [info] [GaplessTransport] stop
+22:26:38 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:26:38 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:26:38 [info] [ffmpegdecoder] parsing data stream...
+22:26:38 [info] [ffmpegdecoder] found audio stream!
+22:26:38 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:26:38 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:26:38 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:26:39 [info] [Player] new instance created
+22:26:39 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:26:39 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:26:39 [info] [ffmpegdecoder] parsing data stream...
+22:26:39 [info] [ffmpegdecoder] found audio stream!
+22:26:39 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:26:39 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:26:39 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:27:47 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
+22:27:47 [info] [Player] new instance created
+22:27:47 [info] [GaplessTransport] stop
+22:27:47 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
+22:27:47 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
+22:27:47 [info] [ffmpegdecoder] parsing data stream...
+22:27:47 [info] [ffmpegdecoder] found audio stream!
+22:27:47 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:27:47 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
+22:27:47 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:27:48 [info] [Player] new instance created
+22:27:48 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
+22:27:48 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
+22:27:48 [info] [ffmpegdecoder] parsing data stream...
+22:27:48 [info] [ffmpegdecoder] found audio stream!
+22:27:48 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:27:48 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/kirari_futari.mp3
+22:27:48 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:27:59 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/il_vento_d_oro.mp3
+22:27:59 [info] [Player] new instance created
+22:27:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/il_vento_d_oro.mp3
+22:27:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/il_vento_d_oro.mp3
+22:27:59 [info] [ffmpegdecoder] parsing data stream...
+22:27:59 [info] [GaplessTransport] stop
+22:27:59 [info] [ffmpegdecoder] found audio stream!
+22:27:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:27:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/il_vento_d_oro.mp3
+22:27:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:28:00 [info] [Player] new instance created
+22:28:00 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/il_vento_d_oro.mp3
+22:28:00 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/il_vento_d_oro.mp3
+22:28:00 [info] [ffmpegdecoder] parsing data stream...
+22:28:00 [info] [ffmpegdecoder] found audio stream!
+22:28:00 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:28:00 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/il_vento_d_oro.mp3
+22:28:00 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:28:10 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Fukashigi_no_Carte_-_Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.mp3
+22:28:10 [info] [Player] new instance created
+22:28:10 [info] [GaplessTransport] stop
+22:28:10 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Fukashigi_no_Carte_-_Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.mp3
+22:28:10 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Fukashigi_no_Carte_-_Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.mp3
+22:28:10 [info] [ffmpegdecoder] parsing data stream...
+22:28:10 [info] [ffmpegdecoder] found audio stream!
+22:28:10 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:28:10 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Fukashigi_no_Carte_-_Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.mp3
+22:28:10 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:28:10 [info] [Player] new instance created
+22:28:10 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Fukashigi_no_Carte_-_Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.mp3
+22:28:10 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Fukashigi_no_Carte_-_Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.mp3
+22:28:10 [info] [ffmpegdecoder] parsing data stream...
+22:28:10 [info] [ffmpegdecoder] found audio stream!
+22:28:10 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:28:10 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Fukashigi_no_Carte_-_Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.mp3
+22:28:10 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:28:13 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:28:13 [info] [Player] new instance created
+22:28:13 [info] [GaplessTransport] stop
+22:28:13 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:28:13 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:28:13 [info] [ffmpegdecoder] parsing data stream...
+22:28:13 [info] [ffmpegdecoder] found audio stream!
+22:28:13 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:28:13 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:28:13 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:28:14 [info] [Player] new instance created
+22:28:14 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:28:14 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:28:14 [info] [ffmpegdecoder] parsing data stream...
+22:28:14 [info] [ffmpegdecoder] found audio stream!
+22:28:14 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:28:14 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:28:14 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:28:59 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:28:59 [info] [Player] new instance created
+22:28:59 [info] [GaplessTransport] stop
+22:28:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:28:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:28:59 [info] [ffmpegdecoder] parsing data stream...
+22:28:59 [info] [ffmpegdecoder] found audio stream!
+22:28:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:28:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:28:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:28:59 [info] [Player] new instance created
+22:28:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:28:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:28:59 [info] [ffmpegdecoder] parsing data stream...
+22:28:59 [info] [ffmpegdecoder] found audio stream!
+22:28:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:28:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:28:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:29:02 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:29:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:29:05 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:29:37 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:29:37 [info] [Player] new instance created
+22:29:37 [info] [GaplessTransport] stop
+22:29:37 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:29:37 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:29:37 [info] [ffmpegdecoder] parsing data stream...
+22:29:37 [info] [ffmpegdecoder] found audio stream!
+22:29:37 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:29:37 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:29:37 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:29:38 [info] [Player] new instance created
+22:29:38 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:29:38 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:29:38 [info] [ffmpegdecoder] parsing data stream...
+22:29:38 [info] [ffmpegdecoder] found audio stream!
+22:29:38 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:29:38 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:29:38 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:29:53 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:29:53 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:29:55 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:29:58 [info] [GaplessTransport] pause
+22:29:59 [info] [GaplessTransport] resume
+22:30:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:30:35 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:30:35 [info] [Player] new instance created
+22:30:35 [info] [GaplessTransport] stop
+22:30:35 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:30:35 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:30:35 [info] [ffmpegdecoder] parsing data stream...
+22:30:35 [info] [ffmpegdecoder] found audio stream!
+22:30:35 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:30:35 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:30:35 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:30:36 [info] [Player] new instance created
+22:30:36 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:30:36 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:30:36 [info] [ffmpegdecoder] parsing data stream...
+22:30:36 [info] [ffmpegdecoder] found audio stream!
+22:30:36 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:30:36 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:30:36 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:30:43 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:30:43 [info] [Player] new instance created
+22:30:43 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:30:43 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:30:43 [info] [ffmpegdecoder] parsing data stream...
+22:30:43 [info] [GaplessTransport] stop
+22:30:43 [info] [ffmpegdecoder] found audio stream!
+22:30:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:30:43 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:30:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:30:43 [info] [Player] new instance created
+22:30:43 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:30:43 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:30:43 [info] [ffmpegdecoder] parsing data stream...
+22:30:43 [info] [ffmpegdecoder] found audio stream!
+22:30:43 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:30:43 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:30:43 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:30:52 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:30:52 [info] [Player] new instance created
+22:30:52 [info] [GaplessTransport] stop
+22:30:52 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:30:52 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:30:52 [info] [ffmpegdecoder] parsing data stream...
+22:30:52 [info] [ffmpegdecoder] found audio stream!
+22:30:52 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:30:52 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:30:52 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:30:52 [info] [Player] new instance created
+22:30:52 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:30:52 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:30:52 [info] [ffmpegdecoder] parsing data stream...
+22:30:52 [info] [ffmpegdecoder] found audio stream!
+22:30:52 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:30:52 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:30:52 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:31:03 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Here_Comes_The_Sun_-_Remastered_2009.mp3
+22:31:03 [info] [Player] new instance created
+22:31:03 [info] [GaplessTransport] stop
+22:31:03 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Here_Comes_The_Sun_-_Remastered_2009.mp3
+22:31:03 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Here_Comes_The_Sun_-_Remastered_2009.mp3
+22:31:03 [info] [ffmpegdecoder] parsing data stream...
+22:31:03 [info] [ffmpegdecoder] found audio stream!
+22:31:03 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:31:03 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Here_Comes_The_Sun_-_Remastered_2009.mp3
+22:31:03 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:31:04 [info] [Player] new instance created
+22:31:04 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Here_Comes_The_Sun_-_Remastered_2009.mp3
+22:31:04 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Here_Comes_The_Sun_-_Remastered_2009.mp3
+22:31:04 [info] [ffmpegdecoder] parsing data stream...
+22:31:04 [info] [ffmpegdecoder] found audio stream!
+22:31:04 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:31:04 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Here_Comes_The_Sun_-_Remastered_2009.mp3
+22:31:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:31:08 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:31:08 [info] [Player] new instance created
+22:31:08 [info] [GaplessTransport] stop
+22:31:08 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:31:08 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:31:08 [info] [ffmpegdecoder] parsing data stream...
+22:31:08 [info] [ffmpegdecoder] found audio stream!
+22:31:08 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:31:08 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:31:08 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:31:08 [info] [Player] new instance created
+22:31:08 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:31:08 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:31:08 [info] [ffmpegdecoder] parsing data stream...
+22:31:08 [info] [ffmpegdecoder] found audio stream!
+22:31:08 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:31:08 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:31:08 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:33:23 [info] [ffmpegdecoder] finished decoding.
+22:33:25 [info] [GaplessTransport] stop
+22:33:25 [info] [Player] new instance created
+22:33:25 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:33:25 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:33:25 [info] [ffmpegdecoder] parsing data stream...
+22:33:25 [info] [ffmpegdecoder] found audio stream!
+22:33:25 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:33:25 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:33:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:36:16 [info] [ffmpegdecoder] finished decoding.
+22:36:18 [info] [GaplessTransport] stop
+22:36:18 [info] [Player] new instance created
+22:36:18 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:36:18 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:36:18 [info] [ffmpegdecoder] parsing data stream...
+22:36:18 [info] [ffmpegdecoder] found audio stream!
+22:36:18 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:36:18 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:36:18 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:41:18 [info] [ffmpegdecoder] finished decoding.
+22:41:21 [info] [GaplessTransport] stop
+22:41:21 [info] [Player] new instance created
+22:41:21 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:41:21 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:41:21 [info] [ffmpegdecoder] parsing data stream...
+22:41:21 [info] [ffmpegdecoder] found audio stream!
+22:41:21 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:41:21 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:41:21 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:44:00 [info] [ffmpegdecoder] finished decoding.
+22:44:02 [info] [GaplessTransport] stop
+22:44:03 [info] [Player] new instance created
+22:44:03 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:44:03 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:44:03 [info] [ffmpegdecoder] parsing data stream...
+22:44:03 [info] [ffmpegdecoder] found audio stream!
+22:44:03 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:44:03 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+22:44:03 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:47:48 [info] [ffmpegdecoder] finished decoding.
+22:47:51 [info] [GaplessTransport] stop
+22:47:51 [info] [Player] new instance created
+22:47:51 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:47:51 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:47:51 [info] [ffmpegdecoder] parsing data stream...
+22:47:51 [info] [ffmpegdecoder] found audio stream!
+22:47:51 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:47:51 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+22:47:51 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:50:06 [info] [ffmpegdecoder] finished decoding.
+22:50:08 [info] [GaplessTransport] stop
+22:50:08 [info] [Player] new instance created
+22:50:08 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:50:08 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:50:08 [info] [ffmpegdecoder] parsing data stream...
+22:50:08 [info] [ffmpegdecoder] found audio stream!
+22:50:08 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:50:08 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+22:50:08 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:52:59 [info] [ffmpegdecoder] finished decoding.
+22:53:01 [info] [GaplessTransport] stop
+22:53:02 [info] [Player] new instance created
+22:53:02 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:53:02 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:53:02 [info] [ffmpegdecoder] parsing data stream...
+22:53:02 [info] [ffmpegdecoder] found audio stream!
+22:53:02 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:53:02 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+22:53:02 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:58:01 [info] [ffmpegdecoder] finished decoding.
+22:58:04 [info] [GaplessTransport] stop
+22:58:04 [info] [Player] new instance created
+22:58:04 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:58:04 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:58:04 [info] [ffmpegdecoder] parsing data stream...
+22:58:04 [info] [ffmpegdecoder] found audio stream!
+22:58:04 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+22:58:04 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/One_Punch_Man_Main_Theme.mp3
+22:58:04 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:00:43 [info] [ffmpegdecoder] finished decoding.
+23:00:45 [info] [GaplessTransport] stop
+23:00:46 [info] [Player] new instance created
+23:00:46 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+23:00:46 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+23:00:46 [info] [ffmpegdecoder] parsing data stream...
+23:00:46 [info] [ffmpegdecoder] found audio stream!
+23:00:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:00:46 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+23:00:46 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:04:31 [info] [ffmpegdecoder] finished decoding.
+23:04:34 [info] [GaplessTransport] stop
+23:04:34 [info] [Player] new instance created
+23:04:34 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+23:04:34 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+23:04:34 [info] [ffmpegdecoder] parsing data stream...
+23:04:34 [info] [ffmpegdecoder] found audio stream!
+23:04:34 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:04:34 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+23:04:34 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:06:46 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+23:06:46 [info] [Player] new instance created
+23:06:46 [info] [GaplessTransport] stop
+23:06:46 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+23:06:46 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+23:06:46 [info] [ffmpegdecoder] parsing data stream...
+23:06:46 [info] [ffmpegdecoder] found audio stream!
+23:06:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:06:46 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+23:06:46 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:06:46 [info] [Player] new instance created
+23:06:46 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+23:06:46 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+23:06:46 [info] [ffmpegdecoder] parsing data stream...
+23:06:46 [info] [ffmpegdecoder] found audio stream!
+23:06:46 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:06:46 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+23:06:46 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:06:47 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+23:06:47 [info] [Player] new instance created
+23:06:47 [info] [GaplessTransport] stop
+23:06:47 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+23:06:47 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+23:06:47 [info] [ffmpegdecoder] parsing data stream...
+23:06:47 [info] [ffmpegdecoder] found audio stream!
+23:06:47 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:06:47 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+23:06:47 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:06:47 [info] [Player] new instance created
+23:06:47 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+23:06:47 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+23:06:47 [info] [ffmpegdecoder] parsing data stream...
+23:06:47 [info] [ffmpegdecoder] found audio stream!
+23:06:47 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:06:47 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+23:06:47 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:11:02 [info] [GaplessTransport] stop
+23:11:10 [info] [GaplessTransport] stop
+23:11:15 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+23:11:15 [info] [Player] new instance created
+23:11:15 [info] [GaplessTransport] stop
+23:11:15 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+23:11:15 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+23:11:15 [info] [ffmpegdecoder] parsing data stream...
+23:11:15 [info] [ffmpegdecoder] found audio stream!
+23:11:15 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:11:15 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/The_Girl_I_Have_a_Crush_On.mp3
+23:11:15 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:11:16 [info] [Player] new instance created
+23:11:16 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+23:11:16 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+23:11:16 [info] [ffmpegdecoder] parsing data stream...
+23:11:16 [info] [ffmpegdecoder] found audio stream!
+23:11:16 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+23:11:16 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/First_Date.mp3
+23:11:16 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:12:43 [info] [GaplessTransport] stop
