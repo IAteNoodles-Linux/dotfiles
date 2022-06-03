@@ -44,3 +44,4 @@
 20:59:30 [info] [GaplessTransport] resume
 20:59:31 [info] [GaplessTransport] pause
 20:59:34 [info] [GaplessTransport] resume
+20:59:56 [info] [GaplessTransport] stop
