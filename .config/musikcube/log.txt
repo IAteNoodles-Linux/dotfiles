@@ -42,3 +42,35 @@
 15:55:50 [warning] [ffmpegdecoder] invalid packet detected, discarding.
 15:55:56 [info] [GaplessTransport] pause
 15:55:59 [info] [GaplessTransport] resume
+15:58:22 [info] [GaplessTransport] pause
+15:58:25 [info] [GaplessTransport] resume
+15:58:26 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+15:58:26 [info] [Player] new instance created
+15:58:26 [info] [GaplessTransport] stop
+15:58:26 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+15:58:26 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+15:58:26 [info] [ffmpegdecoder] parsing data stream...
+15:58:26 [info] [ffmpegdecoder] found audio stream!
+15:58:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+15:58:26 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
+15:58:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+15:58:26 [info] [Player] new instance created
+15:58:26 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+15:58:26 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+15:58:26 [info] [ffmpegdecoder] parsing data stream...
+15:58:26 [info] [ffmpegdecoder] found audio stream!
+15:58:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+15:58:26 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+15:58:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:13:26 [info] [ffmpegdecoder] finished decoding.
+16:13:28 [info] [GaplessTransport] stop
+16:13:28 [info] [Player] new instance created
+16:13:28 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+16:13:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+16:13:28 [info] [ffmpegdecoder] parsing data stream...
+16:13:28 [info] [ffmpegdecoder] found audio stream!
+16:13:28 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+16:13:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
+16:13:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+16:17:52 [info] [GaplessTransport] pause
+16:33:59 [info] [GaplessTransport] stop

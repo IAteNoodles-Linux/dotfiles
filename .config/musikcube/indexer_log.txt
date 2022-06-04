@@ -262,4 +262,46 @@ SYNCING LOCAL FILES:
     - [does not need to be indexed] /home/nuub/Music/Playlists/Prev_Liked/Vickeblanka - Black Catcher.mp3
     - [does not need to be indexed] /home/nuub/Music/Playlists/Prev_Liked/MIYAVI - Other Side.mp3
     - [does not need to be indexed] /home/nuub/Music/Playlists/Prev_Liked/LiSA - unlasting.mp3
-    - [does not need to be indexed] /home/nuub/Music/Playlists/Prev
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Prev_Liked/NateWantsToBattle - Polaris.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Liked/Uwu/Fluorite_Eye_s_Song__From__Vivy__Fluorite_Eye_s_Song___-_English.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Prev_Liked/Cö Shu Nie - asphyxia.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/35-Refrigerator-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/41-Ocean-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/17-Fan-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/09-Rain-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/42-Rain-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/19-Fan-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/14-WaterBoiling-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/02-White-Noise-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/08-Rain-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/37-Ocean-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/07-PinkNoise-10min.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Liked/Uwu/Solitude.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/30-Stream-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/06-Ocean-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/21-Heater-10min.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Liked/Uwu/Unravel__Tokyo_Ghoul_.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Pirates/Great Big Sea - The Chemical Worker's Song - Process Man.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/29-WaterBoiling-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/44-Rain-10min.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Liked/Uwu/Koino_Uta.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/25-Ocean-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/36-Train-10min.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Pirates/El Pony Pisador - Pass Around the Grog.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/20-Fan-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/23-Heater-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/43-Stream-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/51-Train-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/27-Shower-10min.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Liked/Uwu/Brittle_Bones_Nicky_2.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/49-Underwater-10min.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Pirates/The Foc'sle Singers - The Black Ball Line.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/03-White-Noise-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/22-Heater-10min.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Liked/Uwu/_______.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/24-Storm-10min.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Liked/Uwu/_____________-_TV_version.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/50-White-Noise-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/11-Blender-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/45-Waves-10min.mp3
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Liked/Uwu/Undertale_Shop.mp3
