@@ -1,76 +1,68 @@
-15:55:49 [info] [LOG SESSION] ---------- START ----------
-15:55:49 [info] [PluginFactory] loading plugins
-15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-15:55:49 [info] [Indexer] indexer source -1303229654 running...
-15:55:49 [info] [Indexer] indexer source -1303229654 finished
-15:55:49 [info] [Indexer] scanning /home/nuub/Music/
-15:55:49 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
-15:55:49 [info] [Indexer] scan completed successfully
-15:55:49 [info] [Indexer] cleanup 1/2
-15:55:49 [info] [Indexer] cleanup 2/2
-15:55:49 [info] [Indexer] optimizing
-15:55:49 [info] [Indexer] done!
-15:55:49 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-15:55:49 [info] [Player] new instance created
-15:55:49 [info] [GaplessTransport] stop
-15:55:49 [info] [GaplessTransport] resume
-15:55:49 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-15:55:49 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-15:55:49 [info] [ffmpegdecoder] parsing data stream...
-15:55:49 [info] [ffmpegdecoder] found audio stream!
-15:55:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-15:55:49 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-15:55:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-15:55:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-15:55:50 [info] [Player] new instance created
-15:55:50 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
-15:55:50 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
-15:55:50 [info] [ffmpegdecoder] parsing data stream...
-15:55:50 [info] [ffmpegdecoder] found audio stream!
-15:55:50 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-15:55:50 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
-15:55:50 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-15:55:56 [info] [GaplessTransport] pause
-15:55:59 [info] [GaplessTransport] resume
-15:58:22 [info] [GaplessTransport] pause
-15:58:25 [info] [GaplessTransport] resume
-15:58:26 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-15:58:26 [info] [Player] new instance created
-15:58:26 [info] [GaplessTransport] stop
-15:58:26 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-15:58:26 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-15:58:26 [info] [ffmpegdecoder] parsing data stream...
-15:58:26 [info] [ffmpegdecoder] found audio stream!
-15:58:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-15:58:26 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Leonore -  Overture No. 3, Op.72a.mp3
-15:58:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-15:58:26 [info] [Player] new instance created
-15:58:26 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-15:58:26 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-15:58:26 [info] [ffmpegdecoder] parsing data stream...
-15:58:26 [info] [ffmpegdecoder] found audio stream!
-15:58:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-15:58:26 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
-15:58:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-16:13:26 [info] [ffmpegdecoder] finished decoding.
-16:13:28 [info] [GaplessTransport] stop
-16:13:28 [info] [Player] new instance created
-16:13:28 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-16:13:28 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-16:13:28 [info] [ffmpegdecoder] parsing data stream...
-16:13:28 [info] [ffmpegdecoder] found audio stream!
-16:13:28 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-16:13:28 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  II. Andante Con Moto, Piú Mosso, Tempo 1.mp3
-16:13:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-16:17:52 [info] [GaplessTransport] pause
-16:33:59 [info] [GaplessTransport] stop
+19:12:58 [info] [LOG SESSION] ---------- START ----------
+19:12:58 [info] [PluginFactory] loading plugins
+19:12:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+19:12:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+19:12:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+19:12:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+19:12:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+19:12:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+19:12:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+19:12:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+19:12:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+19:12:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+19:12:58 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+19:12:58 [info] [Indexer] indexer source -1303229654 running...
+19:12:58 [info] [Indexer] indexer source -1303229654 finished
+19:12:58 [info] [Indexer] scanning /home/nuub/Music/
+19:12:58 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
+19:12:58 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+19:12:58 [info] [Player] new instance created
+19:12:58 [info] [Stream] opening /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+19:12:58 [info] [GaplessTransport] stop
+19:12:58 [info] [GaplessTransport] resume
+19:12:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+19:12:58 [error] [LocalFileStream] open with OpenFlags::Read failed because file doesn't exist. /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+19:12:58 [error] [Stream] failed to open /home/nuub/Music/Playlists/Rush Collection/Ludwig van Beethoven, Berliner Philharmoniker, André Cluytens - Symphony No. 5 In C Minor, Op. 67 -  I. Allegro Con Brio.mp3
+19:12:59 [info] [Indexer] scan completed successfully
+19:12:59 [info] [Indexer] cleanup 1/2
+19:12:59 [info] [Indexer] cleanup 2/2
+19:12:59 [info] [Indexer] optimizing
+19:12:59 [info] [Indexer] done!
+19:13:56 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:56 [info] [Player] new instance created
+19:13:56 [info] [GaplessTransport] stop
+19:13:56 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:56 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:56 [info] [ffmpegdecoder] parsing data stream...
+19:13:56 [info] [ffmpegdecoder] found audio stream!
+19:13:56 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+19:13:56 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:56 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+19:13:56 [info] [Player] new instance created
+19:13:56 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:56 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:56 [info] [ffmpegdecoder] parsing data stream...
+19:13:56 [info] [ffmpegdecoder] found audio stream!
+19:13:56 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+19:13:56 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:56 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+19:13:58 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:58 [info] [Player] new instance created
+19:13:58 [info] [GaplessTransport] stop
+19:13:58 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:58 [info] [ffmpegdecoder] parsing data stream...
+19:13:58 [info] [ffmpegdecoder] found audio stream!
+19:13:58 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+19:13:58 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+19:13:59 [info] [Player] new instance created
+19:13:59 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:59 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:59 [info] [ffmpegdecoder] parsing data stream...
+19:13:59 [info] [ffmpegdecoder] found audio stream!
+19:13:59 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+19:13:59 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
+19:13:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+19:13:59 [info] [GaplessTransport] pause
+19:14:00 [info] [GaplessTransport] stop
