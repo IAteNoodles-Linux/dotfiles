@@ -41,3 +41,4 @@
 22:31:06 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
 22:31:06 [warning] [ffmpegdecoder] invalid packet detected, discarding.
 22:31:07 [info] [GaplessTransport] pause
+22:31:18 [info] [GaplessTransport] resume
