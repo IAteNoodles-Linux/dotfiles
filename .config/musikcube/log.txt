@@ -1,47 +1,44 @@
-20:59:25 [info] [LOG SESSION] ---------- START ----------
-20:59:25 [info] [PluginFactory] loading plugins
-20:59:25 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-20:59:25 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-20:59:25 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-20:59:25 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-20:59:25 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-20:59:25 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-20:59:25 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-20:59:25 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-20:59:25 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-20:59:25 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-20:59:25 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-20:59:25 [info] [Indexer] indexer source -1303229654 running...
-20:59:25 [info] [Indexer] indexer source -1303229654 finished
-20:59:25 [info] [Indexer] scanning /home/nuub/Music/
-20:59:25 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
-20:59:25 [info] [Indexer] scan completed successfully
-20:59:25 [info] [Indexer] cleanup 1/2
-20:59:25 [info] [Indexer] cleanup 2/2
-20:59:25 [info] [Indexer] optimizing
-20:59:25 [info] [Indexer] done!
-20:59:25 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-20:59:25 [info] [Player] new instance created
-20:59:25 [info] [GaplessTransport] stop
-20:59:25 [info] [GaplessTransport] resume
-20:59:25 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-20:59:25 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-20:59:25 [info] [ffmpegdecoder] parsing data stream...
-20:59:25 [info] [ffmpegdecoder] found audio stream!
-20:59:25 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-20:59:25 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
-20:59:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-20:59:25 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-20:59:25 [info] [GaplessTransport] pause
-20:59:25 [info] [Player] new instance created
-20:59:25 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
-20:59:25 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
-20:59:25 [info] [ffmpegdecoder] parsing data stream...
-20:59:26 [info] [ffmpegdecoder] found audio stream!
-20:59:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-20:59:26 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
-20:59:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-20:59:30 [info] [GaplessTransport] resume
-20:59:31 [info] [GaplessTransport] pause
-20:59:34 [info] [GaplessTransport] resume
-20:59:56 [info] [GaplessTransport] stop
+15:55:49 [info] [LOG SESSION] ---------- START ----------
+15:55:49 [info] [PluginFactory] loading plugins
+15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+15:55:49 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+15:55:49 [info] [Indexer] indexer source -1303229654 running...
+15:55:49 [info] [Indexer] indexer source -1303229654 finished
+15:55:49 [info] [Indexer] scanning /home/nuub/Music/
+15:55:49 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
+15:55:49 [info] [Indexer] scan completed successfully
+15:55:49 [info] [Indexer] cleanup 1/2
+15:55:49 [info] [Indexer] cleanup 2/2
+15:55:49 [info] [Indexer] optimizing
+15:55:49 [info] [Indexer] done!
+15:55:49 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+15:55:49 [info] [Player] new instance created
+15:55:49 [info] [GaplessTransport] stop
+15:55:49 [info] [GaplessTransport] resume
+15:55:49 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+15:55:49 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+15:55:49 [info] [ffmpegdecoder] parsing data stream...
+15:55:49 [info] [ffmpegdecoder] found audio stream!
+15:55:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+15:55:49 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Always_Be_With_You__From__Puuung____Original_Animation_Series_Soundtrack_.mp3
+15:55:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+15:55:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+15:55:50 [info] [Player] new instance created
+15:55:50 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+15:55:50 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+15:55:50 [info] [ffmpegdecoder] parsing data stream...
+15:55:50 [info] [ffmpegdecoder] found audio stream!
+15:55:50 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+15:55:50 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Silence__piano_.mp3
+15:55:50 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+15:55:56 [info] [GaplessTransport] pause
+15:55:59 [info] [GaplessTransport] resume
