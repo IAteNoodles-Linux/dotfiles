@@ -1,44 +1,73 @@
-22:31:04 [info] [LOG SESSION] ---------- START ----------
-22:31:04 [info] [PluginFactory] loading plugins
-22:31:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-22:31:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-22:31:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-22:31:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-22:31:04 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-22:31:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-22:31:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-22:31:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-22:31:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-22:31:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-22:31:05 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-22:31:05 [info] [Indexer] indexer source -1303229654 running...
-22:31:05 [info] [Indexer] indexer source -1303229654 finished
-22:31:05 [info] [Indexer] scanning /home/nuub/Music/
-22:31:05 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
-22:31:05 [info] [Indexer] scan completed successfully
-22:31:05 [info] [Indexer] cleanup 1/2
-22:31:05 [info] [Indexer] cleanup 2/2
-22:31:05 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-22:31:05 [info] [Player] new instance created
-22:31:05 [info] [GaplessTransport] stop
-22:31:05 [info] [GaplessTransport] resume
-22:31:05 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-22:31:05 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-22:31:05 [info] [ffmpegdecoder] parsing data stream...
-22:31:05 [info] [Indexer] optimizing
-22:31:05 [info] [Indexer] done!
-22:31:05 [info] [ffmpegdecoder] found audio stream!
-22:31:05 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-22:31:05 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-22:31:05 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-22:31:05 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-22:31:06 [info] [Player] new instance created
-22:31:06 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-22:31:06 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-22:31:06 [info] [ffmpegdecoder] parsing data stream...
-22:31:06 [info] [ffmpegdecoder] found audio stream!
-22:31:06 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-22:31:06 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Baka_Mitai.mp3
-22:31:06 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-22:31:07 [info] [GaplessTransport] pause
-22:31:18 [info] [GaplessTransport] resume
+00:58:18 [info] [LOG SESSION] ---------- START ----------
+00:58:18 [info] [PluginFactory] loading plugins
+00:58:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+00:58:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+00:58:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+00:58:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+00:58:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+00:58:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+00:58:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+00:58:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+00:58:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+00:58:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+00:58:18 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+00:58:18 [info] [Indexer] indexer source -1303229654 running...
+00:58:18 [info] [Indexer] indexer source -1303229654 finished
+00:58:18 [info] [Indexer] scanning /home/nuub/Music/
+00:58:18 [info] [Indexer] scanning /home/nuub/Downloads/mc2method.org/
+00:58:18 [info] [Indexer] scan completed successfully
+00:58:18 [info] [Indexer] cleanup 1/2
+00:58:18 [info] [Indexer] cleanup 2/2
+00:58:18 [info] [Indexer] optimizing
+00:58:18 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Prev_Liked/MIYAVI - Samurai 45.mp3
+00:58:18 [info] [Player] new instance created
+00:58:18 [info] [GaplessTransport] stop
+00:58:18 [info] [GaplessTransport] resume
+00:58:18 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/MIYAVI - Samurai 45.mp3
+00:58:18 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/MIYAVI - Samurai 45.mp3
+00:58:18 [info] [ffmpegdecoder] parsing data stream...
+00:58:18 [info] [Indexer] done!
+00:58:18 [info] [ffmpegdecoder] found audio stream!
+00:58:18 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+00:58:18 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/MIYAVI - Samurai 45.mp3
+00:58:18 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:58:18 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:58:19 [info] [Player] new instance created
+00:58:19 [info] [Stream] opening /home/nuub/Music/Playlists/Prev_Liked/MIYAVI - Butterfly.mp3
+00:58:19 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Prev_Liked/MIYAVI - Butterfly.mp3
+00:58:19 [info] [ffmpegdecoder] parsing data stream...
+00:58:19 [info] [ffmpegdecoder] found audio stream!
+00:58:19 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+00:58:19 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Prev_Liked/MIYAVI - Butterfly.mp3
+00:58:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:00:03 [info] [ffmpegdecoder] finished decoding.
+01:00:06 [info] [GaplessTransport] stop
+01:00:06 [info] [Player] new instance created
+01:00:06 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Boku_no_Sensou__My_War___from__Attack_on_Titan_Season_4__.mp3
+01:00:06 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Boku_no_Sensou__My_War___from__Attack_on_Titan_Season_4__.mp3
+01:00:06 [info] [ffmpegdecoder] parsing data stream...
+01:00:06 [info] [ffmpegdecoder] found audio stream!
+01:00:06 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+01:00:06 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Boku_no_Sensou__My_War___from__Attack_on_Titan_Season_4__.mp3
+01:00:06 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:03:23 [info] [ffmpegdecoder] finished decoding.
+01:03:25 [info] [GaplessTransport] stop
+01:03:26 [info] [Player] new instance created
+01:03:26 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Myself.mp3
+01:03:26 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Myself.mp3
+01:03:26 [info] [ffmpegdecoder] parsing data stream...
+01:03:26 [info] [ffmpegdecoder] found audio stream!
+01:03:26 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+01:03:26 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Myself.mp3
+01:03:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:05:56 [info] [ffmpegdecoder] finished decoding.
+01:05:58 [info] [GaplessTransport] stop
+01:05:58 [info] [Player] new instance created
+01:05:58 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/A_Tale_of_Six_Trillion_Years_and_a_Night.mp3
+01:05:58 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/A_Tale_of_Six_Trillion_Years_and_a_Night.mp3
+01:05:58 [info] [ffmpegdecoder] parsing data stream...
+01:05:58 [info] [ffmpegdecoder] found audio stream!
+01:05:58 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+01:05:58 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/A_Tale_of_Six_Trillion_Years_and_a_Night.mp3
+01:05:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:06:41 [info] [GaplessTransport] stop
