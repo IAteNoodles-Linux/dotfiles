@@ -5,10 +5,38 @@ AlsaOut: joining...
 AlsaOut: thread finished
 AlsaOut: closing device...
 AlsaOut: destroyed.
-[2022-06-05 07:54:20] [info] asio async_connect error: system:111 (Connection refused)
-[2022-06-05 07:54:20] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
-[2022-06-05 07:54:20] [error] handle_connect error: Underlying Transport Error
-[mp3float @ 0x7f3a0400af40] Could not update timestamps for skipped samples.
+[2022-06-05 12:33:50] [info] asio async_connect error: system:111 (Connection refused)
+[2022-06-05 12:33:50] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
+[2022-06-05 12:33:50] [error] handle_connect error: Underlying Transport Error
+[mp3 @ 0x7f9644004f00] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644007dc0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644007d80] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644031640] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004dc0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004f40] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004dc0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004dc0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f96440087c0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644008700] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004dc0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644006fc0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644009500] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f964400a540] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f964400a480] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004f40] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f964400aa40] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004dc0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004dc0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644009200] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644008540] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644008540] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004dc0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644009200] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644008a40] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004dc0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004dc0] Failed to read frame size: Could not seek to 1151.
+[mp3 @ 0x7f9644004dc0] Failed to read frame size: Could not seek to 1151.
+[mp3float @ 0x7f9644032180] Could not update timestamps for skipped samples.
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
 pulse_blocking_stream: CHECK_VALIDITY dir
@@ -17,10 +45,20 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[mp3float @ 0x7f3a3c06cec0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f3a0400af40] Could not update timestamps for discarded samples.
-[mp3float @ 0x7f3a040494c0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f3a3c06cec0] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f960c022000] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f9628039640] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f9644065c00] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f960c02b780] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f962801f040] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f964405ce00] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f960c032880] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f960c02bb40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f96440545c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f962800a500] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f960c050540] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f9644032540] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f96280340c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f9644032540] Could not update timestamps for discarded samples.
 PulseOut: closing device
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
@@ -30,10 +68,26 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[mp3float @ 0x7f3a3c026680] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f3a040494c0] Could not update timestamps for discarded samples.
-[mp3float @ 0x7f3a040128c0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f3a3c026680] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f96440285c0] Could not update timestamps for skipped samples.
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
+[mp3float @ 0x7f96280340c0] Could not update timestamps for discarded samples.
 PulseOut: closing device
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
@@ -43,10 +97,12 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[mp3float @ 0x7f3a3c005dc0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f3a040128c0] Could not update timestamps for discarded samples.
-[mp3float @ 0x7f3a0404c240] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f3a3c005dc0] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f962802d800] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f96440285c0] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f9644009840] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f962802d800] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f9628005bc0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f9644009840] Could not update timestamps for discarded samples.
 PulseOut: closing device
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
@@ -56,12 +112,12 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[mp3float @ 0x7f3a3c0055c0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f3a0404c240] Could not update timestamps for discarded samples.
-[mp3float @ 0x7f3a04003740] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f3a3c0055c0] Could not update timestamps for discarded samples.
-[mp3float @ 0x7f3a3c01b440] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f3a3805dc00] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f9644059c80] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f9628005bc0] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f962800ac80] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f9644059c80] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f964405c1c0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f962800ac80] Could not update timestamps for discarded samples.
 PulseOut: closing device
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
@@ -71,19 +127,10 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[mp3float @ 0x7f3a3c013140] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f3a040342c0] Could not update timestamps for skipped samples.
-PulseOut: closing device
-PulseOut: opening device 
-pulse_blocking_stream: CHECK_VALIDITY server
-pulse_blocking_stream: CHECK_VALIDITY dir
-pulse_blocking_stream: CHECK_VALIDITY device
-pulse_blocking_stream: CHECK_VALIDITY spec
-pulse_blocking_stream: CHECK_VALIDITY channel map
-pulse_blocking_stream: context is ready
-pulse_blocking_stream: stream is ready
-[mp3float @ 0x7f3a3805e500] Could not update timestamps for skipped samples.
-[2022-06-05 08:26:20] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
+[mp3float @ 0x7f9628001080] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f964405c1c0] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f9644052e40] Could not update timestamps for skipped samples.
+[2022-06-05 13:25:44] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
 PulseOut: destroy
 PulseOut: destructor
 PulseOut: closing device
