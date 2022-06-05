@@ -1119,4 +1119,6 @@ SYNCING LOCAL FILES:
     - [does not need to be indexed] /home/nuub/Music/Playlists/Lofi/Anime/Kato - Lost Woods.mp3
     - [does not need to be indexed] /home/nuub/Music/Playlists/Lofi/Anime/Kato - Man of the World.mp3
     - [does not need to be indexed] /home/nuub/Music/Playlists/Lofi/Chill/Chau Sara - Flying Doodles.mp3
-    - [does not need to be ind
+    - [does not need to be indexed] /home/nuub/Music/Playlists/Lofi/Chill/chief., Kurt Stewart - distance.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/35-Refrigerator-10min.mp3
+    - [does not need to be indexed] /home/nuub/Downloads/mc2method.org/41-Ocean-10min.mp3

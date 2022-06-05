@@ -122,3 +122,41 @@
 08:20:39 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
 08:20:39 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Cypis - Gdzie jest biały węgorz  (Zejście).mp3
 08:20:39 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+08:22:04 [info] [GaplessTransport] pause
+08:26:10 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Rasputin.mp3
+08:26:10 [info] [Player] new instance created
+08:26:10 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Rasputin.mp3
+08:26:10 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Rasputin.mp3
+08:26:10 [info] [ffmpegdecoder] parsing data stream...
+08:26:10 [info] [GaplessTransport] stop
+08:26:10 [info] [ffmpegdecoder] found audio stream!
+08:26:10 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+08:26:10 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Rasputin.mp3
+08:26:10 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+08:26:11 [info] [Player] new instance created
+08:26:11 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Boney M. - Rasputin.mp3
+08:26:11 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Boney M. - Rasputin.mp3
+08:26:11 [info] [ffmpegdecoder] parsing data stream...
+08:26:11 [info] [ffmpegdecoder] found audio stream!
+08:26:11 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+08:26:11 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Boney M. - Rasputin.mp3
+08:26:11 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+08:26:13 [info] [GaplessTransport] starting track at /home/nuub/Music/Playlists/Liked/Uwu/Boney M. - Rasputin.mp3
+08:26:13 [info] [Player] new instance created
+08:26:13 [info] [GaplessTransport] stop
+08:26:13 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Boney M. - Rasputin.mp3
+08:26:13 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Boney M. - Rasputin.mp3
+08:26:13 [info] [ffmpegdecoder] parsing data stream...
+08:26:13 [info] [ffmpegdecoder] found audio stream!
+08:26:13 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+08:26:13 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Boney M. - Rasputin.mp3
+08:26:13 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+08:26:13 [info] [Player] new instance created
+08:26:13 [info] [Stream] opening /home/nuub/Music/Playlists/Liked/Uwu/Rasputin.mp3
+08:26:13 [info] [LocalFileStream] opening file: /home/nuub/Music/Playlists/Liked/Uwu/Rasputin.mp3
+08:26:13 [info] [ffmpegdecoder] parsing data stream...
+08:26:13 [info] [ffmpegdecoder] found audio stream!
+08:26:13 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+08:26:13 [info] [Streams] found a decoder for /home/nuub/Music/Playlists/Liked/Uwu/Rasputin.mp3
+08:26:13 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+08:26:20 [info] [GaplessTransport] stop
