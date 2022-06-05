@@ -441,6 +441,8 @@ bindsym Mod1+i exec itch
 
 #Removed mycli as I wasn't using it much
 
+#[S]potify
+bindsym Mod1+s exec spotify
 
 #[NU]clear
 #bindsym Mod1+u exec nuclear #Removed
