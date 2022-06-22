@@ -50,6 +50,45 @@ repo='github/copilot.vim'
 merged=false
 
 [[custom_plugins]]
+repo='davidhalter/jedi-vim'
+merged=false
+
+[[custom_plugins]]
+repo='junegunn/goyo.vim'
+merged=false
+
+[[custom_plugins]]
+repo='junegunn/fzf.vim'
+merged=false
+
+[[custom_plugins]]
+repo='preservim/vim-markdown'
+merged=false
+
+[[layers]]
+name="lang#lisp"
+
+[[layers]]
+name="land#python"
+python_indent_style = "tab"
+python_indent_level = 4
+python_indent_guides = true
+python_file_head = [
+  "!/usr/bin/env python",
+  '# -*- coding: utf-8 -*-',
+  '',
+  '']
+format_on_save = true
+enabled_linters = ['python', 'pylint']
+
+
+[[layers]]
+  name = 'lsp'
+  enabled_clients = ['pyright']
+
+
+
+[[custom_plugins]]
 repo='chrisbra/Colorizer'
 merged=false
 

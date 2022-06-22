@@ -107,3 +107,21 @@ fish
 yay -S xcursor
 yay -S xcursor*
 fish
+export LD_LIBRARY_PATH=/usr/local/boost_1_54_0/stage/lib:$LD_LIBRARY_PATH
+musikcube
+musikcube
+echo $PATH
+echo $LD_LIBRARY_PATH
+echo $LD_LIBRARY_PATH
+$LD_LIBRARY_PATH
+$LD_LIBRARY_PATH
+$LD_LIBRARY_PAT
+x=["alacritty","dmenu"]
+echo $x
+x="alacritty dmenu"
+echo $x
+yay -S $x
+x="alacritty" "dmenu"
+x="alacritty" "dmenu"
+x="alacritty" "dmenu"
+x="alacritty" "dmenu"

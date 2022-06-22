@@ -1,4 +1,4 @@
-85
+89
 12
 id: 6df38256-9ee7-494b-b0a6-610d1a5f5b8b
 file: Da_Vincis_Demons_S02E02.avi
@@ -219,8 +219,20 @@ progress: 0
 tempfolder: /home/nuub/.xdman/temp
 queueid: 
 formatIndex: 0
+11
+id: e1fcdead-59e7-42b3-afc9-2ceaf573bc6a
+file: Da_Vincis_Demons_S02E10.avi
+category: 30
+state: 100
+date: 2022-06-12 17:06:54
+downloaded: 475208914
+size: 475208914
+progress: 97
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
 12
-id: 3910be01-ab98-4a85-96ec-1ca39738ecb9
+id: 5ff76d67-e0b0-4a17-9bcd-4d79547c5ed2
 file: download.php
 category: 60
 state: 130
@@ -233,7 +245,7 @@ tempfolder: /home/nuub/.xdman/temp
 queueid: 
 formatIndex: 0
 12
-id: 5ff76d67-e0b0-4a17-9bcd-4d79547c5ed2
+id: 3910be01-ab98-4a85-96ec-1ca39738ecb9
 file: download.php
 category: 60
 state: 130
@@ -337,19 +349,6 @@ tempfolder: /home/nuub/.xdman/temp
 queueid: 
 formatIndex: 0
 12
-id: ef6053b6-0ca2-4cc1-9602-0a9c9eb4d47a
-file: download.php
-category: 60
-state: 130
-folder: /home/nuub/Downloads
-date: 2022-05-11 16:43:18
-downloaded: 0
-size: 0
-progress: 0
-tempfolder: /home/nuub/.xdman/temp
-queueid: 
-formatIndex: 0
-12
 id: 2399945d-cef6-4add-b7e9-2b20da73b721
 file: Da_Vincis_Demons_S01E03.avi
 category: 30
@@ -372,6 +371,19 @@ date: 2022-05-16 12:09:42
 downloaded: 339410642
 size: 339410642
 progress: 97
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: ef6053b6-0ca2-4cc1-9602-0a9c9eb4d47a
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
 tempfolder: /home/nuub/.xdman/temp
 queueid: 
 formatIndex: 0
@@ -506,19 +518,6 @@ tempfolder: /home/nuub/.xdman/temp
 queueid: 
 formatIndex: 0
 12
-id: c75a9010-06b3-467d-89e2-eede4f3ad437
-file: download.php
-category: 60
-state: 130
-folder: /home/nuub/Downloads
-date: 2022-05-11 16:43:18
-downloaded: 0
-size: 0
-progress: 0
-tempfolder: /home/nuub/.xdman/temp
-queueid: 
-formatIndex: 0
-12
 id: 9afb62c8-c30f-4abc-9ee5-2f964fdcc291
 file: Da_Vincis_Demons_S01E04.avi
 category: 30
@@ -541,6 +540,19 @@ date: 2022-05-16 12:06:23
 downloaded: 491975518
 size: 491975518
 progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: c75a9010-06b3-467d-89e2-eede4f3ad437
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
 tempfolder: /home/nuub/.xdman/temp
 queueid: 
 formatIndex: 0
@@ -670,6 +682,18 @@ folder: /home/nuub/Downloads
 date: 2022-05-11 16:43:18
 downloaded: 0
 size: 0
+progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 52bd5c4a-480d-4f19-8cbf-f9234a3f590b
+file: U0IDWLQb#zVhvqQ4n98PRHwaSWcO7ifxxMmYWmXrxQFYqTlzph90.html
+category: 10
+state: 100
+date: 2022-06-13 22:20:08
+downloaded: 2214
+size: 2214
 progress: 0
 tempfolder: /home/nuub/.xdman/temp
 queueid: 
@@ -827,6 +851,19 @@ date: 2022-05-11 16:43:18
 downloaded: 0
 size: 0
 progress: 0
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 85d922c4-f2d6-4d4e-b142-82dcdb6ddcf3
+file: Harem_Hotel-v0.15.1-pc.zip
+category: 50
+state: 130
+folder: /home/nuub/Downloads/Compressed
+date: 2022-06-15 02:13:10
+downloaded: 902623524
+size: 10535884378
+progress: 8
 tempfolder: /home/nuub/.xdman/temp
 queueid: 
 formatIndex: 0
@@ -999,6 +1036,19 @@ tempfolder: /home/nuub/.xdman/temp
 queueid: 
 formatIndex: 0
 12
+id: 7133b107-0dfd-44c1-b1de-8e9a8aafa3b0
+file: CorruptedLove-0.5-pc.zip
+category: 50
+state: 100
+folder: /home/nuub/Downloads/Compressed
+date: 2022-06-13 20:40:25
+downloaded: 1093690189
+size: 1093690189
+progress: 99
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
 id: c0119bf2-91df-40bb-a18b-e4d16e373a6d
 file: Da_Vincis_Demons_S01E05.avi
 category: 30
@@ -1037,19 +1087,6 @@ tempfolder: /home/nuub/.xdman/temp
 queueid: 
 formatIndex: 0
 12
-id: 36c26856-fbd0-412b-99d8-8cc148f30801
-file: download.php
-category: 60
-state: 130
-folder: /home/nuub/Downloads
-date: 2022-05-11 16:43:18
-downloaded: 0
-size: 0
-progress: 0
-tempfolder: /home/nuub/.xdman/temp
-queueid: 
-formatIndex: 0
-12
 id: b8ed9b45-8a7b-4ed6-a0f4-ea15e6d19c65
 file: Da_Vincis_Demons_S03E09.avi
 category: 30
@@ -1059,6 +1096,19 @@ date: 2022-05-16 12:09:42
 downloaded: 395795992
 size: 395795992
 progress: 98
+tempfolder: /home/nuub/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 36c26856-fbd0-412b-99d8-8cc148f30801
+file: download.php
+category: 60
+state: 130
+folder: /home/nuub/Downloads
+date: 2022-05-11 16:43:18
+downloaded: 0
+size: 0
+progress: 0
 tempfolder: /home/nuub/.xdman/temp
 queueid: 
 formatIndex: 0
