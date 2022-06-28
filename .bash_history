@@ -125,3 +125,66 @@ x="alacritty" "dmenu"
 x="alacritty" "dmenu"
 x="alacritty" "dmenu"
 x="alacritty" "dmenu"
+alist=$(echo "Abh")
+echo $alist
+split
+split --help
+split Abhijit is hae
+split "Abhijit is hae"
+IFS= 
+read -ra text<<< "Abhijit is gae"
+read -ra text<<< "Abhijit is gae"
+IFS=" "
+read -ra text<<< "Abhijit is gae"
+echo $text
+echo $text[@]
+echo $text[@]2
+for val in "{$test[@]}"; do echo $val; done
+read -ra text<<< "Abhijit is gae"
+for val in "{$test[@]}"; do echo $val; done
+for val in "${test[@]}"; do echo $val; done
+for val in "${test[@]}"; do echo $val; done
+read -ra text<<< "Abhijit is gae"
+for val in "${test[@]}"; do echo $val; done
+text="Welcome to GeeksforGeeks"
+# Set space as the delimiter
+IFS=' '
+# Read the split words into an array
+# based on space delimiter
+read -ra newarr <<< "$text"
+# Print each value of the array by using
+# the loop
+for val in "${newarr[@]}"; do  echo "$val"; done
+for val in "${newarr[@]}"; do  echo "$val"; done
+text="Abhijit fadfds fasdfdsafdasfdsaf    fasdfdsa"
+read -ra newarr <<< "$text"
+# Print each value of the array by using
+# the loop
+for val in "${newarr[@]}"; do  echo "$val"; done
+list=$(sudo fdisk -l | grep part)
+read -ra newarr <<< "$list"
+for val in "${newarr[@]}"; do  echo "$val"; done
+for val in "${newarr[@]}"; do  echo "$val"; done
+for val in "${newarr[@]}"; do  echo "$val"; done
+for val in "${newarr[@]}"; do  echo "$val"; done
+echo $list
+sudo fdisk -l | grep part
+sudo fdisk -l 
+sudo lsblk -l | grep part
+sudo lsblk -l | grep disk
+list=$(lsblk | grep disk)
+read -ra newarr <<< "$list"
+echo $newarr 
+for val in "${newarr[@]}"; do  echo "$val"; done
+echo $list
+echo $list[1]
+echo ${list[1]}
+echo ${list[@]}
+echo ${list[2]}
+echo ${list[0]}
+for val in "${list[@]}"; do  echo $val non done; ;
+for val in "${list[@]}"; do  echo $val; done
+for val in "${list[@]}"; do  echo $val non; done
+mpv <p><a href="https://trainingportal.linuxfoundation.org/learn/course/introduction-to-open-source-development-git-and-linux-lfd201/introduction/course-information?wvideo=10f19erkts"><img src="https://embed-ssl.wistia.com/deliveries/a03130961870c91f324ef98cb4114a31.jpg?image_play_button_size=2x&amp;image_crop_resized=960x532&amp;image_play_button=1&amp;image_play_button_color=0185e5e0" style="width: 400px; height: 225px;" width="400" height="225"></a></p><p><a href="https://trainingportal.linuxfoundation.org/learn/course/introduction-to-open-source-development-git-and-linux-lfd201/introduction/course-information?wvideo=10f19erkts">Introduction to Open Source Development, Git and Linux (LFD201) - Course Information | The Linux Foundation</a></p>
+mpv <p><a href="https://trainingportal.linuxfoundation.org/learn/course/introduction-to-open-source-development-git-and-linux-lfd201/introduction/course-information?wvideo=10f19erkts"><img src="https://embed-ssl.wistia.com/deliveries/a03130961870c91f324ef98cb4114a31.jpg?image_play_button_size=2x&amp;image_crop_resized=960x532&amp;image_play_button=1&amp;image_play_button_color=0185e5e0" style="width: 400px; height: 225px;" width="400" height="225"></a></p><p><a href="https://trainingportal.linuxfoundation.org/learn/course/introduction-to-open-source-development-git-and-linux-lfd201/introduction/course-information?wvideo=10f19erkts">Introduction to Open Source Development, Git and Linux (LFD201) - Course Information | The Linux Foundation</a></p>
+fish
